@@ -1,2 +1,2 @@
-# Tales from the Skyrim Holds
+# Tales from Skyrim's Holds
 
