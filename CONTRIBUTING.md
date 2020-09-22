@@ -12,4 +12,4 @@ Contributing to the Modlist itself is straight forward. You can have a [Feature 
 
 ### Issues
 
-Similar to [Feature Requests](#feature-requests), go to the GitHub [Issues](https://github.com/ixanza/xanzas_lotd/issues) page and check if your issue was already reported. If you found no similar posts, create a new issue by clicking the green `New issues` button in the top right corner. Select `Bug report` and fill out the document.
+Similar to [Feature Requests](#feature-requests), go to the GitHub [Issues](https://github.com/EzioTheDeadPoet/Tales-from-Skyrims-Holds/issues) page and check if your issue was already reported. If you found no similar posts, create a new issue by clicking the green `New issues` button in the top right corner. Select `Bug report` and fill out the document.
