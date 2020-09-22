@@ -24,6 +24,10 @@
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
     - [Zoomed in Display](#zoomed-in-display)
     - [Removing the Modlist](#removing-the-modlist)
+  - [Credits and Thanks](#credits-and-thanks)
+  - [Contact](#contact)
+  - [Contributing](#contributing)
+  - [Changelog](#changelog)
 
 ## Preamble
 
@@ -163,3 +167,22 @@ This can be caused by Window's Display Scaling feature. This usually is set to a
 ### Removing the Modlist
 
 You can just remove the MO2 folder and be done with it. SKSE and ReShade files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ReShade.
+
+## Credits and Thanks
+
+- _YOU_ for actually reading the readme. Thanks a ton!!
+- Xanza for writing most of this for his modlist.
+- erri120 & jdsmith2816 - Repository template
+- Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
+
+## Contact
+
+While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/EzioTheDeadPoet/Tales-from-Skyrims-Holds/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+
+## Contributing
+
+See [Contributing](CONTRIBUTING.md).
+
+## Changelog
+
+See [Changelog](CHANGELOG.md).
