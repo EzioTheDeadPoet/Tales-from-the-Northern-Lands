@@ -19,6 +19,9 @@
     - [Copy Game Folder Files](#copy-game-folder-files)
   - [How to start up Tales from Skyrim's Holds](#how-to-start-up-tales-from-skyrims-holds)
   - [Updating](#updating)
+  - [In-Game MCM Options](#in-game-mcm-options)
+    - [All Geared up Deriv](#all-geared-up-deriv)
+    - [A Matter of Time (Preference)](#a-matter-of-time-preference)
   - [Other Post Installation FAQ](#other-post-installation-faq)
     - [Ultrawide Options](#ultrawide-options)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
@@ -138,6 +141,53 @@ If this Modlist receives an update please check the Changelog before doing anyth
 This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+
+## In-Game MCM Options
+
+Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
+Mods or sections with (Preference) next to their name is solely preferential and do not affect the balance of the game.
+
+### All Geared up Deriv
+
+- Player (Preference)
+  - Enable Mic Item Display: `Disabled`
+- NPC:
+  - Enable Weapons (Preference): `Enabled`
+  - Enable Misc Item Display: `Disabled` (There's been numerous reports of NPCs crashing with this Enabled. Hence, it's recommended to be Disabled)
+
+### A Matter of Time
+
+- Presets:
+  - Load user settings
+
+### P.W.E.R
+
+- Settings
+  - Followers enabled: `Enabled` (If you want your followers to be as powerful as you are.)
+
+### VioLens
+
+- Profile System
+  - Load "TFSH-Profile"
+
+### Widget Mod
+
+- Maintainance
+  - Load User Settings
+
+### XPMSSE (Preference)
+
+**Note:**
+Xanza found that using these settings reduces save bloat by quite a bit.
+
+- Styles:
+  - Disable Style Cloak Spell: `Enabled`
+  - Style Fitting Animations (All): `Disabled`
+  - Style Fitting Dual Wield Animations (All): `Disabled`
+  - Style Fitting Shield Animations (All): `Disabled`
+  - Style Fitting Mixed Animations (All): `Disabled`
+
+The rest can be set up however you like. I personally have Swords on back
 
 ## Other Post Installation FAQ
 
