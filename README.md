@@ -31,7 +31,7 @@
 
 ## Preamble
 
-![tfsh-banner](cover/Cover.png)
+![tfsh-banner](cover/tfsh-banner.png)
 
 This is a visual overhaul of Skyrim that tries to mimic the look of the "Tales of/from ..." Series, "The Wolf Among Us" and mainly "Borderlands" with their cell shaded visuals. The Visual Overhaul I used to create this list was stylized in a for my taste way to reflective way but I liked the textures themself so I have changed most of the normal maps of the textures i came around while testing this list. There are for sure textures missing that treatment but I will update this list everytime I update more of the normal maps to be less reflective.
 
