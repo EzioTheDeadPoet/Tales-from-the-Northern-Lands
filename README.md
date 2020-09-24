@@ -21,7 +21,11 @@
   - [Updating](#updating)
   - [In-Game MCM Options](#in-game-mcm-options)
     - [All Geared up Deriv](#all-geared-up-deriv)
-    - [A Matter of Time (Preference)](#a-matter-of-time-preference)
+    - [A Matter of Time](#a-matter-of-time)
+    - [P.W.E.R.](#pwer)
+    - [VioLens](#violens)
+    - [Widget Mod](#widget-mod)
+    - [XPMSSE (Preference)](#xpmsse-prefernece)
   - [Other Post Installation FAQ](#other-post-installation-faq)
     - [Ultrawide Options](#ultrawide-options)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
@@ -124,9 +128,14 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 
 Copy the all of the files from the `Installation Folder/Game Folder Files` directory into your game folder.
 
-___
-**MODS TO LOOK OUT FOR IS STILL A WIP SECTION!!!**
-___
+## Mods to tweak to your taste
+
+### Customizable UI Replacer
+
+Customizable UI Replacer has multiple good looking presets.
+
+- To test other presets just right-click the `Customizable UI Replacer` Mod and hit reinstall and select the preset you want.
+- Once `Customizable UI Replacer` is reinstalled follow the steps for [A Matter of Time](#a-matter-of-time) and [Widget Mod](#widget-mod).
 
 ## How to start up Tales from Skyrim's Holds
 
@@ -150,7 +159,10 @@ Mods or sections with (Preference) next to their name is solely preferential and
 ### All Geared up Deriv
 
 - Player (Preference)
-  - Enable Mic Item Display: `Disabled`
+  - Weapons - Player
+    - Display Options
+      - Shield stays on arm while Equipped: `Enabled`
+  - Enable Misc Item Display: `Disabled`
 - NPC:
   - Enable Weapons (Preference): `Enabled`
   - Enable Misc Item Display: `Disabled` (There's been numerous reports of NPCs crashing with this Enabled. Hence, it's recommended to be Disabled)
