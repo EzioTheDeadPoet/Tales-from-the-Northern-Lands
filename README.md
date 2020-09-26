@@ -57,7 +57,7 @@ I doubt you need to do this since you likely already have this installed. The pa
 
 ##### Disable the Steam Overlay
 
-The Steam Overlay can cause issues with ENB and is recommended to be turned off.
+The Steam Overlay can cause issues with ENB and is recommended to be turned off when using and ENB, this list only uses ReShade which makes this step only necessary if you want to add an enb yourself.
 
 Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
 
