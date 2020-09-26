@@ -22,7 +22,7 @@
   - [In-Game MCM Options](#in-game-mcm-options)
     - [All Geared up Deriv](#all-geared-up-deriv)
     - [A Matter of Time](#a-matter-of-time)
-    - [Dual Wield Parrying][#dual-wield-parrying]
+    - [Dual Wield Parrying](#dual-wield-parrying)
     - [P.W.E.R.](#pwer)
     - [VioLens](#violens)
     - [Widget Mod](#widget-mod)
