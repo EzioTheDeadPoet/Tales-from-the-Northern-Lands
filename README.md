@@ -153,7 +153,7 @@ Updating is like installing. You only have to make sure that you select the same
 ## In-Game MCM Options
 
 Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
-Mods or sections with (Preference) next to their name is solely preferential and do not affect the balance of the game.
+Mods or sections with (Preference) next to their name is solely preferential and do not affect the balance of the game. MCM Pages not covered here have been left on their default settigns by me. You can Tweak those if you want, but if you encounter issues after doing so please revert those changes before reporting an issue.
 
 ### All Geared up Deriv
 
