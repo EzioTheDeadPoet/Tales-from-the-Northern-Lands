@@ -237,6 +237,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ReShade files w
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Xanza for writing most of this for his modlist.
+- Everyone giving me feedback on the artistic choices.
 - erri120 & jdsmith2816 - Repository template
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
 
