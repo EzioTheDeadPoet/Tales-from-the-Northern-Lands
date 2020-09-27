@@ -4,7 +4,7 @@
 
 - [Tales from Skyrim's Holds](#tales-from-skyrims-holds)
   - [Preamble](#preamble)
-  - [Screenshots](#Sceenshots)
+  - [Screenshots](#screenshots)
   - [Installation](#installation)
     - [Pre-Installation](#pre-installation)
       - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
