@@ -49,13 +49,9 @@ This is a visual overhaul of Skyrim that tries to mimic the look of the "Tales o
 
 For the gameplay this list contains mods that intend to make you stronger and feel like and actually special person in Skyrim just like the Vault Hunters and the Dragonborn should be able to feel in their stories.
 
-[[[Back to top]]](#tales-from-skyrims-holds)
-
 ## Screenshots
 
 I have moved this to this [page](SCREENSHOTSDISPLAY.md) since Skyrim is pretty big and has a lot of places and scenes to take screenshots of.
-
-[[[Back to top]]](#tales-from-skyrims-holds)
 
 ## Installation
 
@@ -97,7 +93,7 @@ Or use [Skyrim Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/301
 After you have done everything above and got a clean SSE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
 Start the game and exit once you're in the main menu.
 
-[[[Back to top]]](#tales-from-skyrims-holds)
+[[Back to top]](#tales-from-skyrims-holds)
 
 ### Using Wabbajack
 
@@ -137,13 +133,13 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2 saying a threat was detected . This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for windows defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
+[[Back to top]](#tales-from-skyrims-holds)
+
 ## Post-Installation
 
 ### Copy Game Folder Files
 
 Copy the all of the files from the `Installation Folder/Game Folder Files` directory into your game folder.
-
-[[[Back to top]]](#tales-from-skyrims-holds)
 
 ## Mods to tweak to your taste
 
@@ -222,7 +218,7 @@ Xanza found that using these settings reduces save bloat by quite a bit.
 
 The rest can be set up however you like. I personally have Swords on back
 
-[[[Back to top]]](#tales-from-skyrims-holds)
+[[Back to top]](#tales-from-skyrims-holds)
 
 ## Other Post Installation FAQ
 
@@ -282,4 +278,4 @@ See [Changelog](CHANGELOG.md).
 
 ***
 
-[[[Back to top]]](#tales-from-skyrims-holds)
+[[Back to top]](#tales-from-skyrims-holds)

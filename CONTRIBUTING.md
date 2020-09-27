@@ -1,6 +1,6 @@
 # Contributing
 
-[[[Back to README]]](/README.md)
+[[Back to README]](/README.md)
 
 There are many ways that you can contribute to this modlist. Pick one of the parts below that you want to contribute to:
 
@@ -57,4 +57,4 @@ by [Luca|EzioTheDeadPoet](https://github.com/EzioTheDeadPoet)
 
 ***
 
-[[[Back to README]]](/README.md) [[[Back to top]]](#contributing)
+[[Back to README]](/README.md) [[Back to top]](#contributing)

@@ -1,6 +1,6 @@
 # Changelog
 
-[[[Back to README]]](/README.md)
+[[Back to README]](/README.md)
 
 ## 1.0.0: Tales from Skyrim's Holds
 
@@ -12,4 +12,4 @@
 
 ***
 
-[[[Back to README]]](/README.md) [[[Back to top]]](#changelog)
+[[Back to README]](/README.md) [[Back to top]](#changelog)

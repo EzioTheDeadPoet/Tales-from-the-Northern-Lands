@@ -1,6 +1,6 @@
 # Screenshot Display
 
-[[[Back to README]]](/README.md#Sceenshots)
+[[Back to README]](/README.md#Sceenshots)
 
 - [Screenshot Display](#screenshot-display)
   - [Pre-Release Screenshots](#pre-release-screenshots)
@@ -79,4 +79,4 @@ See [Contributing](CONTRIBUTING.md).
 
 ***
 
-[[[Back to README]]](/README.md#Sceenshots) [[[Back to top]]](#screenshot-display)
+[[Back to README]](/README.md#Sceenshots) [[Back to top]](#screenshot-display)

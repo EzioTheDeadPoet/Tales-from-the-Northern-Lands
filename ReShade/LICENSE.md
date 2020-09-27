@@ -12,4 +12,4 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 
 ***
 
-[[[Back to README]]](/README.md#credits-and-thanks)
+[[Back to README]](/README.md#credits-and-thanks)
