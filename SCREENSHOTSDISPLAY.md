@@ -75,7 +75,7 @@ Hey nothing here yet so you can be the first.
 
 ## Contributing
 
-See [Contributing](CONTRIBUTING.md).
+See [Contributing](https://github.com/EzioTheDeadPoet/Tales-from-Skyrims-Holds/blob/master/CONTRIBUTING.md#contributing).
 
 ***
 
