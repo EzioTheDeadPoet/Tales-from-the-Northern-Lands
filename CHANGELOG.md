@@ -1,9 +1,9 @@
 # Changelog
 
-## 0.0.0: Pre-release Phase
+## 1.0.0: Tales from Skyrim's Holds
 
-### Released at: `00.00.0000`
+### Released at: `27.09.2020`
 
 ### Info
 
-- still WIP
+- initial realease
