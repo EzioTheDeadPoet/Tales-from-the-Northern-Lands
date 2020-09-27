@@ -274,7 +274,7 @@ See [Changelog](CHANGELOG.md).
 
 ## Licenses
 
-[ReShade License](ReShade/RESHADELICENSE.md)
+- [ReShade License](ReShade/RESHADELICENSE.md)
 
 ***
 

@@ -1,4 +1,4 @@
-# Contributing
+# Contributing (Webview)
 
 [[Back to README]](/README.md)
 
@@ -57,4 +57,4 @@ by [Luca|EzioTheDeadPoet](https://github.com/EzioTheDeadPoet)
 
 ***
 
-[[Back to README]](/README.md) [[Back to top]](#contributing)
+[[Back to README]](/README.md) [[Back to top]](#contributing-webview)
