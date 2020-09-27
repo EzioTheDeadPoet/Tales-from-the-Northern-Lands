@@ -1,7 +1,10 @@
-# ![tfsh-banner](Cover/tfsh-banner.png)
+# Tales from Skyrim's Holds
 
-- [Tales from Skyrim's Holds](#)
+## Index
+
+- [Tales from Skyrim's Holds](#tales-from-skyrims-holds)
   - [Preamble](#preamble)
+  - [Screenshots](#Sceenshots)
   - [Installation](#installation)
     - [Pre-Installation](#pre-installation)
       - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
@@ -17,6 +20,8 @@
         - [Problems with Wabbajack](#problems-with-wabbajack)
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
+  - [Mods to tweak to your taste](#mods-to-tweak-to-your-taste)
+    - [Cutsomizable UI Replacer](#customizable-ui-replacer)
   - [How to start up Tales from Skyrim's Holds](#how-to-start-up-tales-from-skyrims-holds)
   - [Updating](#updating)
   - [In-Game MCM Options](#in-game-mcm-options)
@@ -36,12 +41,21 @@
   - [Contact](#contact)
   - [Contributing](#contributing)
   - [Changelog](#changelog)
+  - [Licenses](#licenses)
 
 ## Preamble
 
 This is a visual overhaul of Skyrim that tries to mimic the look of the "Tales of/from ..." Series, "The Wolf Among Us" and mainly "Borderlands" with their cell shaded visuals. The Visual Overhaul I used to create this list was stylized in a for my taste way to reflective way but I liked the textures themself so I have changed most of the normal maps of the textures i came around while testing this list. There are for sure textures missing that treatment but I will update this list everytime I update more of the normal maps to be less reflective.
 
 For the gameplay this list contains mods that intend to make you stronger and feel like and actually special person in Skyrim just like the Vault Hunters and the Dragonborn should be able to feel in their stories.
+
+[[[Back to top]]](#tales-from-skyrims-holds)
+
+## Screenshots
+
+I have moved this to this [page](SCREENSHOTSDISPLAY.md) since Skyrim is pretty big and has a lot of places and scenes to take screenshots of.
+
+[[[Back to top]]](#tales-from-skyrims-holds)
 
 ## Installation
 
@@ -82,6 +96,8 @@ Or use [Skyrim Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/301
 
 After you have done everything above and got a clean SSE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
 Start the game and exit once you're in the main menu.
+
+[[[Back to top]]](#tales-from-skyrims-holds)
 
 ### Using Wabbajack
 
@@ -126,6 +142,8 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 ### Copy Game Folder Files
 
 Copy the all of the files from the `Installation Folder/Game Folder Files` directory into your game folder.
+
+[[[Back to top]]](#tales-from-skyrims-holds)
 
 ## Mods to tweak to your taste
 
@@ -204,6 +222,8 @@ Xanza found that using these settings reduces save bloat by quite a bit.
 
 The rest can be set up however you like. I personally have Swords on back
 
+[[[Back to top]]](#tales-from-skyrims-holds)
+
 ## Other Post Installation FAQ
 
 ### Ultrawide Options
@@ -238,6 +258,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ReShade files w
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Xanza for writing most of this for his modlist.
 - Everyone giving me feedback on the artistic choices.
+- the creator of ReShade with its generous [License](ReShade/LICENSE.md#reshade-license) that allows me to include it.
 - erri120 & jdsmith2816 - Repository template
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
 
@@ -245,10 +266,20 @@ You can just remove the MO2 folder and be done with it. SKSE and ReShade files w
 
 While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/EzioTheDeadPoet/Tales-from-Skyrims-Holds/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
 
+**DON'T CONTACT MOD-AUTHORS WITH ISSUES OR I WILL HAVE TO TAKE ACTIONS THAT WILL RESULT WITH YOU BEING BANNED FROM WABBAJACK.**
+
 ## Contributing
 
-See [Contributing](https://github.com/EzioTheDeadPoet/Tales-from-Skyrims-Holds/blob/master/CONTRIBUTING.md).
+See [Contributing](CONTRIBUTING.md).
 
 ## Changelog
 
 See [Changelog](CHANGELOG.md).
+
+## Licenses
+
+[ReShade License](ReShade\LICENSE.md)
+
+***
+
+[[[Back to top]]](#tales-from-skyrims-holds)
