@@ -208,7 +208,7 @@ The rest can be set up however you like. I personally have Swords on back
 
 ### Ultrawide Options
 
-If you have an ultrawide monitor (21:9), the UI will be off. You will want to reinstall Dear Diary with the widescreen option. Pick any options on the FOMOD you want but ensure Extended UI, More Informative Console and Morehud is ticked.
+If you have an ultrawide monitor (21:9), the UI will be off. You will want to install Dear Diary with the widescreen option. Pick any options on the FOMOD you want but ensure Extended UI, More Informative Console and Morehud is ticked.
 You will also want to install the SkyHud - High Resolution Widescreen Fix from [here](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?).
 
 ### Tweaking the Game Settings
