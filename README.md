@@ -266,7 +266,9 @@ While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbaja
 
 ## Contributing
 
-See [Contributing](https://github.com/EzioTheDeadPoet/Tales-from-Skyrims-Holds/blob/master/CONTRIBUTING.md#contributing).
+See [Contributing GitHub File](https://github.com/EzioTheDeadPoet/Tales-from-Skyrims-Holds/blob/master/CONTRIBUTING.md#contributing).\
+See [Contributing Webview](https://eziothedeadpoet.github.io/Tales-from-Skyrims-Holds/CONTRIBUTING.html)(WIP)\
+See [Contributing RAW](CONTRIBUTING.md)
 
 ## Changelog
 
