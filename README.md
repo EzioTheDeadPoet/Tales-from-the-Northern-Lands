@@ -254,7 +254,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ReShade files w
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Xanza for writing most of this for his modlist.
 - Everyone giving me feedback on the artistic choices.
-- the creator of ReShade with its generous [License](ReShade/LICENSE.md#reshade-license) that allows me to include it.
+- the creator of ReShade with its generous [License](ReShade/RESHADELICENSE.md#reshade-license) that allows me to include it.
 - erri120 & jdsmith2816 - Repository template
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
 
@@ -266,7 +266,7 @@ While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbaja
 
 ## Contributing
 
-See [Contributing](CONTRIBUTING.md).
+See [Contributing](CONTRIBUTING(WEB).md).
 
 ## Changelog
 
@@ -274,7 +274,7 @@ See [Changelog](CHANGELOG.md).
 
 ## Licenses
 
-[ReShade License](ReShade/LICENSE.md)
+[ReShade License](ReShade/RESHADELICENSE.md)
 
 ***
 
