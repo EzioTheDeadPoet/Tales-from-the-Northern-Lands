@@ -2,7 +2,7 @@
 
 There are many ways that you can contribute to this modlist. Pick one of the parts below that you want to contribute to:
 
-- [Contributing](#contributing)
+- [Contributing](#how-to-contribute)
   - [Modlist](#modlist)
     - [Issues](#issues)
   - [Screenshots](#screenshots)
