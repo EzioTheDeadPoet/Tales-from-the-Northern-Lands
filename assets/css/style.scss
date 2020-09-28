@@ -1,6 +1,26 @@
 ---
 ---
 
+div.highlight {
+	background: #526B67;
+}
+
+div.highlighter-rouge {
+	background: #526B67;
+}
+
+div.language-md {
+	background: #526B67;
+}
+
+code {
+	background: #526B67;
+}
+
+span.nv {
+	color: #c5651b;
+}
+
 @import "{{ site.theme }}";
 
 a.wabbajack {
@@ -145,6 +165,10 @@ div.highlighter-rouge {
 }
 
 div.language-md {
+	background: #526B67;
+}
+
+code {
 	background: #526B67;
 }
 
