@@ -140,9 +140,24 @@ div.highlight {
 }
 
 div.language-md {
-	width: auto;
-    height: auto;
-	background: #526B67;
+	font-weight: 400;
+	--maxWidth: 1284px;
+	overflow-wrap: break-word;
+	tab-size: 2;
+	word-break: normal;
+	hyphens: none;
+	box-sizing: border-box;
+	font-family: Operator Mono A,Operator Mono B,Source Code Pro,Menlo,Consolas,Monaco,monospace;
+	background: 0 0;
+	padding: 15px 20px 12px 22px;
+	white-space: pre;
+	display: block;
+	overflow-x: scroll;
+	max-width: 100%;
+	min-width: 100px;
+	font-size: 16px;
+	line-height: 1.75;
+	color: #f5d67b;
 }
 
 span.nv {
