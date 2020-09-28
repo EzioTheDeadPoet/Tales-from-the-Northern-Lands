@@ -135,10 +135,18 @@ section {
 	padding-left: 200px ;
 }
 
+div.language-md.highlighter-rouge {
+	background-color: #262D37;
+}
+
 pre.highlight {
 	background-color: #526B67;
 }
 
-span.nv.highlight {
+.nv {
 	color: #c5651b;
+}
+
+.err {
+	background:transparent;
 }
