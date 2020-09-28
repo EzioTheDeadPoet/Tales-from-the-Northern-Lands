@@ -1,1 +1,7 @@
 theme: jekyll-theme-dinky
+show_downloads: true
+wabbajack:
+  wabbajack_url: https://www.wabbajack.org/#/
+github:
+  modlistrelases_url: https://github.com/EzioTheDeadPoet/Tales-from-Skyrims-Holds/releases
+  modlist_url: https://github.com/EzioTheDeadPoet/Tales-from-Skyrims-Holds/releases/download/v1.0/Tales.from.Skyrim.s.Holds.wabbajack
