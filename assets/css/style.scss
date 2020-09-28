@@ -36,7 +36,7 @@ body {
 	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
 	  font-size: 14px;
 	  color: #8b8b8b;
-	  background-color: #4e00b4;
+	  background-color: #3a0392;
 	  margin: 0;
 	  line-height: 1.8em;
 	  -webkit-font-smoothing: antialiased;
@@ -75,8 +75,10 @@ a {
 code, pre {
 	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 	background-color: #b69b00ad;
-  	color:#00025f;
-  	font-size:14px;
+	color:#00025f;
+	padding: 4px 4px 4px 4px;
+	margin: 2px 2px 2px 2px;
+	font-size:14px;
 }
  
 a small {
