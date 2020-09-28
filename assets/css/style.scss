@@ -62,7 +62,7 @@ header {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	color:#FBF8F1;
+	color:#D58546;
 	margin:36px 0 10px;
   }
 
@@ -74,9 +74,21 @@ a {
 
 code, pre {
 	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
+	background: #526B67;
+	color: #FBF8F1;
 	padding: 2px 2px 2px 2px;
 	margin: 1px 1px 1px 1px;
 	font-size:14px;
+}
+
+pre {
+	padding: 4px 12px;
+  	background: #526B67;
+ 	border-radius:4px;
+	border:1px solid #D58546;
+ 	overflow: auto;
+  	overflow-y: hidden;
+  	margin-bottom: 32px;
 }
  
 a small {
