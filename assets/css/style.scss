@@ -30,3 +30,48 @@ a.releases {
 a.license {
 	background: url(../images/baseline_receipt_white_18dp.png) no-repeat 1px;
 }
+
+body {
+	padding:10px 50px 0 0;
+	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
+	  font-size: 14px;
+	  color: #8b8b8b;
+	  background-color: #321742;
+	  margin: 0;
+	  line-height: 1.8em;
+	  -webkit-font-smoothing: antialiased;
+  
+  }
+
+header {
+	background-color: #1c03559c;
+	color: #8b8b8b;
+  width:170px;
+  float:left;
+  position:fixed;
+	border: 1px solid #000;
+	-webkit-border-top-right-radius: 4px;
+	-webkit-border-bottom-right-radius: 4px;
+	-moz-border-radius-topright: 4px;
+	-moz-border-radius-bottomright: 4px;
+	border-top-right-radius: 4px;
+	border-bottom-right-radius: 4px;
+	padding: 34px 25px 22px 50px;
+	margin: 30px 25px 0 0;
+	-webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color:#8b8b8b;
+	margin:36px 0 10px;
+  }
+
+a {
+	color:#8d41cc;
+	font-weight:200;
+	text-decoration:none;
+  }
+
+a small {
+	font-size: 8px;
+}
