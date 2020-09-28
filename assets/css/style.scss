@@ -35,8 +35,8 @@ body {
 	padding:10px 50px 0 0;
 	font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
 	  font-size: 14px;
-	  color: #8b8b8b;
-	  background-color: #3a0392;
+	  color: #ceac7a;
+	  background-color: #2E2C17;
 	  margin: 0;
 	  line-height: 1.8em;
 	  -webkit-font-smoothing: antialiased;
@@ -44,8 +44,8 @@ body {
   }
 
 header {
-	background-color: #1c03559c;
-	color: #8b8b8b;
+	background-color: #210101d5;
+	color: #FFBE00;
   	width:170px;
   	float:left;
   	position:fixed;
@@ -62,7 +62,7 @@ header {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	color:#c2c2c2;
+	color:#FFBE00;
 	margin:36px 0 10px;
   }
 
@@ -74,10 +74,10 @@ a {
 
 code, pre {
 	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
-	background-color: #b69b00ad;
-	color:#00025f;
-	padding: 4px 4px 4px 4px;
-	margin: 2px 2px 2px 2px;
+	background-color: #5e0000b0;
+	color:#969696;
+	padding: 2px 2px 2px 2px;
+	margin: 1px 1px 1px 1px;
 	font-size:14px;
 }
  
