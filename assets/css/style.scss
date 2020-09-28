@@ -143,10 +143,14 @@ pre.highlight {
 	background-color: #526B67;
 }
 
-.nv {
+.highlight .nv {
 	color: #c5651b;
 }
 
+.highlight {
+	background: #526B67;
+}
+
 .err {
-	background:transparent;
+	background: #526B67;
 }
