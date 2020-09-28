@@ -224,8 +224,19 @@ The rest can be set up however you like. I personally have Swords on back
 
 ### Ultrawide Options
 
-If you have an ultrawide monitor (21:9), the UI will be off. You will want to install Dear Diary with the widescreen option. Pick any options on the FOMOD you want but ensure Extended UI, More Informative Console and Morehud is ticked.
-You will also want to install the SkyHud - High Resolution Widescreen Fix from [here](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?).
+*Please note that I do not own a widescreen setup, and thus cannot help troubleshoot this section. These instructions were provided by @Mantis#1337.*
+
+Go to the [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) page.  
+Download the following files:
+
+- Complete Widescreen Fix for SkyUI 5.2 SE Alpha- 2560x1080  
+- Better Dialogue Control Widescreen Fix
+- Better Message Box Control Widescreen Fix
+- Even Wider Rescaled MCM Menu for SkyUI - Widescreen Fix
+- SkyHud High Resolution Widescreen Fix
+
+Install the archives with Mod Organizer 2. They will be in the right window, under the Downloads section.  
+Be sure to RENAME the mods during installation. You can click the dropdown box and select the appropriate filename for each as you install them.
 
 ### Tweaking the Game Settings
 
