@@ -53,6 +53,8 @@ For the gameplay this list contains mods that intend to make you stronger and fe
 
 ## Screenshots
 
+So I have created a page where you can share your screenshots of this list with others and I really hope you can help me out or have fun sharing screenshots since I am not the best at taking nice looking screenshots myself.
+This list even has a separate profile in Mod Organizer you can use for screenshots with all UI mods disabled if you prefer this approach.
 I have moved this to this [page](SCREENSHOTSDISPLAY.md) since Skyrim is pretty big and has a lot of places and scenes to take screenshots of.
 
 ## Installation
