@@ -72,14 +72,6 @@ a {
 	text-decoration:none;
 }
 
-div.highlight {
-	background: #526B67;
-}
-
-span.nv {
-	color: #c5651b;
-}
-
 code, pre {
 	font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 	background: #526B67;
@@ -142,4 +134,12 @@ section {
 	float:center;
 	padding-bottom:50px;
 	padding-left: 200px ;
-  }
+}
+
+div.highlight {
+	background: #526B67;
+}
+
+span.nv {
+	color: #c5651b;
+}
