@@ -26,7 +26,7 @@ Here two examples how to add sceenshots:
 ### Example without a linked profile or website
 
 ```md
-![screenshot](https://i.imgur.com/BkUbYa1.jpg)
+![screenshot](https://i.imgur.com/BkUbYa1.jpg)\
 by Luca|EzioTheDeadPoet
 ```
 
@@ -34,7 +34,7 @@ Looks like:
 
 ***
 
-![screenshot](https://i.imgur.com/BkUbYa1.jpg)
+![screenshot](https://i.imgur.com/BkUbYa1.jpg)\
 by Luca|EzioTheDeadPoet
 
 ***
@@ -42,7 +42,7 @@ by Luca|EzioTheDeadPoet
 ### Example with a linked profile or website
 
 ```md
-![screenshot](https://i.imgur.com/BkUbYa1.jpg)
+![screenshot](https://i.imgur.com/BkUbYa1.jpg)\
 by [Luca|EzioTheDeadPoet](https://github.com/EzioTheDeadPoet)
 ```
 
@@ -50,7 +50,7 @@ Looks like:
 
 ***
 
-![screenshot](https://i.imgur.com/BkUbYa1.jpg)
+![screenshot](https://i.imgur.com/BkUbYa1.jpg)\
 by [Luca|EzioTheDeadPoet](https://github.com/EzioTheDeadPoet)
 
 ***
