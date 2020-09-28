@@ -11,6 +11,6 @@ pages:
   mainpage_url: https://eziothedeadpoet.github.io/Tales-from-Skyrims-Holds/
   screenshots_url: https://eziothedeadpoet.github.io/Tales-from-Skyrims-Holds/SCREENSHOTSDISPLAY.html
   contribute_url: https://eziothedeadpoet.github.io/Tales-from-Skyrims-Holds/HOWTOCONTRIBUTE.html
-  changelog: https://eziothedeadpoet.github.io/Tales-from-Skyrims-Holds/CHANGELOG.html
+  changelog_url: https://eziothedeadpoet.github.io/Tales-from-Skyrims-Holds/CHANGELOG.html
 reshade:
   license: https://eziothedeadpoet.github.io/Tales-from-Skyrims-Holds/ReShade/RESHADELICENSE.html
