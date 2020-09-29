@@ -69,7 +69,8 @@
 
 ## Version 1.0 Screenshots
 
-Hey nothing here yet so you can be the first.
+![screenshot](https://i.imgur.com/J6IXFtw.png)
+by antun
 
 ## Contributing
 
