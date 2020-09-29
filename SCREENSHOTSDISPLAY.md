@@ -69,7 +69,7 @@
 
 ## Version 1.0 Screenshots
 
-![screenshot](https://i.imgur.com/J6IXFtw.png)
+![screenshot](https://i.imgur.com/RKWZERD.png)
 by antun
 
 ## Contributing
