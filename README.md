@@ -21,7 +21,7 @@
   - [Post-Installation](#post-installation)
     - [Copy Game Folder Files](#copy-game-folder-files)
   - [Mods to tweak to your taste](#mods-to-tweak-to-your-taste)
-    - [Cutsomizable UI Replacer](#customizable-ui-replacer)
+    - [Customizable UI Replacer](#customizable-ui-replacer)
   - [How to start up Tales from Skyrim's Holds](#how-to-start-up-tales-from-skyrims-holds)
   - [Updating](#updating)
   - [In-Game MCM Options](#in-game-mcm-options)
@@ -31,7 +31,7 @@
     - [P.W.E.R.](#pwer)
     - [VioLens](#violens)
     - [Widget Mod](#widget-mod)
-    - [XPMSSE (Preference)](#xpmsse-prefernece)
+    - [XPMSSE (Preference)](#xpmsse-preference)
   - [Other Post Installation FAQ](#other-post-installation-faq)
     - [Ultrawide Options](#ultrawide-options)
     - [Tweaking the Game Settings](#tweaking-the-game-settings)
@@ -47,9 +47,9 @@
 
 ![tfsh-banner](Cover/tfsh-banner.png)
 
-This is a visual overhaul of Skyrim that tries to mimic the look of the "Tales of/from ..." Series, "The Wolf Among Us" and mainly "Borderlands" with their cell shaded visuals. The Visual Overhaul I used to create this list was stylized in a for my taste way to reflective way but I liked the textures themself so I have changed most of the normal maps of the textures i came around while testing this list. There are for sure textures missing that treatment but I will update this list everytime I update more of the normal maps to be less reflective.
+This is a visual overhaul of Skyrim that tries to mimic the look of the "Tales of/from ..." Series, "The Wolf Among Us" and mainly "Borderlands" with their cell shaded visuals. The Visual Overhaul I used to create this list was stylized in a for my taste way to reflective way but I liked the textures them self so I have changed most of the normal maps of the textures i came around while testing this list. There are for sure textures missing that treatment but I will update this list every time I update more of the normal maps to be less reflective.
 
-For the gameplay this list contains mods that intend to make you stronger and feel like and actually special person in Skyrim just like the Vault Hunters and the Dragonborn should be able to feel in their stories.
+For the gameplay this list contains mods that intend to make you stronger and feel like and actually special person in Skyrim just like the Vault Hunters and the Dragonborn should be able to feel in their stories. The main mods to achieve this are SPERG, Skyrim Skill Uncapper and the True Dragonborn preset for it.
 
 ## Screenshots
 
@@ -135,7 +135,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 **Windows is reporting that a virus has been detected**:
 
-Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2 saying a threat was detected . This is a known false postive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for windows defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2 saying a threat was detected . This is a known false positive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for windows defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 [[Back to top]](#tales-from-skyrims-holds)
 
@@ -171,7 +171,7 @@ Updating is like installing. You only have to make sure that you select the same
 ## In-Game MCM Options
 
 Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
-Mods or sections with (Preference) next to their name is solely preferential and do not affect the balance of the game. MCM Pages not covered here have been left on their default settigns by me. You can Tweak those if you want, but if you encounter issues after doing so please revert those changes before reporting an issue.
+Mods or sections with (Preference) next to their name is solely preferential and do not affect the balance of the game. MCM Pages not covered here have been left on their default settings by me. You can Tweak those if you want, but if you encounter issues after doing so please revert those changes before reporting an issue.
 
 ### All Geared up Deriv
 
@@ -205,7 +205,7 @@ Mods or sections with (Preference) next to their name is solely preferential and
 
 ### Widget Mod
 
-- Maintainance
+- Maintenance
   - Load User Settings
 
 ### XPMSSE (Preference)
