@@ -268,6 +268,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ReShade files w
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Xanza for writing most of this for his modlist.
+- ForgottenGlory for making SME(FT) and this modlist possible due to his early support
 - Everyone giving me feedback on the artistic choices.
 - the creator of ReShade with its generous [License](ReShade/RESHADELICENSE.md#reshade-license) that allows me to include it.
 - erri120 & jdsmith2816 - Repository template
