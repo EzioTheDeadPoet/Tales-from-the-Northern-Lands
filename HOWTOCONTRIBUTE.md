@@ -19,9 +19,9 @@ Similar to [Feature Requests](#feature-requests), go to the GitHub [Issues](http
 
 ## Screenshots
 
-If you want to add your screenshots simply edit the [SCREENSHOTSDISPLAY.md](https://github.com/EzioTheDeadPoet/Tales-from-Skyrims-Holds/blob/masterSCREENSHOTSDISPLAY.md) file under the section coresponding to the version of the list you are using, with a pull request here on Github.
+If you want to add your screenshots simply edit the [SCREENSHOTSDISPLAY.md](https://github.com/EzioTheDeadPoet/Tales-from-Skyrims-Holds/blob/masterSCREENSHOTSDISPLAY.md) file under the section corresponding to the version of the list you are using, with a pull request here on Github.
 
-Here two examples how to add sceenshots:
+Here two examples how to add screenshots:
 
 ### Example without a linked profile or website
 
