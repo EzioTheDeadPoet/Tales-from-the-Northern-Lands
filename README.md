@@ -1,8 +1,8 @@
-# Tales from Skyrim's Holds
+# Tales from the Northern Lands
 
 ## Index
 
-- [Tales from Skyrim's Holds](#tales-from-skyrims-holds)
+- [Tales from the Northern Lands](#tales-from-the-northern-lands)
   - [Preamble](#preamble)
   - [Screenshots](#screenshots)
   - [Installation](#installation)
@@ -22,7 +22,7 @@
     - [Copy Game Folder Files](#copy-game-folder-files)
   - [Mods to tweak to your taste](#mods-to-tweak-to-your-taste)
     - [Customizable UI Replacer](#customizable-ui-replacer)
-  - [How to start up Tales from Skyrim's Holds](#how-to-start-up-tales-from-skyrims-holds)
+  - [How to start up Tales from the Northern Lands](#how-to-start-up-tales-from-the-northern-lands)
   - [Updating](#updating)
   - [In-Game MCM Options](#in-game-mcm-options)
     - [All Geared up Deriv](#all-geared-up-deriv)
@@ -97,7 +97,7 @@ Or use [Skyrim Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/301
 After you have done everything above and got a clean SSE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
 Start the game and exit once you're in the main menu.
 
-[[Back to top]](#tales-from-skyrims-holds)
+[[Back to top]](#tales-from-the-northern-lands)
 
 ### Using Wabbajack
 
@@ -110,9 +110,8 @@ Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-to
 The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 1. Open Wabbajack
-2. Click on Install from Disk and select the .wabbajack file of this list, found [here](https://github.com/EzioTheDeadPoet/Tales-from-Skyrims-Holds/releases).
-~~(2. Click on Browse Modlists, and download Tales from Skyrim's Holds from the gallery.)~~
-3. Once the download is done set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Tales from Skyrim's Holds`). The downloads path should automatically fill in the installation path.
+2. Click on Browse Modlists, and download Tales from the Northern Lands from the gallery.)
+3. Once the download is done set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Tales from the Northern Lands`). The downloads path should automatically fill in the installation path.
 4. Click the Go/Begin button
 5. Wait for Wabbajack to finish
 6. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
@@ -137,7 +136,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2 saying a threat was detected . This is a known false positive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for windows defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
-[[Back to top]](#tales-from-skyrims-holds)
+[[Back to top]](#tales-from-the-northern-lands)
 
 ## Post-Installation
 
@@ -154,7 +153,7 @@ Customizable UI Replacer has multiple good looking presets.
 - To test other presets just right-click the `Customizable UI Replacer` Mod and hit reinstall and select the preset you want.
 - Once `Customizable UI Replacer` is reinstalled follow the steps for [A Matter of Time](#a-matter-of-time) and [Widget Mod](#widget-mod).
 
-## How to start up Tales from Skyrim's Holds
+## How to start up Tales from the Northern Lands
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
 
@@ -222,7 +221,7 @@ Xanza found that using these settings reduces save bloat by quite a bit.
 
 The rest can be set up however you like. I personally have Swords on back
 
-[[Back to top]](#tales-from-skyrims-holds)
+[[Back to top]](#tales-from-the-northern-lands)
 
 ## Other Post Installation FAQ
 
@@ -276,7 +275,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ReShade files w
 
 ## Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/EzioTheDeadPoet/Tales-from-Skyrims-Holds/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/EzioTheDeadPoet/Tales-from-the-Northern-Lands/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
 
 **DON'T CONTACT MOD-AUTHORS WITH ISSUES OR I WILL HAVE TO TAKE ACTIONS THAT WILL RESULT WITH YOU BEING BANNED FROM WABBAJACK.**
 
@@ -294,4 +293,4 @@ See [Changelog](CHANGELOG.md).
 
 ***
 
-[[Back to top]](#tales-from-skyrims-holds)
+[[Back to top]](#tales-from-the-northern-lands)
