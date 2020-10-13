@@ -72,6 +72,10 @@
 ![screenshot](https://i.imgur.com/RKWZERD.png)
 by antun
 
+## Version 1.5 Screenshots
+
+there are no screenshots for the latest version.
+
 ## Contributing
 
 See [How to contribute](HOWTOCONTRIBUTE.md).

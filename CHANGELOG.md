@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.5.0: Tales from the Northern Lands
+
+### Released at: `13.10.2020`
+
+- **renamed the list**
+  - thanks for the recommendation Phoenix
+- updated the Manual Patch
+- added:
+  - [NPC AI Process Position Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/40261) got unhidden.
+
 ## 1.1.0: Tales from Skyrim's Holds
 
 ### Released at: `10.10.2020`
