@@ -3,6 +3,7 @@
 - [Screenshot Display](#screenshot-display)
   - [Pre-Release Screenshots](#pre-release-screenshots)
   - [Version 1.0 Screenshots](#version-10-screenshots)
+  - [Version 1.5 Screenshots](#version-15-screenshots)
   - [Contributing](#contributing)
 
 ## Pre-Release Screenshots
