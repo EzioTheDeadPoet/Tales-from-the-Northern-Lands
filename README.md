@@ -51,6 +51,8 @@ This is a visual overhaul of Skyrim that tries to mimic the look of the "Tales o
 
 For the gameplay this list contains mods that intend to make you stronger and feel like and actually special person in Skyrim just like the Vault Hunters and the Dragonborn should be able to feel in their stories. The main mods to achieve this are SPERG, Skyrim Skill Uncapper and the True Dragonborn preset for it.
 
+**A very new addition to this list is a Basics profile only containing the most important bugfixes and visual mods without the gameplay or additional item mods.**
+
 ## Screenshots
 
 So I have created a page where you can share your screenshots of this list with others and I really hope you can help me out or have fun sharing screenshots since I am not the best at taking nice looking screenshots myself.
