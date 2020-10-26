@@ -2,7 +2,7 @@
 
 ## 1.6.0. Tales from the Northern Lands
 
-### Released at:``
+### Released at:`26.10.2020`
 
 - **Newly added an `Basics` Profile without any gameplay changes to add your favorite gameplay overhaul on top. (RULE 11 STILL APPLIES)**
 - added
