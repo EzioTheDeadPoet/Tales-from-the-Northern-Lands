@@ -1,6 +1,33 @@
 # Changelog
 
-## 1.6.0. Tales from the Northern Lands
+## 1.7.0: Tales from the Northern Lands|The UI rework Update
+
+### Released at: `30.10.2020`
+
+- notes
+  - **(Go to sleep and spend all skill levels (or they might get lost) before updating the modlist.)**
+  - Widescreen users check the updated [widescreen instructions](README.md#ultrawide-options)
+  - Fixes the Missing Skill Level requirements
+
+- added
+  - [moreHUD Inventory Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18619)
+  - [Paper UI Sounds for Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/38944)
+  - [Paper World Map for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/10836)
+  - [Flat Map Markers SSE](https://www.nexusmods.com/skyrimspecialedition/mods/22122)
+  - [Oblivionesque Active Effects For SkyUI SE](https://www.nexusmods.com/skyrimspecialedition/mods/29682)
+  - [Oblivionesque Category Icons For SkyUI SE](https://www.nexusmods.com/skyrimspecialedition/mods/29773)
+  - [Dear Diary - Paper SkyUI Menus Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/23010) (If you use the `Basics` profile then you need to "reinstall" this mod and selecting everything based on preference and when it comes to the Skills menu choose vanilla, or whatever mods you want to add to it)
+  - [TESG Loadscreen Replacer - SSE Port](https://www.nexusmods.com/skyrimspecialedition/mods/5794)
+  - [Extended UI](https://www.nexusmods.com/skyrim/mods/57873/)
+
+- removed
+  - [Static Skill Leveling (Experience Mod Add-on)](https://www.nexusmods.com/skyrimspecialedition/mods/30410) **(Go to sleep and spend all skill levels (or they might get lost) before updating the modlist.)**
+
+- updated
+  - [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+  - [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294)
+
+## 1.6.0: Tales from the Northern Lands
 
 ### Released at:`26.10.2020`
 
