@@ -7,6 +7,7 @@
 - notes
   - **(Go to sleep and spend all skill levels (or they might get lost) before updating the modlist.)**
   - Widescreen users check the updated [widescreen instructions](README.md#ultrawide-options)
+  - Fixes the Missing Skill Level requirements
 
 - added
   - [moreHUD Inventory Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18619)
