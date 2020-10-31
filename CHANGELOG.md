@@ -1,5 +1,15 @@
 # Changelog
 
+## 1.7.1: Tales from the Northern Lands
+
+### Released at: `01.11.2020`
+
+- added
+  - [High Poly Vanilla Hair](https://www.nexusmods.com/skyrimspecialedition/mods/41863)
+
+- updated
+  - [NPC AI Process Position Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/40261)
+
 ## 1.7.0: Tales from the Northern Lands|The UI rework Update
 
 ### Released at: `30.10.2020`
