@@ -2,7 +2,7 @@
 
 ## 1.7.1: Tales from the Northern Lands
 
-### Released at: `01.11.2020`
+### Released at: `31.10.2020`
 
 - added
   - [High Poly Vanilla Hair](https://www.nexusmods.com/skyrimspecialedition/mods/41863)
