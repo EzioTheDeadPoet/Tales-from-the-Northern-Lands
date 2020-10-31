@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.7.2: Tales from the Northern Lands
+
+### Released at: `31.10.2020`
+
+- map hotfix
+
 ## 1.7.1: Tales from the Northern Lands
 
 ### Released at: `31.10.2020`
