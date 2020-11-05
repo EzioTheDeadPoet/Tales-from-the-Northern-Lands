@@ -1,5 +1,16 @@
 # Changelog
 
+## 1.7.3: Tales from the Northern Lands
+
+### Released at: ``
+
+- added
+  - [Warburg's Paper World Map Flat Mesh with Unofficial Fix](https://www.nexusmods.com/skyrimspecialedition/mods/23114)
+  - [SSE Gameplay Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/41953)
+
+- updated
+  - [High Poly Vanilla Hair](https://www.nexusmods.com/skyrimspecialedition/mods/41863)
+
 ## 1.7.2: Tales from the Northern Lands
 
 ### Released at: `31.10.2020`
@@ -7,8 +18,6 @@
 - map hotfix
 
 ## 1.7.1: Tales from the Northern Lands
-
-### Released at: `31.10.2020`
 
 - added
   - [High Poly Vanilla Hair](https://www.nexusmods.com/skyrimspecialedition/mods/41863)
