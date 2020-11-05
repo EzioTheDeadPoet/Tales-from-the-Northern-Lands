@@ -2,7 +2,7 @@
 
 ## 1.7.3: Tales from the Northern Lands
 
-### Released at: ``
+### Released at: `05.11.2020`
 
 - added
   - [Warburg's Paper World Map Flat Mesh with Unofficial Fix](https://www.nexusmods.com/skyrimspecialedition/mods/23114)
