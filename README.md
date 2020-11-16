@@ -3,6 +3,9 @@
 ![total_installations](https://img.shields.io/endpoint?url=https://build.wabbajack.org/metrics/badge/TalesFromTheNorthernLands/total_installs_badge.json)
 
 ## Index
+<!-- markdownlint-disable MD033 -->
+<details>
+<summary>Click to Show</summary>
 
 - [Tales from the Northern Lands](#tales-from-the-northern-lands)
   - [Preamble](#preamble)
@@ -46,6 +49,8 @@
   - [Contributing](#contributing)
   - [Changelog](#changelog)
   - [Licenses](#licenses)
+
+</details>
 
 ## Preamble
 
