@@ -6,6 +6,7 @@
 <!-- markdownlint-disable MD033 -->
 <details>
 <summary>Click to Show</summary>
+<!-- markdownlint-enable MD033 -->
 
 - [Tales from the Northern Lands](#tales-from-the-northern-lands)
   - [Preamble](#preamble)
