@@ -4,17 +4,15 @@
 
 ## Index
 <!-- markdownlint-disable MD033 -->
-<details>
-<summary>Click to Show</summary>
 
 <ul>
-  <li><a href="#tales-from-the-northern-lands">Tales from the Northern Lands</a>
+  <details><summary><a href="#tales-from-the-northern-lands">Tales from the Northern Lands</a></summary>
     <ul>
       <li><a href="#preamble">Preamble</a></li>
       <li><a href="#screenshots">Screenshots</a></li>
-      <li><a href="#installation">Installation</a>
+      <li><details><summary><a href="#installation">Installation</a></summary>
         <ul>
-          <li><a href="#pre-installation">Pre-Installation</a>
+          <li><details><summary><a href="#pre-installation">Pre-Installation</a></summary>
             <ul>
               <li><a href="#installing-microsoft-visual-c-redistributable-package">Installing Microsoft Visual C++ Redistributable Package</a></li>
               <li><a href="#steam-config">Steam Config</a>
@@ -28,7 +26,7 @@
               <li><a href="#start-skyrim">Start Skyrim</a></li>
             </ul>
           </li>
-          <li><a href="#using-wabbajack">Using Wabbajack</a>
+          <li><details><summary><a href="#using-wabbajack">Using Wabbajack</a></summary>
             <ul>
               <li><a href="#preparations">Preparations</a></li>
               <li><a href="#downloading-and-installing">Downloading and Installing</a>
@@ -40,12 +38,12 @@
           </li>
         </ul>
       </li>
-      <li><a href="#post-installation">Post-Installation</a>
+      <li><details><summary><a href="#post-installation">Post-Installation</a></summary>
         <ul>
           <li><a href="#copy-game-folder-files">Copy Game Folder Files</a></li>
         </ul>
       </li>
-      <li><a href="#mods-to-tweak-to-your-taste">Mods to tweak to your taste</a>
+      <li><details><summary><a href="#mods-to-tweak-to-your-taste">Mods to tweak to your taste</a></summary>
         <ul>
           <li><a href="#customizable-ui-replacer">Customizable UI Replacer</a></li>
           <li><a href="#dear-diary---paper-skyui-menus-replacer-se">Dear Diary - Paper SkyUI Menus Replacer SE</a></li>
@@ -53,7 +51,7 @@
       </li>
       <li><a href="#how-to-start-up-tales-from-the-northern-lands">How to start up Tales from the Northern Lands</a></li>
       <li><a href="#updating">Updating</a></li>
-      <li><a href="#in-game-mcm-options">In-Game MCM Options</a>
+      <li><details><summary><a href="#in-game-mcm-options">In-Game MCM Options</a></summary>
         <ul>
           <li><a href="#all-geared-up-deriv">All Geared up Deriv</a></li>
           <li><a href="#a-matter-of-time">A Matter of Time</a></li>
@@ -65,7 +63,7 @@
           <li><a href="#xpmsse-preference">XPMSSE (Preference)</a></li>
         </ul>
       </li>
-      <li><a href="#other-post-installation-faq">Other Post Installation FAQ</a>
+      <li><details><summary><a href="#other-post-installation-faq">Other Post Installation FAQ</a></summary>
         <ul>
           <li><a href="#ultrawide-options">Ultrawide Options</a></li>
           <li><a href="#tweaking-the-game-settings">Tweaking the Game Settings</a></li>
@@ -80,10 +78,7 @@
       <li><a href="#licenses">Licenses</a></li>
     </ul>
   </li>
-</ul>
-
-</details>
-
+</details></ul>
 <!-- markdownlint-enable MD033 -->
 
 ## Preamble
