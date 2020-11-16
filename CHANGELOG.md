@@ -1,5 +1,22 @@
 # Changelog
 
+## 1.8.0: Tales from the Northern Lands
+
+### Released at: `16.11.2020`
+
+**NEW SAVE REQUIRED!**
+
+- added
+  - [Halgari's RPG Loot](https://www.nexusmods.com/skyrimspecialedition/mods/37736)**HYPE!**
+  - [Choose Your Starting Skills](https://www.nexusmods.com/skyrimspecialedition/mods/25630)
+
+- removed
+  - [Skyrim SE Expanded Skyrim Weaponry](https://www.nexusmods.com/skyrimspecialedition/mods/2300)(Incompatible with Halgari's RPG Loot)
+  - [SkyUI Weapon Icon Patches](https://www.nexusmods.com/skyrimspecialedition/mods/37295)
+
+- updated
+  - [NPC AI Process Position Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/40261)
+
 ## 1.7.3: Tales from the Northern Lands
 
 ### Released at: `05.11.2020`
