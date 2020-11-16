@@ -47,7 +47,6 @@
   - [Changelog](#changelog)
   - [Licenses](#licenses)
 
-
 ## Preamble
 
 ![tfsh-banner](Cover/tfsh-banner.png)
