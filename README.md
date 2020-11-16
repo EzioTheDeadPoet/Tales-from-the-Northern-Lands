@@ -78,7 +78,6 @@
       <li><a href="#changelog">Changelog</a></li>
       <li><a href="#licenses">Licenses</a></li>
     </ul>
-  </li>
 </details></ul>
 <!-- markdownlint-enable MD033 -->
 
