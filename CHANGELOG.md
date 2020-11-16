@@ -7,7 +7,7 @@
 **NEW SAVE REQUIRED!**
 
 - added
-  - [Halgari's RPG Loot](https://www.nexusmods.com/skyrimspecialedition/mods/37736)**HYPE!**
+  - [Halgari's RPG Loot](https://www.nexusmods.com/skyrimspecialedition/mods/37736) **HYPE!**
   - [Choose Your Starting Skills](https://www.nexusmods.com/skyrimspecialedition/mods/25630)
 
 - removed
