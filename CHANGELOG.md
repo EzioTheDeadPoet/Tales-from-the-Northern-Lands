@@ -1,5 +1,27 @@
 # Changelog
 
+## 1.9.0: Tales from the Northern Lands
+
+### Released at: `17.11.2020`
+
+<!-- markdownlint-disable MD036 -->
+**NEW SAVE REQUIRED! (Sorry)**
+
+- locked FPS to `75FPS` to stop the "random" T-Poses (FINALLY)
+
+- added
+  - [Heavy Armory - New Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/6308)
+  - [Royal Armory - New Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/6994)
+  - [No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161)
+  - [Smart Optimal Salves - Optimal Potion Hotkey MCM](https://www.nexusmods.com/skyrimspecialedition/mods/42402)
+
+- replaced [Flora Respawn Fix](https://www.nexusmods.com/skyrimspecialedition/mods/13186) with [FloraFixer - Mutagen Patcher and Data](https://www.nexusmods.com/skyrimspecialedition/mods/42057) cause it is a faster patch.
+
+- updated
+  - [Halgari's RPG Loot](https://www.nexusmods.com/skyrimspecialedition/mods/37736)
+    - fixes inability to heal Hadvar and the corpses equipped with ALL the epic loot
+  - [Synthesis](https://github.com/Noggog/Synthesis)
+
 ## 1.8.0: Tales from the Northern Lands
 
 ### Released at: `16.11.2020`
