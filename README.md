@@ -25,7 +25,7 @@
               <li><a href="#clean-skyrim">Clean Skyrim</a></li>
               <li><a href="#start-skyrim">Start Skyrim</a></li>
             </ul>
-          </li>
+          </details></li>
           <li><details><summary><a href="#using-wabbajack">Using Wabbajack</a></summary>
             <ul>
               <li><a href="#preparations">Preparations</a></li>
@@ -35,20 +35,20 @@
                 </ul>
               </li>
             </ul>
-          </li>
+          </details></li>
         </ul>
-      </li>
+      </details></li>
       <li><details><summary><a href="#post-installation">Post-Installation</a></summary>
         <ul>
           <li><a href="#copy-game-folder-files">Copy Game Folder Files</a></li>
         </ul>
-      </li>
+      </details></li>
       <li><details><summary><a href="#mods-to-tweak-to-your-taste">Mods to tweak to your taste</a></summary>
         <ul>
           <li><a href="#customizable-ui-replacer">Customizable UI Replacer</a></li>
           <li><a href="#dear-diary---paper-skyui-menus-replacer-se">Dear Diary - Paper SkyUI Menus Replacer SE</a></li>
         </ul>
-      </li>
+      </details></li>
       <li><a href="#how-to-start-up-tales-from-the-northern-lands">How to start up Tales from the Northern Lands</a></li>
       <li><a href="#updating">Updating</a></li>
       <li><details><summary><a href="#in-game-mcm-options">In-Game MCM Options</a></summary>
@@ -62,7 +62,7 @@
           <li><a href="#widget-mod">Widget Mod</a></li>
           <li><a href="#xpmsse-preference">XPMSSE (Preference)</a></li>
         </ul>
-      </li>
+      </details></li>
       <li><details><summary><a href="#other-post-installation-faq">Other Post Installation FAQ</a></summary>
         <ul>
           <li><a href="#ultrawide-options">Ultrawide Options</a></li>
@@ -70,7 +70,7 @@
           <li><a href="#zoomed-in-display">Zoomed in Display</a></li>
           <li><a href="#removing-the-modlist">Removing the Modlist</a></li>
         </ul>
-      </li>
+      </details></li>
       <li><a href="#credits-and-thanks">Credits and Thanks</a></li>
       <li><a href="#contact">Contact</a></li>
       <li><a href="#contributing">Contributing</a></li>
