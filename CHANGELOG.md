@@ -7,6 +7,10 @@
 <!-- markdownlint-disable MD036 -->
 **NEW SAVE REQUIRED! (Sorry)**
 
+- ReShade Preset
+  - tweaked a little bit to make it look better on the character near to bright light sources
+  - pre-configured ReShade to have a toggle set on the `End` key so if its postprocessing makes UI hard to read it is easy to workaround.
+
 - locked FPS to `75FPS` to stop the "random" T-Poses (FINALLY)
 
 - added
