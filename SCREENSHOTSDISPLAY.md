@@ -85,17 +85,24 @@ by antun</p>
 <details>
 <summary>Helgen Area</summary>
 
-<p><img src="Screenshots/1.8.1/SkyrimSE_1fPGEz2FzB.jpg" alt="screenshot" /></p>
+<p><img src="Screenshots/1.9/SkyrimSE_1fPGEz2FzB.jpg" alt="screenshot" /></p>
 
-<p><img src="Screenshots/1.8.1/SkyrimSE_MpGhzGfVi1.jpg" alt="screenshot" /></p>
+<p><img src="Screenshots/1.9/SkyrimSE_MpGhzGfVi1.jpg" alt="screenshot" /></p>
 
-<p><img src="Screenshots/1.8.1/SkyrimSE_olio31xdSQ.jpg" alt="screenshot" /></p>
+<p><img src="Screenshots/1.9/SkyrimSE_olio31xdSQ.jpg" alt="screenshot" /></p>
 
-<p><img src="Screenshots/1.8.1/SkyrimSE_pYKJ4z6A3d.jpg" alt="screenshot" /></p>
+<p><img src="Screenshots/1.9/SkyrimSE_pYKJ4z6A3d.jpg" alt="screenshot" /></p>
 
-<p><img src="Screenshots/1.8.1/SkyrimSE_tmJkRkWSNA.jpg" alt="screenshot" /></p>
+<p><img src="Screenshots/1.9/SkyrimSE_tmJkRkWSNA.jpg" alt="screenshot" /></p>
 
-<p><img src="Screenshots/1.8.1/SkyrimSE_Yc0RXGrNSk.jpg" alt="screenshot" /></p>
+<p><img src="Screenshots/1.9/SkyrimSE_Yc0RXGrNSk.jpg" alt="screenshot" /></p>
+
+</details>
+
+<details>
+<summary>Whiterun Area</summary>
+
+<p><img src="Screenshots/1.9/SkyrimSE_al6mSJCAj4.png" alt="Screenshot" /></p>
 
 </details>
 

@@ -6,6 +6,8 @@
 
 <!-- markdownlint-disable MD033 -->
 
+Expand sections by clicking on the triangle.
+
 <ul>
   <details><summary><a href="#tales-from-the-northern-lands">Tales from the Northern Lands</a></summary>
     <ul>
@@ -57,6 +59,9 @@
           <li><a href="#all-geared-up-deriv">All Geared up Deriv</a></li>
           <li><a href="#a-matter-of-time">A Matter of Time</a></li>
           <li><a href="#dual-wield-parrying">Dual Wield Parrying</a></li>
+          <li><a href="#follower-framework-preference">Follower Framework</a></li>
+          <li><a href="#immersive-hud">Immersive Hud</a></li>
+          <li><a href="#optimal-potion-hotkey">Optimal Potion Hotkey</a><li>
           <li><a href="#pwer">P.W.E.R.</a></li>
           <li><a href="#sperg">SPERG</a></li>
           <li><a href="#violens">VioLens</a></li>
@@ -235,6 +240,25 @@ Mods or sections with (Preference) next to their name is solely preferential and
 ### Dual Wield Parrying
 
 - Block Key: `V` (set it to whatever suits you best.)
+
+### Follower Framework(Preference)
+
+- Key binds need to be set if you intend on using it.
+
+### Immersive Hud
+
+- Activation
+  - Key press toggles: `Enabled` (Preference)
+  - Link All SkyUI Widgets: `Enabled` (Recommended)
+
+- Options
+  - Enable fast fade for easier clean screenshots (Preference)
+
+- Transparencies (Preference)
+
+### Optimal Potion Hotkey
+
+Set your hotkeys and preferences for how you want to be healed.
 
 ### P.W.E.R
 
