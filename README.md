@@ -20,10 +20,10 @@ Expand sections by clicking on the triangle.
             <li><a href="#steam-config">Steam Config</a>
               <ul>
                 <li><a href="#disable-the-steam-overlay">Disable the Steam Overlay</a></li>
+                <li><a href="#change-steams-update-behavior">Change Steams Update Behavior</a></li>
+                <li><a href="#set-the-game-language-to-english">Set the Game language to English</a></li>
               </ul>
             </li>
-            <li><a href="#change-steams-update-behavior">Change Steams Update Behavior</a></li>
-            <li><a href="#set-the-game-language-to-english">Set the Game language to English</a></li>
             <li><a href="#clean-skyrim">Clean Skyrim</a></li>
             <li><a href="#start-skyrim">Start Skyrim</a></li>
           </ul>
@@ -123,13 +123,13 @@ The Steam Overlay can cause issues with ENB and is recommended to be turned off 
 
 Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
 
-#### Change Steams Update Behavior
+##### Change Steams Update Behavior
 
 SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
 
 To ensure that Steam does not automatically updates the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
 
-#### Set the Game language to English
+##### Set the Game language to English
 
 Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I will not give support to people with a non-English game**.
 
