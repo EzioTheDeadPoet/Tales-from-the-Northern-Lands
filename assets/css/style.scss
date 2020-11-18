@@ -139,9 +139,10 @@ pre.highlight {
        background: #526B67;
 }
 
-table.socials tr td, table.socials tr, table.socials{
+table.socials tbody tr td, table.socials tbody tr, table.socials tbody, table.socials {
 	background: transparent;
 	border-collapse: collapse;
+	border-spacing: 0px;
 }
 
  td li.buttons {
