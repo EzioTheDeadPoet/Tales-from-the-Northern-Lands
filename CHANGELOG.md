@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.9.1: Tales from the Northern Lands
+
+### Released at: `18.11.2020` | hotfix
+
+- Screenshot key is now properly set to `F11`
+
 ## 1.9.0: Tales from the Northern Lands
 
 ### Released at: `18.11.2020`
