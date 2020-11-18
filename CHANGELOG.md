@@ -24,7 +24,7 @@
   - [No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161)
   - [Smart Optimal Salves - Optimal Potion Hotkey MCM](https://www.nexusmods.com/skyrimspecialedition/mods/42402)
 
-- replaced 
+- replaced
   - [Flora Respawn Fix](https://www.nexusmods.com/skyrimspecialedition/mods/13186) with [FloraFixer - Mutagen Patcher and Data](https://www.nexusmods.com/skyrimspecialedition/mods/42057) cause it is a faster patch.
   - [3PCO - 3rd Person Camera Overhaul - Smooth Camera Follow](https://www.nexusmods.com/skyrimspecialedition/mods/18515) and [AIM FIX - total control over the crosshair for archery and magic](https://www.nexusmods.com/skyrimspecialedition/mods/18524) with [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252) more options (you can get presets on the nexus tweak to your liking or use the default settings)
 
