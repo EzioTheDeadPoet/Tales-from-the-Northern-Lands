@@ -8,86 +8,84 @@
 
 Expand sections by clicking on the triangle.
 
-<ul>
-  <details><summary><a href="#tales-from-the-northern-lands">Tales from the Northern Lands</a></summary>
-    <ul>
-      <li><a href="#preamble">Preamble</a></li>
-      <li><a href="#screenshots">Screenshots</a></li>
-      <li><details><summary><a href="#installation">Installation</a></summary>
-        <ul>
-          <li><details><summary><a href="#pre-installation">Pre-Installation</a></summary>
-            <ul>
-              <li><a href="#installing-microsoft-visual-c-redistributable-package">Installing Microsoft Visual C++ Redistributable Package</a></li>
-              <li><a href="#steam-config">Steam Config</a>
-                <ul>
-                  <li><a href="#disable-the-steam-overlay">Disable the Steam Overlay</a></li>
-                </ul>
-              </li>
-              <li><a href="#change-steams-update-behavior">Change Steams Update Behavior</a></li>
-              <li><a href="#set-the-game-language-to-english">Set the Game language to English</a></li>
-              <li><a href="#clean-skyrim">Clean Skyrim</a></li>
-              <li><a href="#start-skyrim">Start Skyrim</a></li>
-            </ul>
-          </details></li>
-          <li><details><summary><a href="#using-wabbajack">Using Wabbajack</a></summary>
-            <ul>
-              <li><a href="#preparations">Preparations</a></li>
-              <li><a href="#downloading-and-installing">Downloading and Installing</a>
-                <ul>
-                  <li><a href="#problems-with-wabbajack">Problems with Wabbajack</a></li>
-                </ul>
-              </li>
-            </ul>
-          </details></li>
-        </ul>
-      </details></li>
-      <li><details><summary><a href="#post-installation">Post-Installation</a></summary>
-        <ul>
-          <li><a href="#copy-game-folder-files">Copy Game Folder Files</a></li>
-        </ul>
-      </details></li>
-      <li><details><summary><a href="#mods-to-tweak-to-your-taste">Mods to tweak to your taste</a></summary>
-        <ul>
-          <li><a href="#customizable-ui-replacer">Customizable UI Replacer</a></li>
-          <li><a href="#dear-diary---paper-skyui-menus-replacer-se">Dear Diary - Paper SkyUI Menus Replacer SE</a></li>
-          <li><a href="#smoothcam">SmoothCam</a></li>
-        </ul>
-      </details></li>
-      <li><a href="#how-to-start-up-tales-from-the-northern-lands">How to start up Tales from the Northern Lands</a></li>
-      <li><a href="#updating">Updating</a></li>
-      <li><details><summary><a href="#in-game-mcm-options">In-Game MCM Options</a></summary>
-        <ul>
-          <li><a href="#all-geared-up-deriv">All Geared up Deriv</a></li>
-          <li><a href="#a-matter-of-time">A Matter of Time</a></li>
-          <li><a href="#dual-wield-parrying">Dual Wield Parrying</a></li>
-          <li><a href="#follower-framework-preference">Follower Framework</a></li>
-          <li><a href="#immersive-hud">Immersive Hud</a></li>
-          <li><a href="#morehud">moreHUD</a></li>
-          <li><a href="#optimal-potion-hotkey">Optimal Potion Hotkey</a><li>
-          <li><a href="#pwer">P.W.E.R.</a></li>
-          <li><a href="#skyui">SkyUI</a></li>
-          <li><a href="#sperg">SPERG</a></li>
-          <li><a href="#violens">VioLens</a></li>
-          <li><a href="#widget-mod">Widget Mod</a></li>
-          <li><a href="#xpmsse-preference">XPMSSE (Preference)</a></li>
-        </ul>
-      </details></li>
-      <li><details><summary><a href="#other-post-installation-faq">Other Post Installation FAQ</a></summary>
-        <ul>
-          <li><a href="#ultrawide-options">Ultrawide Options</a></li>
-          <li><a href="#tweaking-the-game-settings">Tweaking the Game Settings</a></li>
-          <li><a href="#zoomed-in-display">Zoomed in Display</a></li>
-          <li><a href="#removing-the-modlist">Removing the Modlist</a></li>
-        </ul>
-      </details></li>
-      <li><a href="#credits-and-thanks">Credits and Thanks</a></li>
-      <li><a href="#contact">Contact</a></li>
-      <li><a href="#contributing">Contributing</a></li>
-      <li><a href="#changelog">Changelog</a></li>
-      <li><a href="#licenses">Licenses</a></li>
-    </ul>
-  </details>
-</ul>
+<details><summary><a href="#tales-from-the-northern-lands">Tales from the Northern Lands</a></summary>
+  <ul>
+    <li><a href="#preamble">Preamble</a></li>
+    <li><a href="#screenshots">Screenshots</a></li>
+    <li><details><summary><a href="#installation">Installation</a></summary>
+      <ul>
+        <li><details><summary><a href="#pre-installation">Pre-Installation</a></summary>
+          <ul>
+            <li><a href="#installing-microsoft-visual-c-redistributable-package">Installing Microsoft Visual C++ Redistributable Package</a></li>
+            <li><a href="#steam-config">Steam Config</a>
+              <ul>
+                <li><a href="#disable-the-steam-overlay">Disable the Steam Overlay</a></li>
+              </ul>
+            </li>
+            <li><a href="#change-steams-update-behavior">Change Steams Update Behavior</a></li>
+            <li><a href="#set-the-game-language-to-english">Set the Game language to English</a></li>
+            <li><a href="#clean-skyrim">Clean Skyrim</a></li>
+            <li><a href="#start-skyrim">Start Skyrim</a></li>
+          </ul>
+        </details></li>
+        <li><details><summary><a href="#using-wabbajack">Using Wabbajack</a></summary>
+          <ul>
+            <li><a href="#preparations">Preparations</a></li>
+            <li><a href="#downloading-and-installing">Downloading and Installing</a>
+              <ul>
+                <li><a href="#problems-with-wabbajack">Problems with Wabbajack</a></li>
+              </ul>
+            </li>
+          </ul>
+        </details></li>
+      </ul>
+    </details></li>
+    <li><details><summary><a href="#post-installation">Post-Installation</a></summary>
+      <ul>
+        <li><a href="#copy-game-folder-files">Copy Game Folder Files</a></li>
+      </ul>
+    </details></li>
+    <li><details><summary><a href="#mods-to-tweak-to-your-taste">Mods to tweak to your taste</a></summary>
+      <ul>
+        <li><a href="#customizable-ui-replacer">Customizable UI Replacer</a></li>
+        <li><a href="#dear-diary---paper-skyui-menus-replacer-se">Dear Diary - Paper SkyUI Menus Replacer SE</a></li>
+        <li><a href="#smoothcam">SmoothCam</a></li>
+      </ul>
+    </details></li>
+    <li><a href="#how-to-start-up-tales-from-the-northern-lands">How to start up Tales from the Northern Lands</a></li>
+    <li><a href="#updating">Updating</a></li>
+    <li><details><summary><a href="#in-game-mcm-options">In-Game MCM Options</a></summary>
+      <ul>
+        <li><a href="#all-geared-up-deriv">All Geared up Deriv</a></li>
+        <li><a href="#a-matter-of-time">A Matter of Time</a></li>
+        <li><a href="#dual-wield-parrying">Dual Wield Parrying</a></li>
+        <li><a href="#follower-framework-preference">Follower Framework</a></li>
+        <li><a href="#immersive-hud">Immersive Hud</a></li>
+        <li><a href="#morehud">moreHUD</a></li>
+        <li><a href="#optimal-potion-hotkey">Optimal Potion Hotkey</a><li>
+        <li><a href="#pwer">P.W.E.R.</a></li>
+        <li><a href="#skyui">SkyUI</a></li>
+        <li><a href="#sperg">SPERG</a></li>
+        <li><a href="#violens">VioLens</a></li>
+        <li><a href="#widget-mod">Widget Mod</a></li>
+        <li><a href="#xpmsse-preference">XPMSSE (Preference)</a></li>
+      </ul>
+    </details></li>
+    <li><details><summary><a href="#other-post-installation-faq">Other Post Installation FAQ</a></summary>
+      <ul>
+        <li><a href="#ultrawide-options">Ultrawide Options</a></li>
+        <li><a href="#tweaking-the-game-settings">Tweaking the Game Settings</a></li>
+        <li><a href="#zoomed-in-display">Zoomed in Display</a></li>
+        <li><a href="#removing-the-modlist">Removing the Modlist</a></li>
+      </ul>
+    </details></li>
+    <li><a href="#credits-and-thanks">Credits and Thanks</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#changelog">Changelog</a></li>
+    <li><a href="#licenses">Licenses</a></li>
+  </ul>
+</details>
 <!-- markdownlint-enable MD033 -->
 
 ## Preamble
