@@ -32,7 +32,7 @@ Expand sections by clicking on the triangle.
           <li><details><summary><a href="#using-wabbajack">Using Wabbajack</a></summary>
             <ul>
               <li><a href="#preparations">Preparations</a></li>
-              <li><a href="#downloading-and-installing">Downloading and Installing</a></li>
+              <li><a href="#downloading-and-installing">Downloading and Installing</a>
                 <ul>
                   <li><a href="#problems-with-wabbajack">Problems with Wabbajack</a></li>
                 </ul>
