@@ -62,7 +62,7 @@ Expand sections by clicking on the triangle.
         <li><a href="#follower-framework-preference">Follower Framework</a></li>
         <li><a href="#immersive-hud">Immersive Hud</a></li>
         <li><a href="#morehud">moreHUD</a></li>
-        <li><a href="#optimal-potion-hotkey">Optimal Potion Hotkey</a><li>
+        <li><a href="#optimal-potion-hotkey">Optimal Potion Hotkey</a></li>
         <li><a href="#pwer">P.W.E.R.</a></li>
         <li><a href="#skyui">SkyUI</a></li>
         <li><a href="#sperg">SPERG</a></li>
