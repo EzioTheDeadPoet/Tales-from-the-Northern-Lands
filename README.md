@@ -86,7 +86,8 @@ Expand sections by clicking on the triangle.
       <li><a href="#changelog">Changelog</a></li>
       <li><a href="#licenses">Licenses</a></li>
     </ul>
-</details></ul>
+  </details>
+</ul>
 <!-- markdownlint-enable MD033 -->
 
 ## Preamble
