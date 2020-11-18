@@ -35,7 +35,6 @@ a.aboutMe {
 	background: url(../images/favicon64px.png) no-repeat 1px;
 }
 
-
 body {
 	color: #FBF8F1;
     background-color: #262D37;
@@ -139,10 +138,18 @@ pre.highlight {
        background: #526B67;
 }
 
+table.socials {
+	border: 0px;
+}
+
 table.socials tbody tr td, table.socials tbody tr, table.socials tbody, table.socials {
-	background: transparent;
+	background: #262D37;
 	border-collapse: collapse;
 	border-spacing: 0px;
+}
+
+table.socials tbody tr td {
+	padding: 4px;
 }
 
  td li.buttons {
