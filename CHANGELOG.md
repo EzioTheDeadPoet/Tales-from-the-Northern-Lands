@@ -7,7 +7,7 @@
 <!-- markdownlint-disable MD036 -->
 **NEW SAVE REQUIRED! (again Sorry)**
 
-- Updated the [documentation page](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/) for this modlist. **HYPE**
+- Updated the [documentation page](https://github.com/EzioTheDeadPoet/Tales-from-the-Northern-Lands#tales-from-the-northern-lands) for this modlist (and broke it so you just have the bare layout on github directly until I fix it).
   - please treat this update like a full new install and read the new documentation, since a lot of old instructions got expanded or replaced.
   - check out the screenshot page and feel to share screenshots (explanations how are found in the documentation).
 
