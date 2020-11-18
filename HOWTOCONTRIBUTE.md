@@ -19,39 +19,41 @@ Similar to [Feature Requests](#feature-requests), go to the GitHub [Issues](http
 
 ## Screenshots
 
-If you want to add your screenshots simply edit the [SCREENSHOTSDISPLAY.md](https://github.com/EzioTheDeadPoet/Tales-from-Skyrims-Holds/blob/masterSCREENSHOTSDISPLAY.md) file under the section corresponding to the version of the list you are using, with a pull request here on Github.
+If you want to add your screenshots simply edit the [SCREENSHOTSDISPLAY.md](https://github.com/EzioTheDeadPoet/Tales-from-Skyrims-Holds/blob/masterSCREENSHOTSDISPLAY.md) file under the section corresponding to the version of the list you are using, with a pull request here on Github. If you don't want to edit the file yourself just open an [issue](https://github.com/EzioTheDeadPoet/Tales-from-Skyrims-Holds/issues) to share your screenshot links to me.
 
 Here two examples how to add screenshots:
 
 ### Example without a linked profile or website
-
+<!-- markdownlint-disable MD033 -->
 ```md
-![screenshot](https://i.imgur.com/BkUbYa1.jpg)\
-by Luca|EzioTheDeadPoet
+<p><img src="https://i.imgur.com/BkUbYa1.jpg" alt="screenshot" /><br />
+by Luca|EzioTheDeadPoet</p>
 ```
 
 Looks like:
 
 ***
 
-![screenshot](https://i.imgur.com/BkUbYa1.jpg)\
-by Luca|EzioTheDeadPoet
+<p><img src="https://i.imgur.com/BkUbYa1.jpg" alt="screenshot" /><br />
+by Luca|EzioTheDeadPoet</p>
 
 ***
 
 ### Example with a linked profile or website
 
 ```md
-![screenshot](https://i.imgur.com/BkUbYa1.jpg)\
-by [Luca|EzioTheDeadPoet](https://github.com/EzioTheDeadPoet)
+<p><img src="https://i.imgur.com/BkUbYa1.jpg" alt="screenshot" /><br />
+by <a href="https://github.com/EzioTheDeadPoet">Luca|EzioTheDeadPoet</a></p>
 ```
+
+you can link any website or account you want to share, like for example a steam or twitter profile.
 
 Looks like:
 
 ***
 
-![screenshot](https://i.imgur.com/BkUbYa1.jpg)\
-by [Luca|EzioTheDeadPoet](https://github.com/EzioTheDeadPoet)
+<p><img src="https://i.imgur.com/BkUbYa1.jpg" alt="screenshot" /><br />
+by <a href="https://github.com/EzioTheDeadPoet">Luca|EzioTheDeadPoet</a></p>
 
 ***
 

@@ -6,6 +6,8 @@
 
 <!-- markdownlint-disable MD033 -->
 
+Expand sections by clicking on the triangle.
+
 <ul>
   <details><summary><a href="#tales-from-the-northern-lands">Tales from the Northern Lands</a></summary>
     <ul>
@@ -48,6 +50,7 @@
         <ul>
           <li><a href="#customizable-ui-replacer">Customizable UI Replacer</a></li>
           <li><a href="#dear-diary---paper-skyui-menus-replacer-se">Dear Diary - Paper SkyUI Menus Replacer SE</a></li>
+          <li><a href="#smoothcam">SmoothCam</a></li>
         </ul>
       </details></li>
       <li><a href="#how-to-start-up-tales-from-the-northern-lands">How to start up Tales from the Northern Lands</a></li>
@@ -57,7 +60,12 @@
           <li><a href="#all-geared-up-deriv">All Geared up Deriv</a></li>
           <li><a href="#a-matter-of-time">A Matter of Time</a></li>
           <li><a href="#dual-wield-parrying">Dual Wield Parrying</a></li>
+          <li><a href="#follower-framework-preference">Follower Framework</a></li>
+          <li><a href="#immersive-hud">Immersive Hud</a></li>
+          <li><a href="#morehud">moreHUD</a></li>
+          <li><a href="#optimal-potion-hotkey">Optimal Potion Hotkey</a><li>
           <li><a href="#pwer">P.W.E.R.</a></li>
+          <li><a href="#skyui">SkyUI</a></li>
           <li><a href="#sperg">SPERG</a></li>
           <li><a href="#violens">VioLens</a></li>
           <li><a href="#widget-mod">Widget Mod</a></li>
@@ -87,15 +95,16 @@
 
 This is a visual overhaul of Skyrim that tries to mimic the look of the "Tales of/from ..." Series, "The Wolf Among Us" and mainly "Borderlands" with their cell shaded visuals. The Visual Overhaul I used to create this list was stylized in a for my taste way to reflective way but I liked the textures them self so I have changed most of the normal maps of the textures i came around while testing this list. There are for sure textures missing that treatment but I will update this list every time I update more of the normal maps to be less reflective.
 
-For the gameplay this list contains mods that intend to make you stronger and feel like and actually special person in Skyrim just like the Vault Hunters and the Dragonborn should be able to feel in their stories. The main mods to achieve this are SPERG, Skyrim Skill Uncapper and the True Dragonborn preset for it.
+For the gameplay this list contains mods that intend to make you stronger and feel like and actually special person in Skyrim just like the Vault Hunters and the Dragonborn should be able to feel in their stories. The main mods to achieve this are SPERG, Skyrim Skill Uncapper and the True Dragonborn preset for it. It also features 93.786 different weapons (counting different enchantments on similar weapons) and 91.086  clothing items (Armors, jewelry and clothes) (again counting different enchantments on the same item) thanks to [Halgari's RPG Loot Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/37736) powered by [Noggog's Synthesis Tool](https://github.com/Noggog/Synthesis).
 
 **A very new addition to this list is a Basics profile only containing the most important bugfixes and visual mods without the gameplay or additional item mods.**
 
 ## Screenshots
 
 So I have created a page where you can share your screenshots of this list with others and I really hope you can help me out or have fun sharing screenshots since I am not the best at taking nice looking screenshots myself.
-This list even has a separate profile in Mod Organizer you can use for screenshots with all UI mods disabled if you prefer this approach.
-I have moved this to this [page](SCREENSHOTSDISPLAY.md) since Skyrim is pretty big and has a lot of places and scenes to take screenshots of.
+You can make screenshots using the `F11` key and find them in the `Screenshots` folder inside of the `Screenshots ! Racemenu Presets ! Game Generated` Mod.
+I have moved a screenshots to this[page](SCREENSHOTSDISPLAY.md) to never be limited by the space on this overview and instructions page.
+To learn how share your screenshots check the [Contibutng](#contiuting) section of this guide.
 
 ## Installation
 
@@ -190,12 +199,17 @@ Copy the all of the files from the `Installation Folder/Game Folder Files` direc
 
 Customizable UI Replacer has multiple good looking presets.
 
-- To test other presets just right-click the `Customizable UI Replacer` Mod and hit reinstall and select the preset you want.
+- To test other presets just right-click the `Customizable UI Replacer` Mod and hit reinstall and select the preset you want and then follow the User Manual PDF placed inside the `DOCs` folder, BUT IGNORE the Category Icon Theme setting and leave it at `SKYUI v5`.
+- Open the mod and navigate to `interface/skyhud/` and open `skyhud.txt` and set `uPersistentMeter=1` to `uPersistentMeter=0` so your status bars can be hidden. (If you want them persistent set it back to 1)
 - Once `Customizable UI Replacer` is reinstalled follow the steps for [A Matter of Time](#a-matter-of-time) and [Widget Mod](#widget-mod).
 
 ### Dear Diary - Paper SkyUI Menus Replacer SE
 
 If you use the `Basics` profile then you **NEED** to "reinstall" this mod and selecting everything based on preference and when it comes to the Skills menu choose vanilla, or whatever mods you want to add to it. The default setting for the Skill Menu is `Experience + Extended UI` in the normal Profile.
+
+### SmoothCam
+
+You can get one of the presets from the nexus, set it up yourself to your liking or use the default settings (which is what I will do cause I am lazy).
 
 ## How to start up Tales from the Northern Lands
 
@@ -236,10 +250,38 @@ Mods or sections with (Preference) next to their name is solely preferential and
 
 - Block Key: `V` (set it to whatever suits you best.)
 
+### Follower Framework(Preference)
+
+- Key binds need to be set if you intend on using it.
+
+### Immersive Hud
+
+- Activation
+  - Key press toggles: `Enabled` (Preference)
+  - Link All SkyUI Widgets: `Enabled` (Recommended)
+
+- Options
+  - Enable fast fade for easier clean screenshots (Preference)
+
+- Transparencies (Preference)
+
+### moreHUD
+
+- Presets:
+  - Load user settings
+
+### Optimal Potion Hotkey
+
+Set your hotkeys and preferences for how you want to be healed.
+
 ### P.W.E.R
 
 - Settings
   - Followers enabled: `Enabled` (If you want your followers to be as powerful as you are.)
+
+### SkyUI
+
+- Inside the `Customizable UI Replacer SkyHUD SE` Mod is a `Placement Images` folder with the settings for the profile of the mod that is installed, BUT IGNORE the Category Icon Theme setting and leave it at `SKYUI v5`.
 
 ### SPERG
 
@@ -318,12 +360,14 @@ You can just remove the MO2 folder and be done with it. SKSE and ReShade files w
 ## Credits and Thanks
 
 - _YOU_ for actually reading the readme. Thanks a ton!!
-- Xanza for writing most of this for his modlist.
+- Xanza for writing A LOT of this for his modlist.
 - ForgottenGlory for making SME(FT) and this modlist possible due to his early support.
 - Everyone giving me feedback on the artistic choices.
 - the creator of ReShade with its generous [License](ReShade/RESHADELICENSE.md#reshade-license) that allows me to include it.
 - erri120 & jdsmith2816 - Repository template
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
+- Halgari and Noggog for making the high variety in weapons and Armor possible
+- And ALL the mod authors that made the mods featured in this list. <3
 
 ## Contact
 

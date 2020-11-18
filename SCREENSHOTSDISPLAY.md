@@ -75,14 +75,46 @@
 
 </details>
 
-## Version 1.0 Screenshots
+## Version 1.0 Screenshot
 
-![screenshot](https://i.imgur.com/RKWZERD.png)
-by antun
+<p><img src="https://i.imgur.com/RKWZERD.png" alt="screenshot" />
+by antun</p>
 
 ## Version 1.9.0 Screenshots
 
-there are no screenshots for the latest version.
+<details>
+<summary>Helgen Area</summary>
+
+<p><img src="Screenshots/1.9/SkyrimSE_1fPGEz2FzB.jpg" alt="screenshot" /></p>
+
+<p><img src="Screenshots/1.9/SkyrimSE_MpGhzGfVi1.jpg" alt="screenshot" /></p>
+
+<p><img src="Screenshots/1.9/SkyrimSE_olio31xdSQ.jpg" alt="screenshot" /></p>
+
+<p><img src="Screenshots/1.9/SkyrimSE_pYKJ4z6A3d.jpg" alt="screenshot" /></p>
+
+<p><img src="Screenshots/1.9/SkyrimSE_tmJkRkWSNA.jpg" alt="screenshot" /></p>
+
+<p><img src="Screenshots/1.9/SkyrimSE_Yc0RXGrNSk.jpg" alt="screenshot" /></p>
+
+</details>
+
+<details>
+<summary>Whiterun Area</summary>
+
+<p><img src="Screenshots/1.9/SkyrimSE_al6mSJCAj4.png" alt="Screenshot" /></p>
+
+<p><img src="Screenshots/1.9/SkyrimSE_AvA5evjg8K.png" alt="Screenshot" /></p>
+
+<p><img src="Screenshots/1.9/SkyrimSE_Iww60jto3Y.png" alt="Screenshot" /></p>
+
+<p><img src="Screenshots/1.9/SkyrimSE_K4cA4IEzJr.png" alt="Screenshot" /></p>
+
+<p><img src="Screenshots/1.9/SkyrimSE_mBpQky1tdz.png" alt="Screenshot" /></p>
+
+<p><img src="Screenshots/1.9/SkyrimSE_TqQ7akWc5A.png" alt="Screenshot" /></p>
+
+</details>
 
 ## Contributing
 
