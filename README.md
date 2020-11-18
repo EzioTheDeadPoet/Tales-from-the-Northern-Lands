@@ -102,7 +102,7 @@ For the gameplay this list contains mods that intend to make you stronger and fe
 
 So I have created a page where you can share your screenshots of this list with others and I really hope you can help me out or have fun sharing screenshots since I am not the best at taking nice looking screenshots myself.
 You can make screenshots using the `F11` key and find them in the `Screenshots` folder inside of the `Screenshots ! Racemenu Presets ! Game Generated` Mod.
-I have moved a screenshots to this[page](SCREENSHOTSDISPLAY.md) to never be limited by the space on this overview and instructions page.
+I have moved a screenshots to this [page](SCREENSHOTSDISPLAY.md) to never be limited by the space on this overview and instructions page.
 To learn how share your screenshots check the [Contibutng](#contiuting) section of this guide.
 
 ## Installation
