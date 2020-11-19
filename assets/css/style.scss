@@ -149,7 +149,7 @@ table.socials tbody tr td, table.socials tbody tr, table.socials tbody, table.so
 }
 
 table.socials tbody tr td {
-	padding: 0px;
+	padding: auto;
 }
 
 table.socials ul {
@@ -162,6 +162,10 @@ table.socials li {
 	width: auto;
     height: 15px;
     margin-bottom: 4px;
+}
+
+table.socials td ul {
+	margin-bottom: 12px;
 }
 
  td li.buttons {
