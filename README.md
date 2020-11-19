@@ -1,6 +1,6 @@
 # ![tfsh-banner](Cover/tfsh-banner.png)
 
-![total_installations](https://img.shields.io/endpoint?url=https://build.wabbajack.org/metrics/badge/TalesFromTheNorthernLands/total_installs_badge.json)
+![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/TalesFromTheNorthernLands/badge.json)
 
 ## Index
 
