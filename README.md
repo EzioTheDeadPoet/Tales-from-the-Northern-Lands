@@ -145,8 +145,6 @@ Or use [Skyrim Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/301
 After you have done everything above and got a clean SSE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
 Start the game and exit once you're in the main menu.
 
-[[Back to top]](#tfsh-banner)
-
 ### Using Wabbajack
 
 #### Preparations
@@ -183,8 +181,6 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 **Windows is reporting that a virus has been detected**:
 
 Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2 saying a threat was detected . This is a known false positive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for windows defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
-
-[[Back to top]](#tfsh-banner)
 
 ## Post-Installation
 
@@ -311,8 +307,6 @@ Xanza found that using these settings reduces save bloat by quite a bit.
 
 The rest can be set up however you like. I personally have Swords on back
 
-[[Back to top]](#tfsh-banner)
-
 ## Other Post Installation FAQ
 
 ### Ultrawide Options
@@ -386,6 +380,4 @@ See [Changelog](CHANGELOG.md).
 
 - [ReShade License](ReShade/RESHADELICENSE.md)
 
-***
-
-[[Back to top]](#tfsh-banner)
+---
