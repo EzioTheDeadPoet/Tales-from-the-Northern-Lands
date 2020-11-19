@@ -6,8 +6,6 @@
 
 <!-- markdownlint-disable MD033 -->
 
-Expand sections by clicking on the triangle.
-
 <details><summary><a href="">Tales from the Northern Lands</a></summary>
   <ul>
     <li><a href="#preamble">Preamble</a></li>
