@@ -56,6 +56,11 @@ h1, h2, h3, h4 {
     padding-bottom: 5px;
 }
 
+h1 {
+	border-bottom: 0px;
+	padding-bottom: 0px ;
+}
+
 h2 {
     border-bottom: 3px solid #ccc;
 }
