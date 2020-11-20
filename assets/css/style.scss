@@ -37,7 +37,8 @@ a.aboutMe {
 
 body {
 	color: #FBF8F1;
-    background-color: #262D37;
+	background-color: #262D37;
+	padding: 0 2% 0 0
   
 }
 
@@ -251,7 +252,7 @@ img {
     width: auto\9; /* ie8 */
 }
 
-@media print, screen and (max-width: 960px) {
+@media print, screen and (max-width: 980px) {
 
 	div.wrapper {
 	  width:initial;
@@ -269,7 +270,7 @@ img {
 	}
   
 	section {
-	  padding:20px 84px 20px 50px;
+	  
 	  margin:0 0 20px;
 	}
   
@@ -296,6 +297,39 @@ img {
 	header ul li.changelog {
 		display:none;
 	}
+}
+
+//to overwrite the original settings as well
+@media print, screen and (max-width: 960px) {
+
+	div.wrapper {
+		width:initial;
+		margin:0;
+	}
+ 
+	header, section, footer {
+	  	float:none;
+	  	position:static;
+	  	width:auto;
+	}
+   
+	header {
+	  	padding-right: initial;
+	}
+  
+	section {
+		padding:0px 4% 0px 4%;
+	  	margin:0 0 20px;
+	}
+  
+	header a small {
+	  	display:inline;
+	}
+  
+	header ul {
+	  	position: initial;
+	}
+
 }
 
 h1 {
