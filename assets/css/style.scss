@@ -41,6 +41,10 @@ body {
   
 }
 
+.wrapper {
+	width: fit-content;
+}
+
 header {
 	background-color: #262D37;
 	color: #FBF8F1;
@@ -93,6 +97,10 @@ pre {
  
 a small {
 	font-size: 8px;
+}
+
+header {
+	width: 15%;
 }
 
 header li {
@@ -213,6 +221,10 @@ td li.buttons:hover {
     background: linear-gradient(to top, #e5ac80 0%,#b3672d 100%);
 }
 
+section {
+	width: 75%;
+}
+
 section a.buttons {
 	width:132px;
 	height:15px;
@@ -265,10 +277,47 @@ img {
     width: auto\9; /* ie8 */
 }
 
-@media print, screen and (max-width: 1000px) {
-	header ul {
-	  	position: initial;
+@media print, screen and (max-width: 1080px) {
+
+	div.wrapper {
+	  width:auto;
+	  margin:0;
 	}
+  
+	header, section, footer {
+	  float:none;
+	  position:static;
+	  width:auto;
+	}
+  
+	  footer {
+		  border-top: 1px solid #ccc;
+		  margin:0 84px 0 50px;
+		  padding:0;
+	  }
+  
+	header {
+	  padding-right:320px;
+	}
+  
+	section {
+	  padding:20px 84px 20px 50px;
+	  margin:0 0 20px;
+	}
+  
+	header a small {
+	  display:inline;
+	}
+  
+	header ul {
+	  position:absolute;
+	  right:130px;
+	  top:84px;
+	}
+
+	header ul li.download {
+		display:none;
+	  }
 }
 
 h1 {
