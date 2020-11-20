@@ -1,4 +1,6 @@
-# ![tfsh-banner](Cover/tfsh-banner.png)
+# Tales from the Northern Lands
+
+![tfsh-banner](Cover/tfsh-banner.png)
 
 ![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/TalesFromTheNorthernLands/badge.json)
 
@@ -6,7 +8,7 @@
 
 <!-- markdownlint-disable MD033 -->
 
-<details><summary><a href="">Tales from the Northern Lands</a></summary>
+<details><summary><a href="#tales-from-the-northern-lands">Tales from the Northern Lands</a></summary>
   <ul>
     <li><a href="#preamble">Preamble</a></li>
     <li><a href="#screenshots">Screenshots</a></li>
