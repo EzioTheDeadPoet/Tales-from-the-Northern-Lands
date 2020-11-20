@@ -1,3 +1,7 @@
+---
+description: This page is meant for all of you to share, enjoy or just look at the screenshots people have taken while playing this modlist.
+---
+
 # Screenshot Display
 
 <!-- markdownlint-disable MD033 -->
@@ -5,6 +9,7 @@
 <ul>
   <li><a href="#screenshot-display">Screenshot Display</a>
     <ul>
+      <li><a href="#description">Description</a></li>
       <li><a href="#pre-release-screenshots">Pre-Release Screenshots</a></li>
       <li><a href="#version-10-screenshots">Version 1.0 Screenshots</a></li>
       <li><a href="#version-19-screenshots">Version 1.9 Screenshots</a></li>
@@ -13,6 +18,9 @@
   </li>
 </ul>
 
+## Description
+
+This page is meant for all of you to share, enjoy or just look at the screenshots people have taken while playing this modlist. And I am looking forward to add more screenshots submitted by all of you to the list. And now enjoy the view.
 
 ## Pre-Release Screenshots
 
