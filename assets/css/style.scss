@@ -251,7 +251,7 @@ img {
     width: auto\9; /* ie8 */
 }
 
-@media print, screen and (max-width: px) {
+@media print, screen and (max-width: 960px) {
 
 	div.wrapper {
 	  width:initial;
