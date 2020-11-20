@@ -1,5 +1,7 @@
 # Screenshot Display
 
+<!-- markdownlint-disable MD033 -->
+
 - [Screenshot Display](#screenshot-display)
   - [Pre-Release Screenshots](#pre-release-screenshots)
   - [Version 1.0 Screenshots](#version-10-screenshots)
@@ -7,8 +9,6 @@
   - [Contributing](#contributing)
 
 ## Pre-Release Screenshots
-
-<!-- markdownlint-disable MD033 -->
 
 <details>
 <summary>click to show</summary>
@@ -77,8 +77,13 @@
 
 ## Version 1.0 Screenshot
 
+<details>
+<summary>click to show</summary>
+
 <p><img src="https://i.imgur.com/RKWZERD.png" alt="screenshot" />
 by antun</p>
+
+</details>
 
 ## Version 1.9.0 Screenshots
 
