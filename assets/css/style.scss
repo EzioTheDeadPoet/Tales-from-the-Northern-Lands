@@ -252,6 +252,12 @@ img {
     width: auto\9; /* ie8 */
 }
 
+section details {
+	max-width: 100%;
+	height: auto;
+	width: auto\9; /* ie8 */
+}
+
 @media print, screen and (max-width: 980px) {
 
 	div.wrapper {

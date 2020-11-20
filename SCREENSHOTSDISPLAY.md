@@ -1,18 +1,18 @@
 # Screenshot Display
 
 <!-- markdownlint-disable MD033 -->
-<p>
-  <ul>
-    <li><a href="#screenshot-display">Screenshot Display</a>
-      <ul>
-        <li><a href="#pre-release-screenshots">Pre-Release Screenshots</a></li>
-        <li><a href="#version-10-screenshots">Version 1.0 Screenshots</a></li>
-        <li><a href="#version-19-screenshots">Version 1.9 Screenshots</a></li>
-        <li><a href="#contributing">Contributing</a></li>
-      </ul>
-    </li>
-  </ul>
-</p>
+
+<ul>
+  <li><a href="#screenshot-display">Screenshot Display</a>
+    <ul>
+      <li><a href="#pre-release-screenshots">Pre-Release Screenshots</a></li>
+      <li><a href="#version-10-screenshots">Version 1.0 Screenshots</a></li>
+      <li><a href="#version-19-screenshots">Version 1.9 Screenshots</a></li>
+      <li><a href="#contributing">Contributing</a></li>
+    </ul>
+  </li>
+</ul>
+
 
 ## Pre-Release Screenshots
 
