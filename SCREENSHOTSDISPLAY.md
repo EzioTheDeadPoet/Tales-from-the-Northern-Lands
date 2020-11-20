@@ -139,6 +139,6 @@ by antun</p>
 
 See [How to contribute](HOWTOCONTRIBUTE.md).
 
-***
+---
 
 [[Back to top]](#screenshot-display)
