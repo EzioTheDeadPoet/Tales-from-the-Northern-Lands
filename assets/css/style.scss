@@ -38,7 +38,7 @@ a.aboutMe {
 body {
 	color: #FBF8F1;
 	background-color: #262D37;
-	padding: 0 2% 0 0
+	padding: 0 12% 0 0
   
 }
 
@@ -263,6 +263,10 @@ img {
 	  float:none;
 	  position:static;
 	  width:auto;
+	}
+
+	body {
+		padding: 0 2% 0 0
 	}
    
 	header {
