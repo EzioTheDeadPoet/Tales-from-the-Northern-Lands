@@ -21,7 +21,9 @@ description: This page is meant for all of you to share, enjoy or just look at t
 
 ## Description
 
+<div>
 This page is meant for all of you to share, enjoy or just look at the screenshots people have taken while playing this modlist. And I am looking forward to add more screenshots submitted by all of you to the list. And now enjoy the view.
+</div>
 
 ## Pre-Release Screenshots
 
@@ -135,6 +137,8 @@ by antun</p>
 <p><img src="Screenshots/1.9/SkyrimSE_TqQ7akWc5A.png" alt="Screenshot" /></p>
 
 </details>
+
+<!-- markdownlint-enable MD033 -->
 
 ## Contributing
 
