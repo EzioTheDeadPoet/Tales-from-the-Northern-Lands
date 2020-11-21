@@ -200,7 +200,9 @@ Customizable UI Replacer has multiple good looking presets.
 
 ### Dear Diary - Paper SkyUI Menus Replacer SE
 
-If you use the `Basics` profile then you **NEED** to "reinstall" this mod and selecting everything based on preference and when it comes to the Skills menu choose vanilla, or whatever mods you want to add to it. The default setting for the Skill Menu is `Experience + Extended UI` in the normal Profile.
+If you use the `Basics` profile then you **NEED** to "reinstall" this mod and selecting everything based on preference and when it comes to the Skills menu choose vanilla, or whatever mods you want to add to it. 
+The default setting for the Skill Menu is `Experience + Extended UI` in the normal Profile but those mods are disabled by default. I a future update I plan to enable `Extended UI` for the `Basics Profile` since it fixes the missing requirements on some perks that happen due to the font included in the list.
+I am not sure if I have the font enabled in the basics profile as of right now, but I will update this and the profile once I know for sure, but I thought I should mention that Extended UI is pretty useful for this.
 
 ### SmoothCam
 
