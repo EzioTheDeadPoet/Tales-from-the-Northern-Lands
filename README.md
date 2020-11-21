@@ -196,7 +196,7 @@ Customizable UI Replacer has multiple good looking presets.
 
 - To test other presets just right-click the `Customizable UI Replacer` Mod and hit reinstall and select the preset you want and then follow the User Manual PDF placed inside the `DOCs` folder, BUT IGNORE the Category Icon Theme setting and leave it at `SKYUI v5`.
 - Open the mod and navigate to `interface/skyhud/` and open `skyhud.txt` and set `uPersistentMeter=1` to `uPersistentMeter=0` so your status bars can be hidden. (If you want them persistent set it back to 1)
-- Once `Customizable UI Replacer` is reinstalled follow the steps for [A Matter of Time](#a-matter-of-time) and [Widget Mod](#widget-mod).
+- If you reinstalled `Customizable UI Replacer` mid or playthrough follow the steps for [A Matter of Time](#a-matter-of-time) and [Widget Mod](#widget-mod).
 
 ### Dear Diary - Paper SkyUI Menus Replacer SE
 
