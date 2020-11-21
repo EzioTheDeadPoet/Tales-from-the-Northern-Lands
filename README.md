@@ -98,8 +98,8 @@ For the gameplay this list contains mods that intend to make you stronger and fe
 
 I used my other list [SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](https://eziothedeadpoet.github.io/SME-FT-/) as a baseline to create this. If you are interested in building your own setup or want a vanilla list just with fixes to test your own mods feel free to try it out.
 
-**A very new addition to this list is a Basics profile only containing the most important bugfixes and visual mods without the gameplay or additional item mods.**
-*keep on mind I can't offer support if you added mods.*
+**A very new addition to this list is a Basics profile only containing the most important bugfixes and visual mods without the gameplay or additional item mods.**\
+*Keep in mind I can't offer support if you added mods.*
 
 ## Screenshots
 
