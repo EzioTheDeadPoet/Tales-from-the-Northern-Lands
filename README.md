@@ -90,7 +90,7 @@
 
 ## Preamble
 
-This is a visual and gameplay overhaul.
+This is a visual and gameplay overhaul. But if you came just for the visuals don't worry I got you covered to, the only thing I can't do for you is offer support if you add mods to the `Basics` profile, which is made for everyone just interested in the visuals.
 
 For the visual overhaul I tried to mimic the look of the "Tales of/from ..." Series, "The Wolf Among Us" and mainly "Borderlands" with their cell shaded visuals. The visual overhaul I used to create this list [Artistic Skyrim Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/9111), was stylized in a for my taste way to reflective way but I liked the textures them self so I have changed most of the normal maps of the textures i came around while testing this list. There are for sure textures missing that treatment but I will update this list every time I update more of the normal maps to be less reflective.
 
@@ -99,6 +99,7 @@ For the gameplay this list contains mods that intend to make you stronger and fe
 I used my other list [SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](https://eziothedeadpoet.github.io/SME-FT-/) as a baseline to create this. If you are interested in building your own setup or want a vanilla list just with fixes to test your own mods feel free to try it out.
 
 **A very new addition to this list is a Basics profile only containing the most important bugfixes and visual mods without the gameplay or additional item mods.**
+*keep on mind I can't offer support if you added mods.*
 
 ## Screenshots
 
