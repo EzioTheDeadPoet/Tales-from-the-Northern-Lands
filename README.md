@@ -210,7 +210,7 @@ You can get one of the presets from the nexus, set it up yourself to your liking
 
 ## How to start up Tales from the Northern Lands
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button. Under the run button you can find a shortcut menu that allows you to make a desktop shortcut.
 
 ## Updating
 
@@ -220,7 +220,7 @@ If this Modlist receives an update please check the Changelog before doing anyth
 
 This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
 
-Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button. Make sure to do backups of your saves in case anything goes wrong.
 
 ## In-Game MCM Options
 
