@@ -90,7 +90,9 @@
 
 ## Preamble
 
-This is a visual overhaul of Skyrim that tries to mimic the look of the "Tales of/from ..." Series, "The Wolf Among Us" and mainly "Borderlands" with their cell shaded visuals. The Visual Overhaul I used to create this list was stylized in a for my taste way to reflective way but I liked the textures them self so I have changed most of the normal maps of the textures i came around while testing this list. There are for sure textures missing that treatment but I will update this list every time I update more of the normal maps to be less reflective.
+This is a visual and gameplay overhaul.
+
+For the visual overhaul I tried to mimic the look of the "Tales of/from ..." Series, "The Wolf Among Us" and mainly "Borderlands" with their cell shaded visuals. The visual overhaul I used to create this list [Artistic Skyrim Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/9111), was stylized in a for my taste way to reflective way but I liked the textures them self so I have changed most of the normal maps of the textures i came around while testing this list. There are for sure textures missing that treatment but I will update this list every time I update more of the normal maps to be less reflective.
 
 For the gameplay this list contains mods that intend to make you stronger and feel like and actually special person in Skyrim just like the Vault Hunters and the Dragonborn should be able to feel in their stories. The main mods to achieve this are SPERG, Skyrim Skill Uncapper and the True Dragonborn preset for it. It also features 93,786 different weapons (counting different enchantments on similar weapons) and 91,086  wearables (again counting different enchantments on the same item) thanks to [Halgari's RPG Loot Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/37736) powered by [Noggog's Synthesis Tool](https://github.com/Noggog/Synthesis).
 
@@ -362,6 +364,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ReShade files w
 - erri120 & jdsmith2816 - Repository template
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
 - Halgari and Noggog for making the high variety in weapons and Armor possible
+- The team behind the Artistic Skyrim Overhaul that inspired me to make this because of it's very distinctive unique style.
 - And ALL the mod authors that made the mods featured in this list.
 
 ## Contact
