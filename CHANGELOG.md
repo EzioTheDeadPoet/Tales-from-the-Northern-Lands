@@ -15,7 +15,7 @@
   - My mods on the nexus to be in line with this list again. (Reshade Preset and the fixes for Artistic Skyrim Overhaul)
   - [EVG Conditional Idles](https://www.nexusmods.com/skyrimspecialedition/mods/34006)
   - [powerofthree's Papyrus Extender for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
-  - The [DynDOLOD Tool](https://www.nexusmods.com/skyrim/mods/59721)
+  - The [DynDOLOD Tool](https://www.nexusmods.com/skyrim/mods/59721) but I did not regenerate LODs why ?
     - I am lazy
     - I didn't change any textures or meshes that would require a rerun if the tool hadn't updated.
 
