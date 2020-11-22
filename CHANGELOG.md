@@ -1,5 +1,24 @@
 # Changelog
 
+## 1.9.2: Tales from the Northern Lands | The Performance & Graphics Update
+
+### Released at: `22.11.2020`
+
+- Introduced some INI-Tweaks that fixed the reflections indoors and gave a high boost in performance, if it runs worse for you check the quality settings section in the documentation. (due to the boost I increased the settings to use the High BethINI preset as a starting point allowing more choice on the lower end spectrum and increasing the Quality for the average user by default).
+  - BIG THANKS to NotSandwich 🥪 for sharing those
+
+- added
+  - [OnHit Animations Framework - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/42574)
+  - [Flinching - Script Free Edition](https://www.nexusmods.com/skyrimspecialedition/mods/42550)
+
+- updated
+  - My mods on the nexus to be in line with this list again. (Reshade Preset and the fixes for Artistic Skyrim Overhaul)
+  - [EVG Conditional Idles](https://www.nexusmods.com/skyrimspecialedition/mods/34006)
+  - [powerofthree's Papyrus Extender for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
+  - The [DynDOLOD Tool](https://www.nexusmods.com/skyrim/mods/59721)
+    - I am lazy
+    - I didn't change any textures or meshes that would require a rerun if the tool hadn't updated.
+
 ## 1.9.1: Tales from the Northern Lands
 
 ### Released at: `18.11.2020` | hotfix

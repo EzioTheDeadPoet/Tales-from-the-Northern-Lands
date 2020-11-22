@@ -45,8 +45,9 @@
         <li><a href="#copy-game-folder-files">Copy Game Folder Files</a></li>
       </ul>
     </details></li>
-    <li><details><summary><a href="#mods-to-tweak-to-your-taste">Mods to tweak to your taste</a></summary>
+    <li><details><summary><a href="#mods-and-settings-to-tweak-to-your-taste">Mods and Settings to tweak to your taste</a></summary>
       <ul>
+        <li><a href="#quality-settings">Quality Settings</a></li>
         <li><a href="#customizable-ui-replacer">Customizable UI Replacer</a></li>
         <li><a href="#dear-diary---paper-skyui-menus-replacer-se">Dear Diary - Paper SkyUI Menus Replacer SE</a></li>
         <li><a href="#smoothcam">SmoothCam</a></li>
@@ -90,7 +91,7 @@
 
 ## Preamble
 
-This is a visual overhaul of Skyrim that tries to mimic the look of the "Tales of/from ..." Series, "The Wolf Among Us" and mainly "Borderlands" with their cell shaded visuals. The Visual Overhaul I used to create this list was stylized in a for my taste way to reflective way but I liked the textures them self so I have changed most of the normal maps of the textures i came around while testing this list. There are for sure textures missing that treatment but I will update this list every time I update more of the normal maps to be less reflective.
+This is a visual overhaul of Skyrim that tries to mimic the look of the "Tales of/from ..." Series, "The Wolf Among Us" and mainly "Borderlands" with their cell shaded visuals. The Visual Overhaul I used to create this list was stylized in a for my taste way to reflective way but I liked the textures them self so I have changed most of the normal maps of the textures i came around while testing this list. Thanks to NotSandwich on the WJ discord there are no reflecting textures anymore.
 
 For the gameplay this list contains mods that intend to make you stronger and feel like and actually special person in Skyrim just like the Vault Hunters and the Dragonborn should be able to feel in their stories. The main mods to achieve this are SPERG, Skyrim Skill Uncapper and the True Dragonborn preset for it. It also features 93,786 different weapons (counting different enchantments on similar weapons) and 91,086  wearables (again counting different enchantments on the same item) thanks to [Halgari's RPG Loot Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/37736) powered by [Noggog's Synthesis Tool](https://github.com/Noggog/Synthesis).
 
@@ -188,7 +189,44 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 
 Copy the all of the files from the `Installation Folder/Game Folder Files` directory into your game folder.
 
-## Mods to tweak to your taste
+## Mods and Settings to tweak to your taste
+
+### Quality Settings
+
+- To change the quality settings to something higher or lower settings then the `High` settings (the only higher automated BethINI setting is `Ultra` you can probably go higher but not automated) I use with my GTX 950 2GB VRAM (it is a potato card in every regard) do the flowing:
+  - Locate the `BethINI.exe` in `...\\(name of the MO 2 folder(the installation path you choose for the modlist))\tools\BethINI (ONLY LAUNCH WITH MO AND THE GAME CLOSED)` and run it with the game and MO2 closed.
+    - In there (BethINI) go to the `Setup` tab and point BethINI to your `ModOrganizer.EXE`.
+    - Select the Profile you intend to use in the INI Path section (Either the Normal one or the `Basics` one).
+    - Now you Select a Preset fitting your Hardware. (You can go higher than your vanilla settings here because of the tweaks you will do in a few steps form now.)
+    - Save and Exit
+  - Open MO2 and click on the puzzle symbol with the hover tooltip `tools` and open the ini-editor
+    - now choose the file `SkyrimCustom.ini` and put the following at the end of it, save it and you are done.
+
+```ini
+[Display]
+
+fSparklesSpecularPower=0.0000
+
+fSpecularSparklesIntensity=0.0000
+
+[Landscape]
+
+bLandSpecular=0
+
+[LightingShader]
+
+fEnvmapLODFadeEnd=0.0
+
+fEnvmapLODFadeStart=0.0
+
+fRefractionLODFadeEnd=0.0
+
+fRefractionLODFadeStart=0.0
+
+fSpecularLODFadeEnd=0.0
+
+fSpecularLODFadeStart=0.0
+```
 
 ### Customizable UI Replacer
 
@@ -355,6 +393,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ReShade files w
 - _YOU_ for actually reading the readme. Thanks a ton!!
 - Xanza for writing A LOT of this for his modlist.
 - ForgottenGlory for making SME(FT) and this modlist possible due to his early support. 🧡
+- Thanks to NotSandwich on the Wabbajack Discord for sharing some awesome .ini edits that killed all unwanted reflections.🥪
 - Everyone giving me feedback on the artistic choices.
 - the creator of ReShade with its generous [License](ReShade/RESHADELICENSE.md#reshade-license) that allows me to include it.
 - erri120 & jdsmith2816 - Repository template
