@@ -91,13 +91,16 @@
 
 ## Preamble
 
-This is a visual overhaul of Skyrim that tries to mimic the look of the "Tales of/from ..." Series, "The Wolf Among Us" and mainly "Borderlands" with their cell shaded visuals. The Visual Overhaul I used to create this list was stylized in a for my taste way to reflective way but I liked the textures them self so I have changed most of the normal maps of the textures i came around while testing this list. Thanks to NotSandwich on the WJ discord there are no reflecting textures anymore.
+This is a visual and gameplay overhaul. But if you came just for the visuals don't worry I got you covered to, the only thing I can't do for you is offer support if you add mods to the `Basics` profile, which is made for everyone just interested in the visuals.
+
+For the visual overhaul I tried to mimic the look of the "Tales of/from ..." Series, "The Wolf Among Us" and mainly "Borderlands" with their cell shaded visuals. The visual overhaul I used to create this list [Artistic Skyrim Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/9111), was stylized in a for my taste way to reflective way but I liked the textures them self so I have changed most of the normal maps of the textures i came around while testing this list. And thanks to NotSandwich on the WJ discord there are no reflecting textures anymore, due to an INI tweak he recommended.
 
 For the gameplay this list contains mods that intend to make you stronger and feel like and actually special person in Skyrim just like the Vault Hunters and the Dragonborn should be able to feel in their stories. The main mods to achieve this are SPERG, Skyrim Skill Uncapper and the True Dragonborn preset for it. It also features 93,786 different weapons (counting different enchantments on similar weapons) and 91,086  wearables (again counting different enchantments on the same item) thanks to [Halgari's RPG Loot Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/37736) powered by [Noggog's Synthesis Tool](https://github.com/Noggog/Synthesis).
 
-I used my other list [SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](https://eziothedeadpoet.github.io/SME-FT-/) as a baseline to create this. If you are interested in building your own setup or want a vanilla list just with fixed to test your own mods feel free to try it out.
+I used my other list [SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](https://eziothedeadpoet.github.io/SME-FT-/) as a baseline to create this. If you are interested in building your own setup or want a vanilla list just with fixes to test your own mods feel free to try it out.
 
-**A very new addition to this list is a Basics profile only containing the most important bugfixes and visual mods without the gameplay or additional item mods.**
+**A very new addition to this list is a Basics profile only containing the most important bugfixes and visual mods without the gameplay or additional item mods.**\
+*Keep in mind I can't offer support if you added mods.*
 
 ## Screenshots
 
@@ -234,11 +237,13 @@ Customizable UI Replacer has multiple good looking presets.
 
 - To test other presets just right-click the `Customizable UI Replacer` Mod and hit reinstall and select the preset you want and then follow the User Manual PDF placed inside the `DOCs` folder, BUT IGNORE the Category Icon Theme setting and leave it at `SKYUI v5`.
 - Open the mod and navigate to `interface/skyhud/` and open `skyhud.txt` and set `uPersistentMeter=1` to `uPersistentMeter=0` so your status bars can be hidden. (If you want them persistent set it back to 1)
-- Once `Customizable UI Replacer` is reinstalled follow the steps for [A Matter of Time](#a-matter-of-time) and [Widget Mod](#widget-mod).
+- If you reinstalled `Customizable UI Replacer` mid or playthrough follow the steps for [A Matter of Time](#a-matter-of-time) and [Widget Mod](#widget-mod).
 
 ### Dear Diary - Paper SkyUI Menus Replacer SE
 
-If you use the `Basics` profile then you **NEED** to "reinstall" this mod and selecting everything based on preference and when it comes to the Skills menu choose vanilla, or whatever mods you want to add to it. The default setting for the Skill Menu is `Experience + Extended UI` in the normal Profile.
+If you use the `Basics` profile then you **NEED** to "reinstall" this mod and selecting everything based on preference and when it comes to the Skills menu choose vanilla, or whatever mods you want to add to it. 
+The default setting for the Skill Menu is `Experience + Extended UI` in the normal profile but those mods are disabled by default. I a future update I plan to enable `Extended UI` for the `Basics` profile since it fixes the missing requirements on some perks that happen due to the font included in the list.
+I am not sure if I have the font enabled in the basics profile as of right now, but I will update this and the profile once I know for sure, but I thought I should mention that `Extended UI` is pretty useful for fixing fonts in the Skill menu.
 
 ### SmoothCam
 
@@ -246,7 +251,7 @@ You can get one of the presets from the nexus, set it up yourself to your liking
 
 ## How to start up Tales from the Northern Lands
 
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button.
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button. Under the run button you can find a shortcut menu that allows you to make a desktop shortcut.
 
 ## Updating
 
@@ -256,7 +261,7 @@ If this Modlist receives an update please check the Changelog before doing anyth
 
 This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
 
-Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button.
+Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button. Make sure to do backups of your saves in case anything goes wrong.
 
 ## In-Game MCM Options
 
@@ -399,6 +404,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ReShade files w
 - erri120 & jdsmith2816 - Repository template
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
 - Halgari and Noggog for making the high variety in weapons and Armor possible
+- The team behind the Artistic Skyrim Overhaul that inspired me to make this because of it's very distinctive unique style.
 - And ALL the mod authors that made the mods featured in this list.
 
 ## Contact
