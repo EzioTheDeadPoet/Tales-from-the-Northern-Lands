@@ -54,6 +54,7 @@ header {
 	align-self: start;
 	order: 1;
 	flex-direction: column;
+	position: relative;
 	background-color: #262D37;
 	color: #FBF8F1;
 }
@@ -63,9 +64,11 @@ div.headertext {
 }
 
 ul.header {
+	display: flex;
+	flex-direction: column;
+	align-content: space-around;
 	order: 2;
 }
-
 
 section {
 	order: 2;
