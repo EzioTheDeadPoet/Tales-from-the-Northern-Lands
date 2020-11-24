@@ -74,6 +74,10 @@ div.header {
 	order: 2;
 }
 
+div.header p {
+	margin: 11px 0;
+}
+
 section {
 	order: 2;
 	width: 75%;
@@ -84,6 +88,7 @@ div.socials {
 	flex-wrap: wrap;
 	justify-content: space-evenly;
 	align-content: space-evenly;
+	align-items: baseline;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -156,7 +161,7 @@ header {
 
 div.header a.buttons {
 	list-style-type: none;
-  	width:132px;
+  	width:160px;
 	height:15px;
 	margin-bottom: 12px;
 	margin-right: 6px;
