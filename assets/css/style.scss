@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+a.buttons {
+	padding: 8px 2px 2px 22px;
+}
+
 a.wabbajack {
 	background: url(../images/wabbajack-small.png) no-repeat 1px;
 }
@@ -143,7 +147,7 @@ header {
 	width: 15%;
 }
 
-div.header a.button {
+div.header a.buttons {
 	list-style-type: none;
   	width:132px;
 	height:15px;
@@ -168,7 +172,7 @@ div.header a.button {
 	box-shadow: inset 0px 1px 1px 0 rgba(233,2,38, 1);
 }
 
-div.header a.button:hover {
+div.header a.buttons:hover {
 	background: #e5ac80;
 	background: -moz-linear-gradient(top, #e5ac80 0%, #950119 100%);
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#8DAEB5), color-stop(100%,#8DAEB5));
