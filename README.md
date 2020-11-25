@@ -59,6 +59,7 @@
       <ul>
         <li><a href="#all-geared-up-deriv">All Geared up Deriv</a></li>
         <li><a href="#a-matter-of-time">A Matter of Time</a></li>
+        <li><a href="#archery-gameplay-overhaul">Archery Gameplay Overhaul</a></li>
         <li><a href="#dual-wield-parrying">Dual Wield Parrying</a></li>
         <li><a href="#follower-framework-preference">Follower Framework</a></li>
         <li><a href="#immersive-hud">Immersive Hud</a></li>
@@ -202,34 +203,6 @@ Copy the all of the files from the `Installation Folder/Game Folder Files` direc
     - Select the Profile you intend to use in the INI Path section (Either the Normal one or the `Basics` one).
     - Now you Select a Preset fitting your Hardware. (You can go higher than your vanilla settings here because of the tweaks you will do in a few steps form now.)
     - Save and Exit
-  - Open MO2 and click on the puzzle symbol with the hover tooltip `tools` and open the ini-editor
-    - now choose the file `SkyrimCustom.ini` and put the following at the end of it, save it and you are done.
-
-```ini
-[Display]
-
-fSparklesSpecularPower=0.0000
-
-fSpecularSparklesIntensity=0.0000
-
-[Landscape]
-
-bLandSpecular=0
-
-[LightingShader]
-
-fEnvmapLODFadeEnd=0.0
-
-fEnvmapLODFadeStart=0.0
-
-fRefractionLODFadeEnd=0.0
-
-fRefractionLODFadeStart=0.0
-
-fSpecularLODFadeEnd=0.0
-
-fSpecularLODFadeStart=0.0
-```
 
 ### Customizable UI Replacer
 
@@ -248,6 +221,8 @@ I am not sure if I have the font enabled in the basics profile as of right now, 
 ### SmoothCam
 
 You can get one of the presets from the nexus, set it up yourself to your liking or use the default settings (which is what I will do cause I am lazy).
+
+**IF YOU HAVE A OLD CPU THAT DOESN'T SUPPORT AVX (~2011 - earlier) GO TO THE [MODPAGE](https://www.nexusmods.com/skyrimspecialedition/mods/41252) AND GET THE `oldCPU` VERSION OF THIS MOD.**
 
 ## How to start up Tales from the Northern Lands
 
@@ -283,7 +258,15 @@ Mods or sections with (Preference) next to their name is solely preferential and
 
 - Presets:
   - Load user settings
-  
+
+### Archery Gameplay Overhaul
+
+- Settings
+  - Arrow Wounds(Player): `Disable`
+  - Arrow Wounds(NPC): `Disable`
+  - Arm Fatigue: `Disable`
+  - Remove Arrows Hotkey: `H` (Preference)
+
 ### Dual Wield Parrying
 
 - Block Key: `V` (set it to whatever suits you best.)

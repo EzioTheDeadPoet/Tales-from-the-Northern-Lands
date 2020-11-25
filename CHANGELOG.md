@@ -1,5 +1,19 @@
 # Changelog
 
+## 1.9.3: Tales from the Northern Lands
+
+### Released at: `25.11.2020`
+
+- tied the ini tweaks to the fix so you don't have to worry about it after running BethINI
+
+- enabled an ESP I forgot to enable...
+
+- added [Archery Gameplay Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/24296)
+
+- actually added [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252) I don't know how I missed that...
+
+- deleted [No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161) for performance reasons and because the better performing version would increase the size of this list by a large factor
+
 ## 1.9.2: Tales from the Northern Lands | The Performance & Graphics Update
 
 ### Released at: `22.11.2020`
