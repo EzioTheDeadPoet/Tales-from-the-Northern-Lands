@@ -201,7 +201,7 @@ Copy the all of the files from the `Installation Folder/Game Folder Files` direc
   - Locate the `BethINI.exe` in `...\\(name of the MO 2 folder(the installation path you choose for the modlist))\tools\BethINI (ONLY LAUNCH WITH MO AND THE GAME CLOSED)` and run it with the game and MO2 closed.
     - In there (BethINI) go to the `Setup` tab and point BethINI to your `ModOrganizer.EXE`.
     - Select the Profile you intend to use in the INI Path section (Either the Normal one or the `Basics` one).
-    - Now you Select a Preset fitting your Hardware. (You can go higher than your vanilla settings here because of the tweaks you will do in a few steps form now.)
+    - Now you Select a Preset fitting your Hardware. (You can go higher than your vanilla settings here because of the ini tweaks that get automatically made by a fix to remove unwanted reflections, that boost your FPS as a side effect.)
     - Save and Exit
 
 ### Customizable UI Replacer
