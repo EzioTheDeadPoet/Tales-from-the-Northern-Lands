@@ -45,9 +45,8 @@
         <li><a href="#copy-game-folder-files">Copy Game Folder Files</a></li>
       </ul>
     </details></li>
-    <li><details><summary><a href="#mods-and-settings-to-tweak-to-your-taste">Mods and Settings to tweak to your taste</a></summary>
+    <li><details><summary><a href="#mods-to-tweak-to-your-taste">Mods to tweak to your taste</a></summary>
       <ul>
-        <li><a href="#quality-settings">Quality Settings</a></li>
         <li><a href="#customizable-ui-replacer">Customizable UI Replacer</a></li>
         <li><a href="#dear-diary---paper-skyui-menus-replacer-se">Dear Diary - Paper SkyUI Menus Replacer SE</a></li>
         <li><a href="#smoothcam">SmoothCam</a></li>
@@ -193,16 +192,7 @@ Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the 
 
 Copy the all of the files from the `Installation Folder/Game Folder Files` directory into your game folder.
 
-## Mods and Settings to tweak to your taste
-
-### Quality Settings
-
-- To change the quality settings to something higher or lower settings then the `High` settings (the only higher automated BethINI setting is `Ultra` you can probably go higher but not automated) I use with my GTX 950 2GB VRAM (it is a potato card in every regard) do the flowing:
-  - Locate the `BethINI.exe` in `...\\(name of the MO 2 folder(the installation path you choose for the modlist))\tools\BethINI (ONLY LAUNCH WITH MO AND THE GAME CLOSED)` and run it with the game and MO2 closed.
-    - In there (BethINI) go to the `Setup` tab and point BethINI to your `ModOrganizer.EXE`.
-    - Select the Profile you intend to use in the INI Path section (Either the Normal one or the `Basics` one).
-    - Now you Select a Preset fitting your Hardware. (You can go higher than your vanilla settings here because of the ini tweaks that get automatically made by a fix to remove unwanted reflections, that boost your FPS as a side effect.)
-    - Save and Exit
+## Mods to tweak to your taste
 
 ### Customizable UI Replacer
 
@@ -356,10 +346,17 @@ The default setting for the Skill Menu is `Experience + Extended UI` in the norm
 
 ### Tweaking the Game Settings
 
-I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875) which is included in this Modlist (can be found in `MO2/tools/BethINI`). I recommend tweaking the `Detail` section for more FPS:
+- To change the quality settings to something higher or lower settings then the `High` settings (the only higher automated BethINI setting is `Ultra` you can probably go higher but not automated) I use with my GTX 950 2GB VRAM (it is a potato card in every regard) do the flowing:
+  - Locate the `BethINI.exe` in `...\\(name of the MO 2 folder(the installation path you choose for the modlist))\tools\BethINI (ONLY LAUNCH WITH MO AND THE GAME CLOSED)` and run it with the game and MO2 closed.
+    - In there (BethINI) go to the `Setup` tab and point BethINI to your `ModOrganizer.EXE`.
+    - Select the Profile you intend to use in the INI Path section (Either the Normal one or the `Basics` one).
+    - Now you Select a Preset fitting your Hardware. (You can go higher than your vanilla settings here because of the ini tweaks that get automatically made by a fix to remove unwanted reflections, that boost your FPS as a side effect.)
+    - Save and Exit
+
+I recommend tweaking the `Detail` section for more FPS(If nothing else worked):
 
 - `Shadow Resolution`: Very big one. A good balance is `2048` which is the borderline between high FPS drainage and garbage looking shadows.
-- `Ambient Occlusion`: Highly recommended to turn either this or your ENB version off. Do not have the game AO and an ENB AO turned on at the same time.
+- `Ambient Occlusion`: Highly recommended to turn either this or your ENB version off (if you decided to use one). Do not have the game AO and an ENB AO turned on at the same time.
 - `Remove Shadows`: If you really struggle, use this. This will disable all Shadows (not recommended)
 
 ### Zoomed in Display
