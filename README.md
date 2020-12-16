@@ -105,7 +105,7 @@ I used my other list [SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](https
 ## Screenshots
 
 So I have created a page where you can share your screenshots of this list with others and I really hope you can help me out or have fun sharing screenshots since I am not the best at taking nice looking screenshots myself.
-You can make screenshots using the `F11` key and find them in the `Screenshots` folder inside of the `Screenshots ! Racemenu Presets ! Game Generated` Mod.
+~~You can make screenshots using the `F11` key and find them in the `Screenshots` folder inside of the `Screenshots ! Racemenu Presets ! Game Generated` Mod.~~ <- Currently not working in my tests results might vary, the Steam Overlay or ShadowPlay might be valid alternatives for the time being.
 I have moved a screenshots to this [page](SCREENSHOTSDISPLAY.md) to never be limited by the space on this overview and instructions page.
 To learn how share your screenshots check the [Contibutng](#contiuting) section of this guide.
 
