@@ -26,6 +26,7 @@
   - [hank's gamepad and controller fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42492) (Disabled)
   - [Hel's Cel Shading](https://www.nexusmods.com/skyrimspecialedition/mods/41978) (and set as the default preset, my preset it still available)
   - [Loki's Wade In Water](https://www.nexusmods.com/skyrimspecialedition/mods/42854)
+  - [Night Eye Fix for Summermyst - Enchantments of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/44260) (thanks for all the users that helped with narrowing that issue down so I could fix it.)
   - [XP32 Maximum Skeleton Special Edition - Fixed Scripts](https://www.nexusmods.com/skyrimspecialedition/mods/44252)
 
 - updated
