@@ -1,5 +1,47 @@
 # Changelog
 
+## 1.10.0: Tales from the Northern Lands
+
+## Released at: `13.01.2021`
+
+**New save very highly recommended, due to a freshly generated Synthesis Patch with a new version of "Halgari's RPG Loot" (Backup and use the old Synthesis.esp and the "Protect Your People SE" mod\*) and the inclusion of "Forceful Tongue - Dragonborn Perk Tree" (you will have a "level disadvantage"\*²) but not 100% needed.**
+
+\* This counts as a Rule 11 edit. (void of right for support due to user edits, but the setup should still be fine and playable if you like your old save, if you didn't do anything else.)
+
+\*² But considering how this list is already a power phantasy this should not be to big of an issue.
+
+- fixed
+  - Screenshot key set to `F11`
+
+- replaced
+  - [Protect Your People SE](http://nexusmods.com/skyrimspecialedition/mods/10297) with a Synthesis Patch
+  - [Dragon Stalking Fix](http://nexusmods.com/skyrimspecialedition/mods/14060) with [Fixed Dragon Stalking Fix](https://www.nexusmods.com/skyrimspecialedition/mods/37230)
+
+- added
+  - [Custom Skills Framework](https://www.nexusmods.com/skyrimspecialedition/mods/41780)
+  - [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839)
+  - [Essential Favorites](https://www.nexusmods.com/skyrimspecialedition/mods/42997)
+  - [Favorite Misc Items](https://www.nexusmods.com/skyrimspecialedition/mods/42750)
+  - [Forceful Tongue - Dragonborn Perk Tree](https://www.nexusmods.com/skyrimspecialedition/mods/41950)
+  - [hank's gamepad and controller fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42492) (Disabled)
+  - [Hel's Cel Shading](https://www.nexusmods.com/skyrimspecialedition/mods/41978) (and set as the default preset, my preset it still available)
+  - [Loki's Wade In Water](https://www.nexusmods.com/skyrimspecialedition/mods/42854)
+  - [XP32 Maximum Skeleton Special Edition - Fixed Scripts](https://www.nexusmods.com/skyrimspecialedition/mods/44252)
+
+- updated
+  - [Alternate Start - Live Another Life - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/272)
+  - [Choose Your Starting Skills](https://www.nexusmods.com/skyrimspecialedition/mods/25630)
+  - [Dwemer Gates Don't Reset](https://www.nexusmods.com/skyrimspecialedition/mods/26331)
+  - DynDOLOD and LODGen regenerated.
+  - [Flinching - Script Free Edition](https://www.nexusmods.com/skyrimspecialedition/mods/42550)
+  - [Halgari's RPG Loot](https://www.nexusmods.com/skyrimspecialedition/mods/37736) (you will loose some weapons and armor if you keep your save)
+  - [NPC AI Process Position Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/40261)
+  - [Oblivionesque Category Icons For SkyUI SE](https://www.nexusmods.com/skyrimspecialedition/mods/29773)
+  - [OnHit Animations Framework - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/42574)
+  - [Quick Loot RE](https://www.nexusmods.com/skyrimspecialedition/mods/21085)
+  - [Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266)
+  - [XP32 Maximum Skeleton Special Extended - XPMSSE](https://www.nexusmods.com/skyrimspecialedition/mods/1988)
+
 ## 1.9.3: Tales from the Northern Lands
 
 ### Released at: `25.11.2020`
