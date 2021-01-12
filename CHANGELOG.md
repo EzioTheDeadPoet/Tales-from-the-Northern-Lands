@@ -2,7 +2,7 @@
 
 ## 1.10.0: Tales from the Northern Lands
 
-## Released at: `13.01.2021`
+### Released at: `13.01.2021`
 
 **New save very highly recommended, due to a freshly generated Synthesis Patch with a new version of "Halgari's RPG Loot" (Backup and use the old Synthesis.esp and the "Protect Your People SE" mod\*) and the inclusion of "Forceful Tongue - Dragonborn Perk Tree" (you will have a "level disadvantage"\*²) but not 100% needed.**
 
