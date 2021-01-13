@@ -346,7 +346,7 @@ The default setting for the Skill Menu is `Experience + Extended UI` in the norm
 
 ### Tweaking the Game Settings
 
-- To change the quality settings to something higher or lower settings then the `High` settings (the only higher automated BethINI setting is `Ultra` you can probably go higher but not automated) I use with my GTX 950 2GB VRAM (it is a potato card in every regard) do the flowing:
+- To change the quality settings to something higher or lower settings then the `Medium` settings (the only higher automated BethINI settings are `High` and `Ultra` you can probably go higher but not automated) I use with my GTX 950 2GB VRAM (it is a potato card in every regard) do the flowing:
   - Locate the `BethINI.exe` in `...\\(name of the MO 2 folder(the installation path you choose for the modlist))\tools\BethINI (ONLY LAUNCH WITH MO AND THE GAME CLOSED)` and run it with the game and MO2 closed.
     - In there (BethINI) go to the `Setup` tab and point BethINI to your `ModOrganizer.EXE`.
     - Select the Profile you intend to use in the INI Path section (Either the Normal one or the `Basics` one).
