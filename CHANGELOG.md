@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.10.1: Tales from the Northern Lands
+
+### Released at: `13.01.2021` Hotfix
+
+- one source file was broken
+- changed BethINI preset to `Medium`
+
 ## 1.10.0: Tales from the Northern Lands
 
 ### Released at: `13.01.2021`
