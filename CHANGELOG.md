@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.10.2: Tales from the Northern Lands
+
+### Released at: `14.01.2021`
+
+- fixed broken world map
+
 ## 1.10.1: Tales from the Northern Lands
 
 ### Released at: `13.01.2021` Hotfix
