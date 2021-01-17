@@ -386,6 +386,7 @@ You can just remove the MO2 folder and be done with it. SKSE and ReShade files w
 - Halgari and Noggog for making the high variety in weapons and Armor possible
 - The team behind the Artistic Skyrim Overhaul that inspired me to make this because of it's very distinctive unique style.
 - And ALL the mod authors that made the mods featured in this list.
+- Special thanks to all the other people listed [here](https://eziothedeadpoet.github.io/AboutMe/HALLOFFAME.html) that support this and other projects of mine.
 
 ## Contact
 
