@@ -1,4 +1,4 @@
-# User Reviews and Statements
+# User Comments
 
 ## Taken from the Wabbajack Discord
 <!-- markdownlint-disable MD026 -->
