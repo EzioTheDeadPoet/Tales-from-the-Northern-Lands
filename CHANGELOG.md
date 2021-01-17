@@ -1,5 +1,22 @@
 # Changelog
 
+## 1.10.3: Tales from the Northern Lands
+
+### Released at: `17.01.2021`
+
+- added:
+  - [First Person Dialogue Camera](https://www.nexusmods.com/skyrimspecialedition/mods/44462)
+
+- removed:
+  - [SSE Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/10547) (Covered by engine fixes)
+
+- updated:
+  - [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+  - [Enhanced Reanimation](https://www.nexusmods.com/skyrimspecialedition/mods/43500)
+  - [moreHUD SE](https://www.nexusmods.com/skyrimspecialedition/mods/12688)
+  - [OnHit Animations Framework - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/42574)
+  - ReShade Binaries v4.9.1
+
 ## 1.10.2: Tales from the Northern Lands
 
 ### Released at: `14.01.2021`
