@@ -1,3 +1,6 @@
+---
+description: This site explains how you can add screenshots to this page and how to best report issues. 
+---
 # How To Contribute
 
 There are many ways that you can contribute to this modlist. Pick one of the parts below that you want to contribute to:

@@ -1,3 +1,6 @@
+---
+description: This is the page where I put conversations and statements regarding the list that made my day and capture what it is all about.
+---
 # User Comments
 
 ## Taken from the Wabbajack Discord

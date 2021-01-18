@@ -1,3 +1,6 @@
+---
+description: Here you can find a list of changes made during each update.
+---
 # Changelog
 
 ## 1.10.3: Tales from the Northern Lands
