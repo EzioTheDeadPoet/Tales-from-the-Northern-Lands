@@ -3,6 +3,20 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 1.10.4: Tales from the Northern Lands
+
+### Released at: `20.01.2021`
+
+**You can keep the same save, but `Forceful Tongue - Dragonborn Perk Tree` is only active from now on because ``DLL Plugin Loader` would have been necessary for it to work but I just fixed that.(Sorry)**
+
+- fixed
+  - `DLL Plugin Loader` not being installed correctly
+
+- updated
+  - [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+  - [Artistic Skyrim Overhaul - No More Reflecting Ground Textures](https://www.nexusmods.com/skyrimspecialedition/mods/40574) (I hope this is the final version of this fix I will ever need to release.)
+  - [BodySlide and Outfit Studio](http://nexusmods.com/skyrimspecialedition/mods/201)
+
 ## 1.10.3: Tales from the Northern Lands
 
 ### Released at: `17.01.2021`
