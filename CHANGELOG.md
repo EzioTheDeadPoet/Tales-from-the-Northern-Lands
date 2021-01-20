@@ -10,7 +10,7 @@ description: Here you can find a list of changes made during each update.
 **You can keep the same save, but `Forceful Tongue - Dragonborn Perk Tree` is only active from now on because ``DLL Plugin Loader` would have been necessary for it to work but I just fixed that.(Sorry)**
 
 - fixed
-  - `DLL Plugin Loader` not being installed correctly
+  - `DLL Plugin Loader` not being installed correctly, this means multiple mods will only now start to actually be active.
 
 - updated
   - [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
