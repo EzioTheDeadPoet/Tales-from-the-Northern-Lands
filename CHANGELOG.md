@@ -14,6 +14,8 @@ description: Here you can find a list of changes made during each update.
   - [Forceful Tongue - Dragonborn Perk Tree](https://www.nexusmods.com/skyrimspecialedition/mods/41950)
   - [hank's gamepad and controller fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42492)
 
+  - The DynDOLOD tool since otherwise I could have not compiled, lol.
+
 ## 1.10.4: Tales from the Northern Lands
 
 ### Released at: `20.01.2021`
