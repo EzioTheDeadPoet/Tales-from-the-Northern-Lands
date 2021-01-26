@@ -3,6 +3,12 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 1.10.5.1: Tales from the Northern Lands
+
+### Released at: `26.01.21` Hotfix
+
+- fixed some ini settings
+
 ## 1.10.5: Tales from the Northern Lands
 
 ### Released at: `26.01.21`
