@@ -3,6 +3,17 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 1.10.5: Tales from the Northern Lands
+
+### Released at: `26.01.21`
+
+- updated
+  - [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117)
+  - [Engine Fixes](http://nexusmods.com/skyrimspecialedition/mods/17230)
+  - [Equip Enchantment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/42839)
+  - [Forceful Tongue - Dragonborn Perk Tree](https://www.nexusmods.com/skyrimspecialedition/mods/41950)
+  - [hank's gamepad and controller fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42492)
+
 ## 1.10.4: Tales from the Northern Lands
 
 ### Released at: `20.01.2021`
