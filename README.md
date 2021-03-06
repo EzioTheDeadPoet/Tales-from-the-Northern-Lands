@@ -293,6 +293,7 @@ Set your hotkeys and preferences for how you want to be healed.
 ### SkyUI
 
 - Inside the `Customizable UI Replacer SkyHUD SE` Mod is a `Placement Images` folder with the settings for the profile of the mod that is installed, BUT IGNORE the Category Icon Theme setting and leave it at `SKYUI v5`.
+![SkyUI ESO](https://user-images.githubusercontent.com/52624146/110215791-e87dd480-7eab-11eb-8e39-baf3b5444463.jpg)
 
 ### SPERG
 
