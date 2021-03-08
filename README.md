@@ -61,12 +61,15 @@
         <li><a href="#archery-gameplay-overhaul">Archery Gameplay Overhaul</a></li>
         <li><a href="#dual-wield-parrying">Dual Wield Parrying</a></li>
         <li><a href="#follower-framework-preference">Follower Framework</a></li>
+        <li><a href="#genesis-unleashed">Genesis Unleashed</a></li>
         <li><a href="#immersive-hud">Immersive Hud</a></li>
         <li><a href="#morehud">moreHUD</a></li>
         <li><a href="#optimal-potion-hotkey">Optimal Potion Hotkey</a></li>
         <li><a href="#pwer">P.W.E.R.</a></li>
         <li><a href="#skyui">SkyUI</a></li>
+        <li><a href="#smooth-cam">Smooth Cam</a></li>
         <li><a href="#sperg">SPERG</a></li>
+        <li><a href="#ultimate-dragons">Ultimate Dragons</a></li>
         <li><a href="#violens">VioLens</a></li>
         <li><a href="#widget-mod">Widget Mod</a></li>
         <li><a href="#xpmsse-preference">XPMSSE (Preference)</a></li>
@@ -266,6 +269,8 @@ Mods or sections with (Preference) next to their name is solely preferential and
 - Key binds need to be set if you intend on using it.
 
 ### Genesis Unleashed
+
+This mod also adds a config book which you either can drop or delete by opening the console(EN Keyboards `~`, DE Keyboards `^`, the key **under** the `Esc` key) and typing `bat start`.
 
 - Genesis Options
   - Activation
