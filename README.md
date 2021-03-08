@@ -204,13 +204,13 @@ Customizable UI Replacer has multiple good looking presets.
 
 ### Dear Diary - Paper SkyUI Menus Replacer SE
 
-If you use the `Basics` profile then you **NEED** to "reinstall" this mod and selecting everything based on preference and when it comes to the Skills menu choose vanilla, or whatever mods you want to add to it. 
+If you use the `Basics` profile then you **NEED** to "reinstall" this mod and selecting everything based on preference and when it comes to the Skills menu choose vanilla, or whatever mods you want to add to it.
 The default setting for the Skill Menu is `Experience + Extended UI` in the normal profile but those mods are disabled by default. I a future update I plan to enable `Extended UI` for the `Basics` profile since it fixes the missing requirements on some perks that happen due to the font included in the list.
 I am not sure if I have the font enabled in the basics profile as of right now, but I will update this and the profile once I know for sure, but I thought I should mention that `Extended UI` is pretty useful for fixing fonts in the Skill menu.
 
 ### SmoothCam
 
-You can get one of the presets from the nexus, set it up yourself to your liking or use the default settings (which is what I will do cause I am lazy).
+I have included a few presets from the nexus for you to choose in the MCM.
 
 **IF YOU HAVE A OLD CPU THAT DOESN'T SUPPORT AVX (~2011 - earlier) GO TO THE [MODPAGE](https://www.nexusmods.com/skyrimspecialedition/mods/41252) AND GET THE `oldCPU` VERSION OF THIS MOD.**
 
@@ -265,6 +265,16 @@ Mods or sections with (Preference) next to their name is solely preferential and
 
 - Key binds need to be set if you intend on using it.
 
+### Genesis Unleashed
+
+- Genesis Options
+  - Activation
+    - **ONLY AFTER YOU ARE OUTSIDE THE PLACE YOU STARTED**  
+      - Mod is Active: `ON`
+
+  - add Loot
+    - Enhanced Treasure: `OFF`
+
 ### Immersive Hud
 
 - Activation
@@ -294,10 +304,20 @@ Set your hotkeys and preferences for how you want to be healed.
 
 - Inside the `Customizable UI Replacer SkyHUD SE` Mod is a `Placement Images` folder with the settings for the profile of the mod that is installed, BUT IGNORE the Category Icon Theme setting and leave it at `SKYUI v5`.
 
+### Smooth Cam
+
+- Go to the presets tab and choose a preset that is to your liking.
+
 ### SPERG
 
 - General
   - Quest Rewards: Either `Questlines` or `Compatibility Mode`, Questlines should make you level faster than Compatibility Mode, but Compatibility Mode will be "more" balanced.
+
+### Ultimate Dragons
+
+- Melee Damage Mult: `*1.5`
+- Magic Damage Mult: `*1.5`
+- Flying Rate: `High`
 
 ### VioLens
 
