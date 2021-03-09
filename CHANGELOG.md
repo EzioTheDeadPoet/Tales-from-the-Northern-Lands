@@ -3,6 +3,46 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 1.11.0.0: Tales from the Northern Lands
+
+### Released at: `09.03.21`
+
+- updated:
+  - [Hel's Cel Shading](http://nexusmods.com/skyrimspecialedition/mods/41978)
+  - [Forceful Tongue - Dragonborn Perk Tree](http://nexusmods.com/skyrimspecialedition/mods/41950)
+  - [moreHUD SE](http://nexusmods.com/skyrimspecialedition/mods/12688)
+  - [Dynamic Distant Objects LOD - DynDOLOD](http://nexusmods.com/skyrimspecialedition/mods/32382)
+  - [Wrye Bash](http://nexusmods.com/skyrimspecialedition/mods/6837)
+  - [powerofthree's Papyrus Extender for SSE](http://nexusmods.com/skyrimspecialedition/mods/22854)
+  - [Equip Enchantment Fix](http://nexusmods.com/skyrimspecialedition/mods/42839)
+  - [NPC AI Process Position  Fix - SSE](http://nexusmods.com/skyrimspecialedition/mods/40261)
+  - [OnHit Animations Framework - SSE](http://nexusmods.com/skyrimspecialedition/mods/42574)
+  - [SSE Display Tweaks](http://nexusmods.com/skyrimspecialedition/mods/34705)
+  - [Assorted mesh fixes](http://nexusmods.com/skyrimspecialedition/mods/32117)
+  - [Flinching - Script Free Edition](http://nexusmods.com/skyrimspecialedition/mods/42550)
+  - [High Poly Vanilla Hair](http://nexusmods.com/skyrimspecialedition/mods/41863)
+
+  - [Mod.Organizer](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.0/Mod.Organizer-2.4.0.7z)
+  - [Synthesis](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.16.1/Synthesis.zip)
+  - [xLODGen](https://mega.nz/file/5ABX1AZR#yMyM236eRB6UguY96ryZWIZBWOSBBH1CnbY2IyQ7hwA)
+  - [Dynamic Distant Objects LOD - DynDOLOD](http://nexusmods.com/skyrimspecialedition/mods/32382)
+
+- added:
+  - [Cathedral - Improved Mountain LOD and Z Fight Patch (WIP)](http://nexusmods.com/skyrimspecialedition/mods/37891)
+  - [Conditional Expressions - Subtle Face Animations](http://nexusmods.com/skyrimspecialedition/mods/45148)
+  - [Enemy (R)Evolution of Skyrim - EEOS - Spell Perk Item Distributor Addon](http://nexusmods.com/skyrimspecialedition/mods/37228)
+  - [Genesis Unleashed Levelled - Dungeon Spawns and Encounters and Treasure](http://nexusmods.com/skyrimspecialedition/mods/23871)
+  - [SmoothCam - Octavian's Preset](http://nexusmods.com/skyrimspecialedition/mods/43927)
+  - [Ultimate Dragons SE](http://nexusmods.com/skyrimspecialedition/mods/26374)
+  - [QuickLootRE Texture Replacer](http://nexusmods.com/skyrimspecialedition/mods/39045)
+  - [Dark Face Issue Reporter](http://nexusmods.com/skyrimspecialedition/mods/42133)
+  - [Artistic Skyrim Overhaul - Markarth City Banner Patch](http://nexusmods.com/skyrimspecialedition/mods/46497)
+  - [SmoothCam  - Modern Camera Preset](http://nexusmods.com/skyrimspecialedition/mods/41636)
+  - [Souls-Like SmoothCam Preset](http://nexusmods.com/skyrimspecialedition/mods/41413)
+  - [Spell Perk Item Distributor](http://nexusmods.com/skyrimspecialedition/mods/36869)
+  - [Stylized Skyrim Textures](http://nexusmods.com/skyrimspecialedition/mods/42935)
+  - [Ultimate Combat and Creatures Behaviour compatibility for Nemesis](http://nexusmods.com/skyrimspecialedition/mods/45966)
+
 ## 1.10.5.1: Tales from the Northern Lands
 
 ### Released at: `26.01.21` Hotfix
