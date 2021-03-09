@@ -7,6 +7,9 @@ description: Here you can find a list of changes made during each update.
 
 ### Released at: `09.03.21`
 
+- New save recommended due to balancing changes. They can be kept and if you want to be 100% secure to not get issue do the following before updating:
+  - Disable Dyndolod in the mcm (while outdoors outside a city) and then go inside a house (best inside a city) and save.
+
 - updated:
   - [Hel's Cel Shading](http://nexusmods.com/skyrimspecialedition/mods/41978)
   - [Forceful Tongue - Dragonborn Perk Tree](http://nexusmods.com/skyrimspecialedition/mods/41950)
@@ -22,7 +25,7 @@ description: Here you can find a list of changes made during each update.
   - [Flinching - Script Free Edition](http://nexusmods.com/skyrimspecialedition/mods/42550)
   - [High Poly Vanilla Hair](http://nexusmods.com/skyrimspecialedition/mods/41863)
 
-  - [Mod.Organizer](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.0/Mod.Organizer-2.4.0.7z)
+  - [Mod Organizer](https://github.com/ModOrganizer2/modorganizer/releases/download/v2.4.0/Mod.Organizer-2.4.0.7z)
   - [Synthesis](https://github.com/Mutagen-Modding/Synthesis/releases/download/0.16.1/Synthesis.zip)
   - [xLODGen](https://mega.nz/file/5ABX1AZR#yMyM236eRB6UguY96ryZWIZBWOSBBH1CnbY2IyQ7hwA)
   - [Dynamic Distant Objects LOD - DynDOLOD](http://nexusmods.com/skyrimspecialedition/mods/32382)
