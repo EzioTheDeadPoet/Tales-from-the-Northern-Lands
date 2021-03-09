@@ -9,6 +9,7 @@ description: Here you can find a list of changes made during each update.
 
 - New save recommended due to balancing changes. They can be kept and if you want to be 100% secure to not get issue do the following before updating:
   - Disable Dyndolod in the mcm (while outdoors outside a city) and then go inside a house (best inside a city) and save.
+  - After installing the update follow the full install instructions again.
 
 - updated:
   - [Hel's Cel Shading](http://nexusmods.com/skyrimspecialedition/mods/41978)
