@@ -3,9 +3,19 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 1.11.0.1: Tales from the Northern Lands
+
+### Hotfixed at: `09.03.21`
+
+Disclaimer I forgot to update the separator inside of ModOrganizer.
+
+- fixed the `Game Folder Files` (The ReShade preset wasn't preloaded correctly)
+
 ## 1.11.0.0: Tales from the Northern Lands
 
 ### Released at: `09.03.21`
+
+- New a Streamer Profile without the slightly more sexy armor.
 
 - New save recommended due to balancing changes. They can be kept and if you want to be 100% secure to not get issue do the following before updating:
   - Disable Dyndolod in the mcm (while outdoors outside a city) and then go inside a house (best inside a city) and save.
