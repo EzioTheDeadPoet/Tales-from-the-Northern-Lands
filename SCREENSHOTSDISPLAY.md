@@ -147,7 +147,7 @@ by antun</p>
 To share a screenshot write a comment like this:
 
 ```markdown
-![Description of The Screenshot]("link to image"*)
+![Description of The Screenshot](link*)
 
 A message you want to leave with the Screenshot.(Optional)
 ```
