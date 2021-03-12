@@ -144,12 +144,15 @@ by antun</p>
 
 ## User Uploads
 
-To share a screenshot write a comment like this: 
+To share a screenshot write a comment like this:
+
 ```markdown
-![Description of The Screenshot](link to screenshot)
+![Description of The Screenshot](link*)
 
 A message you want to leave with the Screenshot.(Optional)
 ```
+*\*It needs to be a link that would only show the image in the browser.* 
+
 You can put multiple screenshots in one comment.
 
 <script src="https://utteranc.es/client.js"
