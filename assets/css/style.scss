@@ -310,6 +310,11 @@ img {
 	margin: 25px 16px 4px;
 }
 
+.utterances {
+	width: 100%;
+	max-width: none;
+}	
+
 @media print, screen and (max-width: 1182px) {
 
 	div.wrapper {
