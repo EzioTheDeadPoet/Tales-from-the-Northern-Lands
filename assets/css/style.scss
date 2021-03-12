@@ -315,6 +315,10 @@ img {
 	max-width: none;
 }	
 
+.markdown-body-scrollable {
+	max-height: 720px;
+}
+
 @media print, screen and (max-width: 1182px) {
 
 	div.wrapper {
