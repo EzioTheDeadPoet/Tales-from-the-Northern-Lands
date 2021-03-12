@@ -1,5 +1,6 @@
 ---
 description: This page is meant for all of you to share, enjoy or just look at the screenshots people have taken while playing this modlist.
+comment_issue_id: 27
 ---
 
 # Screenshot Display
