@@ -16,6 +16,7 @@ description: This page is meant for all of you to share, enjoy or just look at t
         <li><a href="#pre-release-screenshots">Pre-Release Screenshots</a></li>
         <li><a href="#version-10-screenshots">Version 1.0 Screenshots</a></li>
         <li><a href="#version-19-screenshots">Version 1.9 Screenshots</a></li>
+        <li><a href="#user-uploads">User Uploads</a></li>
         <li><a href="#contributing">Contributing</a></li>
       </ul>
     </li>
@@ -140,6 +141,8 @@ by antun</p>
 <p><img src="Screenshots/1.9/SkyrimSE_TqQ7akWc5A.png" alt="Screenshot" /></p>
 
 </details>
+
+## User Uploads
 
 <script src="https://utteranc.es/client.js"
         repo="EzioTheDeadPoet/Tales-from-the-Northern-Lands"
