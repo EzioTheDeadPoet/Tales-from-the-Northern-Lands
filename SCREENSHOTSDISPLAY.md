@@ -1,6 +1,5 @@
 ---
 description: This page is meant for all of you to share, enjoy or just look at the screenshots people have taken while playing this modlist.
-comment_issue_id: 27
 ---
 
 # Screenshot Display
@@ -141,6 +140,15 @@ by antun</p>
 <p><img src="Screenshots/1.9/SkyrimSE_TqQ7akWc5A.png" alt="Screenshot" /></p>
 
 </details>
+
+<script src="https://utteranc.es/client.js"
+        repo="https://github.com/EzioTheDeadPoet/Tales-from-the-Northern-Lands"
+        issue-number="27"
+        label="comments"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        async>
+</script>
 
 <!-- markdownlint-enable MD033 -->
 
