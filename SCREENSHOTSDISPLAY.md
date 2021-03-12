@@ -141,6 +141,15 @@ by antun</p>
 
 </details>
 
+<script src="https://utteranc.es/client.js"
+        repo="EzioTheDeadPoet/Tales-from-the-Northern-Lands"
+        issue-term="title"
+        label="comments"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        async>
+</script>
+
 <!-- markdownlint-enable MD033 -->
 
 ## Contributing
