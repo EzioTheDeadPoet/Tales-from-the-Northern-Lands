@@ -144,6 +144,14 @@ by antun</p>
 
 ## User Uploads
 
+To share a screenshot write a comment like this: 
+```markdown
+![Description of The Screenshot](link to screenshot)
+
+A message you want to leave with the Screenshot.(Optional)
+```
+You can put multiple screenshots in one comment.
+
 <script src="https://utteranc.es/client.js"
         repo="EzioTheDeadPoet/Tales-from-the-Northern-Lands"
         issue-term="title"
