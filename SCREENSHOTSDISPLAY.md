@@ -14,8 +14,8 @@ description: This page is meant for all of you to share, enjoy or just look at t
       <ul>
         <li><a href="#description">Description</a></li>
         <li><a href="#pre-release-screenshots">Pre-Release Screenshots</a></li>
-        <li><a href="#version-1-0-screenshots">Version 1.0 Screenshots</a></li>
-        <li><a href="#version-1-9-screenshots">Version 1.9 Screenshots</a></li>
+        <li><a href="#version-10-screenshot">Version 1.0 Screenshot</a></li>
+        <li><a href="#version-190-screenshots">Version 1.9.0 Screenshots</a></li>
         <li><a href="#user-uploads">User Uploads</a></li>
         <li><a href="#contributing">Contributing</a></li>
       </ul>
