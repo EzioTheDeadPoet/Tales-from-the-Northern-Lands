@@ -157,7 +157,7 @@ You can put multiple screenshots in one comment.
         repo="EzioTheDeadPoet/Tales-from-the-Northern-Lands"
         issue-term="title"
         label="comments"
-        theme="github-dark-orange"
+        theme="preferred-color-scheme"
         crossorigin="anonymous"
         async>
 </script>
