@@ -3,6 +3,36 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 1.11.1.0: Tales from the Northern Lands
+
+### Released at: `16.03.2021`
+
+- New Save *required* (might be playable, but those are the things to expect):
+  - you might loose enchanted items in existing saves (as the pool got re-rolled since I had to rerun Synthesis, to add some more patchers).
+  - Due to some newly added dungeons and am new location I regenerated all things LOD related, which can cause visual glitches in existing saves.
+  - there might be other issues as well that I just didn't think of.
+
+- updated
+  - [Copy and Paste in Console](http://nexusmods.com/skyrimspecialedition/mods/30928)
+  - [Equip Enchantment Fix](http://nexusmods.com/skyrimspecialedition/mods/42839)
+  - [Favorite Misc Items](http://nexusmods.com/skyrimspecialedition/mods/42750)
+
+- removed
+  - [loot_0.15.1-0-g82c756e_master.7z](https://github.com/loot/loot/releases/download/0.15.1/loot_0.15.1-0-g82c756e_master.7z)
+  - [Wrye Bash](http://nexusmods.com/skyrimspecialedition/mods/6837)
+
+- added
+  - Patch to show Khajiit ears through helmets via Synthesis.
+  - Level's to cell names via Synthesis.
+  - Level descriptions for magic scrolls via Synthesis.
+  - [EasierRider's Dungeon Pack](http://nexusmods.com/skyrimspecialedition/mods/2218)
+  - [Finding Derkeethus](http://nexusmods.com/skyrimspecialedition/mods/19550)
+  - [Finding Helgi... and Laelette - A Laid to Rest Overhaul](http://nexusmods.com/skyrimspecialedition/mods/28973)
+  - [Finding Velehk Sain](http://nexusmods.com/skyrimspecialedition/mods/19815)
+  - [Stendarr's Beacon Enhanced and Ruhmastered](http://nexusmods.com/skyrimspecialedition/mods/16178)
+  - [Better Female wrists hands ankles and leg ratio twists for XPMSSE](https://www.nexusmods.com/skyrimspecialedition/mods/28574)
+  - [Injured Animations Dynamic Replacer SE](http://nexusmods.com/skyrimspecialedition/mods/34663)
+
 ## 1.11.0.1: Tales from the Northern Lands
 
 ### Hotfixed at: `09.03.21`
