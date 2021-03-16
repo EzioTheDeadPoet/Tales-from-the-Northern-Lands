@@ -14,8 +14,9 @@ description: This page is meant for all of you to share, enjoy or just look at t
       <ul>
         <li><a href="#description">Description</a></li>
         <li><a href="#pre-release-screenshots">Pre-Release Screenshots</a></li>
-        <li><a href="#version-10-screenshots">Version 1.0 Screenshots</a></li>
-        <li><a href="#version-19-screenshots">Version 1.9 Screenshots</a></li>
+        <!---<li><a href="#version-10-screenshot">Version 1.0 Screenshot</a></li>-->
+        <li><a href="#version-190-screenshots">Version 1.9.0 Screenshots</a></li>
+        <li><a href="#user-uploads">User Uploads</a></li>
         <li><a href="#contributing">Contributing</a></li>
       </ul>
     </li>
@@ -94,16 +95,14 @@ This page is meant for all of you to share, enjoy or just look at the screenshot
 <p><img src="Screenshots/pre-release/SkyrimSE_zQeSoBFOy1.jpg" alt="screenshot" /></p>
 
 </details>
-
+<!---
 ## Version 1.0 Screenshot
-
 <details>
 <summary>click to show</summary>
-
 <p><img src="https://i.imgur.com/RKWZERD.png" alt="screenshot" />
 by antun</p>
-
 </details>
+-->
 
 ## Version 1.9.0 Screenshots
 
@@ -140,6 +139,28 @@ by antun</p>
 <p><img src="Screenshots/1.9/SkyrimSE_TqQ7akWc5A.png" alt="Screenshot" /></p>
 
 </details>
+
+## User Uploads
+
+To share a screenshot write a comment like this:
+
+```markdown
+![Description of The Screenshot](link*)
+
+A message you want to leave with the Screenshot.(Optional)
+```
+*\*It needs to be a link that would only show the image in the browser.* 
+
+You can put multiple screenshots in one comment.
+
+<script src="https://utteranc.es/client.js"
+        repo="EzioTheDeadPoet/Tales-from-the-Northern-Lands"
+        issue-term="title"
+        label="comments"
+        theme="preferred-color-scheme"
+        crossorigin="anonymous"
+        async>
+</script>
 
 <!-- markdownlint-enable MD033 -->
 

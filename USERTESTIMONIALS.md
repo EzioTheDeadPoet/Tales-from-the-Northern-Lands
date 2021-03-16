@@ -1,7 +1,7 @@
 ---
 description: This is the page where I put conversations and statements regarding the list that made my day and capture what it is all about.
 ---
-# User Comments
+# User Testimonials
 
 ## Taken from the Wabbajack Discord
 <!-- markdownlint-disable MD026 -->
