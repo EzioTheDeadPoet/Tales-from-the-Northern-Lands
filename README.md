@@ -49,7 +49,6 @@
       <ul>
         <li><a href="#customizable-ui-replacer">Customizable UI Replacer</a></li>
         <li><a href="#dear-diary---paper-skyui-menus-replacer-se">Dear Diary - Paper SkyUI Menus Replacer SE</a></li>
-        <li><a href="#smoothcam">SmoothCam</a></li>
       </ul>
     </details></li>
     <li><a href="#how-to-start-up-tales-from-the-northern-lands">How to start up Tales from the Northern Lands</a></li>
@@ -78,6 +77,7 @@
     <li><details><summary><a href="#other-post-installation-faq">Other Post Installation FAQ</a></summary>
       <ul>
         <li><a href="#ultrawide-options">Ultrawide Options</a></li>
+        <li><a href="#smoothcam-note">SmoothCam Note</a></li>
         <li><a href="#tweaking-the-game-settings">Tweaking the Game Settings</a></li>
         <li><a href="#zoomed-in-display">Zoomed in Display</a></li>
         <li><a href="#removing-the-modlist">Removing the Modlist</a></li>
@@ -211,12 +211,6 @@ If you use the `Basics` profile then you **NEED** to "reinstall" this mod and se
 The default setting for the Skill Menu is `Experience + Extended UI` in the normal profile but those mods are disabled by default. I a future update I plan to enable `Extended UI` for the `Basics` profile since it fixes the missing requirements on some perks that happen due to the font included in the list.
 I am not sure if I have the font enabled in the basics profile as of right now, but I will update this and the profile once I know for sure, but I thought I should mention that `Extended UI` is pretty useful for fixing fonts in the Skill menu.
 
-### SmoothCam
-
-I have included a few presets from the nexus for you to choose in the MCM.
-
-**IF YOU HAVE A OLD CPU THAT DOESN'T SUPPORT AVX (~2011 - earlier) GO TO THE [MODPAGE](https://www.nexusmods.com/skyrimspecialedition/mods/41252) AND GET THE `oldCPU` VERSION OF THIS MOD.**
-
 ## How to start up Tales from the Northern Lands
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button. Under the run button you can find a shortcut menu that allows you to make a desktop shortcut.
@@ -312,7 +306,14 @@ Set your hotkeys and preferences for how you want to be healed.
 
 ### Smooth Cam
 
-- Go to the presets tab and choose a preset that is to your liking.
+### SmoothCam
+
+- Compatibility
+  - Improved Camera: `ON`
+  - Archery Gameplay Overhaul: `ON`
+
+- Presets
+  - I have included a few presets from the nexus for you to choose in the MCM.
 
 ### SPERG
 
@@ -370,13 +371,19 @@ Be sure to RENAME the mods during installation. You can click the dropdown box a
 Reinstall `DEAR DIARY` to select the widescreen options.
 The default setting for the Skill Menu is `Experience + Extended UI` in the normal Profile.
 
+### SmoothCam Note
+
+If you have an old cpu that doesn't support AVX (~2011 - earlier) go to the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/41252) and get the `oldCPU` version of this mod.
+
 ### Tweaking the Game Settings
 
-- To change the quality settings to something higher or lower settings then the `Medium` settings (the only higher automated BethINI settings are `High` and `Ultra` you can probably go higher but not automated) I use with my GTX 950 2GB VRAM (it is a potato card in every regard) do the flowing:
+I only recommend to **lower** settings as the high presets might cause unwanted visual glitches:
+
+- To change the quality settings:
   - Locate the `BethINI.exe` in `...\\(name of the MO 2 folder(the installation path you choose for the modlist))\tools\BethINI (ONLY LAUNCH WITH MO AND THE GAME CLOSED)` and run it with the game and MO2 closed.
     - In there (BethINI) go to the `Setup` tab and point BethINI to your `ModOrganizer.EXE`.
     - Select the Profile you intend to use in the INI Path section (Either the Normal one or the `Basics` one).
-    - Now you Select a Preset fitting your Hardware. (You can go higher than your vanilla settings here because of the ini tweaks that get automatically made by a fix to remove unwanted reflections, that boost your FPS as a side effect.)
+    - Now you Select a Preset fitting your Hardware.
     - Save and Exit
 
 I recommend tweaking the `Detail` section for more FPS(If nothing else worked):
