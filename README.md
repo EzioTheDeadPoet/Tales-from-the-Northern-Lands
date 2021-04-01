@@ -272,9 +272,11 @@ Mods or sections with (Preference) next to their name is solely preferential and
 
 This mod also adds a config book which you either can drop or delete by opening the console(EN Keyboards `~`, DE Keyboards `^`, the key **under** the `Esc` key) and typing `bat start`.
 
+Only activate if the number of enemies feels like not enough of a challenge.
+
 - Genesis Options
   - Activation
-    - **ONLY AFTER YOU ARE OUTSIDE THE PLACE YOU STARTED**  
+    - **ONLY AFTER YOU ARE OUTSIDE THE PLACE YOU STARTED IN**  
       - Mod is Active: `ON`
 
   - add Loot
@@ -320,6 +322,8 @@ Set your hotkeys and preferences for how you want to be healed.
   - Quest Rewards: Either `Questlines` or `Compatibility Mode`, Questlines should make you level faster than Compatibility Mode, but Compatibility Mode will be "more" balanced.
 
 ### Ultimate Dragons
+
+Only alter if Dragons feel boring or to hard. (These are settings I tried.)
 
 - Melee Damage Mult: `*1.5`
 - Magic Damage Mult: `*1.5`
