@@ -56,22 +56,14 @@
     <li><details><summary><a href="#in-game-mcm-options">In-Game MCM Options</a></summary>
       <ul>
         <li><a href="#all-geared-up-deriv">All Geared up Deriv</a></li>
-        <li><a href="#a-matter-of-time">A Matter of Time</a></li>
         <li><a href="#archery-gameplay-overhaul">Archery Gameplay Overhaul</a></li>
         <li><a href="#dual-wield-parrying">Dual Wield Parrying</a></li>
         <li><a href="#follower-framework-preference">Follower Framework</a></li>
         <li><a href="#genesis-unleashed">Genesis Unleashed</a></li>
-        <li><a href="#immersive-hud">Immersive Hud</a></li>
-        <li><a href="#morehud">moreHUD</a></li>
         <li><a href="#optimal-potion-hotkey">Optimal Potion Hotkey</a></li>
-        <li><a href="#pwer">P.W.E.R.</a></li>
-        <li><a href="#skyui">SkyUI</a></li>
-        <li><a href="#smooth-cam">Smooth Cam</a></li>
-        <li><a href="#sperg">SPERG</a></li>
+        <li><a href="#smoothcam">SmoothCam</a></li>
         <li><a href="#ultimate-dragons">Ultimate Dragons</a></li>
         <li><a href="#violens">VioLens</a></li>
-        <li><a href="#widget-mod">Widget Mod</a></li>
-        <li><a href="#xpmsse-preference">XPMSSE (Preference)</a></li>
       </ul>
     </details></li>
     <li><details><summary><a href="#other-post-installation-faq">Other Post Installation FAQ</a></summary>
@@ -96,9 +88,9 @@
 
 This is a visual and gameplay overhaul. But if you came just for the visuals don't worry I got you covered to, the only thing I can't do for you is offer support if you add mods to the `Basics` profile, which is made for everyone just interested in the visuals.
 
-For the visual overhaul I tried to mimic the look of the "Tales of/from ..." Series, "The Wolf Among Us" and mainly "Borderlands" with their cell shaded visuals. The visual overhaul I used to create this list [Artistic Skyrim Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/9111), was stylized in a for my taste way to reflective way but I liked the textures them self so I have changed most of the normal maps of the textures i came around while testing this list. And thanks to NotSandwich on the WJ discord there are no reflecting textures anymore, due to an INI tweak he recommended.
+For the **visual overhaul** I tried to mimic the look of the "Tales of/from ..." Series, "The Wolf Among Us" and mainly "Borderlands" with their cell shaded visuals. The visual overhaul I used to create this list [Artistic Skyrim Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/9111), was stylized in a for my taste way to reflective way but I liked the textures them self so I have changed most of the normal maps of the textures i came around while testing this list. And thanks to NotSandwich on the WJ discord there are no reflecting textures anymore, due to an INI tweak he recommended.
 
-For the gameplay this list contains mods that intend to make you stronger and feel like and actually special person in Skyrim just like the Vault Hunters and the Dragonborn should be able to feel in their stories. The main mods to achieve this are SPERG, Skyrim Skill Uncapper and the True Dragonborn preset for it. It also features 93,786 different weapons (counting different enchantments on similar weapons) and 91,086  wearables (again counting different enchantments on the same item) thanks to [Halgari's RPG Loot Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/37736) powered by [Noggog's Synthesis Tool](https://github.com/Noggog/Synthesis).
+For the **gameplay** this list contains mods that intend to make you stronger and feel like and actually special person in Skyrim just like the Vault Hunters and the Dragonborn should be able to feel in their stories. The main mods to achieve this are SPERG, Skyrim Skill Uncapper and the True Dragonborn preset for it. It also features a large number of different weapon variations (different enchantments on similar weapons) and a large number of wearable variations (again different enchantments on the same item) thanks to [Halgari's RPG Loot Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/37736) and a new inventory overhaul created specifically for this list powered by [Noggog's Synthesis Tool](https://github.com/Noggog/Synthesis).
 
 I used my other list [SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](https://eziothedeadpoet.github.io/SME-FT-/) as a baseline to create this. If you are interested in building your own setup or want a vanilla list just with fixes to test your own mods feel free to try it out.
 
@@ -201,9 +193,9 @@ Copy the all of the files from the `Installation Folder/Game Folder Files` direc
 
 Customizable UI Replacer has multiple good looking presets.
 
-- To test other presets just right-click the `Customizable UI Replacer` Mod and hit reinstall and select the preset you want and then follow the User Manual PDF placed inside the `DOCs` folder, BUT IGNORE the Category Icon Theme setting and leave it at `SKYUI v5`.
+- To test other presets just right-click the `Customizable UI Replacer` Mod and hit reinstall and select the preset you want and then follow the User Manual PDF placed inside the `DOCs` folder, BUT IGNORE the Category Icon Theme setting and leave it on `SKYUI v5`.
 - Open the mod and navigate to `interface/skyhud/` and open `skyhud.txt` and set `uPersistentMeter=1` to `uPersistentMeter=0` so your status bars can be hidden. (If you want them persistent set it back to 1)
-- If you reinstalled `Customizable UI Replacer` mid or playthrough follow the steps for [A Matter of Time](#a-matter-of-time) and [Widget Mod](#widget-mod).
+- If you reinstalled `Customizable UI Replacer` during a playthrough go to the `A Matter of Time` MCM and load the User Preset and for `Widget Mod` the same.
 
 ### Dear Diary - Paper SkyUI Menus Replacer SE
 
@@ -228,30 +220,17 @@ Updating is like installing. You only have to make sure that you select the same
 ## In-Game MCM Options
 
 Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
-Mods or sections with (Preference) next to their name is solely preferential and do not affect the balance of the game. MCM Pages not covered here have been left on their default settings by me. You can Tweak those if you want, but if you encounter issues after doing so please revert those changes before reporting an issue.
+Most of this is already automated and most of those settings are optional and or keybinding related.
 
 ### All Geared up Deriv
 
-- Player (Preference)
-  - Weapons - Player
-    - Display Options
-      - Shield stays on arm while Equipped: `Enabled`
-  - Enable Misc Item Display: `Disabled`
 - NPC:
-  - Enable Weapons (Preference): `Enabled`
-  - Enable Misc Item Display: `Disabled` (There's been numerous reports of NPCs crashing with this Enabled. Hence, it's recommended to be Disabled)
-
-### A Matter of Time
-
-- Presets:
-  - Load user settings
+  - Enable Weapons: `Enabled`
+    - If you intend to use the vanilla start enable it after the cart ride.
 
 ### Archery Gameplay Overhaul
 
 - Settings
-  - Arrow Wounds(Player): `Disable`
-  - Arrow Wounds(NPC): `Disable`
-  - Arm Fatigue: `Disable`
   - Remove Arrows Hotkey: `H` (Preference)
 
 ### Dual Wield Parrying
@@ -264,61 +243,19 @@ Mods or sections with (Preference) next to their name is solely preferential and
 
 ### Genesis Unleashed
 
-This mod also adds a config book which you either can drop or delete by opening the console(EN Keyboards `~`, DE Keyboards `^`, the key **under** the `Esc` key) and typing `bat start`.
-
 - Genesis Options
   - Activation
-    - **ONLY AFTER YOU ARE OUTSIDE THE PLACE YOU STARTED**  
+    - **ONLY AFTER YOU ARE OUTSIDE THE PLACE YOU STARTED IN**
       - Mod is Active: `ON`
-
-  - add Loot
-    - Enhanced Treasure: `OFF`
-
-### Immersive Hud
-
-- Activation
-  - Key press toggles: `Enabled` (Preference)
-  - Link All SkyUI Widgets: `Enabled` (Recommended)
-
-- Options
-  - Enable fast fade for easier clean screenshots (Preference)
-
-- Transparencies (Preference)
-
-### moreHUD
-
-- Presets:
-  - Load user settings
 
 ### Optimal Potion Hotkey
 
 Set your hotkeys and preferences for how you want to be healed.
 
-### P.W.E.R
-
-- Settings
-  - Followers enabled: `Enabled` (If you want your followers to be as powerful as you are.)
-
-### SkyUI
-
-- IGNORE the Category Icon Theme setting and leave it at `SKYUI v5`.
-![SkyUI ESO](https://user-images.githubusercontent.com/52624146/110215791-e87dd480-7eab-11eb-8e39-baf3b5444463.jpg)
-
-### Smooth Cam
-
 ### SmoothCam
-
-- Compatibility
-  - Improved Camera: `ON`
-  - Archery Gameplay Overhaul: `ON`
 
 - Presets
   - I have included a few presets from the nexus for you to choose in the MCM.
-
-### SPERG
-
-- General
-  - Quest Rewards: Either `Questlines` or `Compatibility Mode`, Questlines should make you level faster than Compatibility Mode, but Compatibility Mode will be "more" balanced.
 
 ### Ultimate Dragons
 
@@ -328,27 +265,10 @@ Set your hotkeys and preferences for how you want to be healed.
 
 ### VioLens
 
+Only needed if you want my VioLens settings, that end every encounter with a Killmove.
+
 - Profile System
   - Load "TFSH-Profile"
-
-### Widget Mod
-
-- Maintenance
-  - Load User Settings
-
-### XPMSSE (Preference)
-
-**Note:**
-Xanza found that using these settings reduces save bloat by quite a bit.
-
-- Styles:
-  - Disable Style Cloak Spell: `Enabled`
-  - Style Fitting Animations (All): `Disabled`
-  - Style Fitting Dual Wield Animations (All): `Disabled`
-  - Style Fitting Shield Animations (All): `Disabled`
-  - Style Fitting Mixed Animations (All): `Disabled`
-
-The rest can be set up however you like. I personally have Swords on back
 
 ## Other Post Installation FAQ
 
