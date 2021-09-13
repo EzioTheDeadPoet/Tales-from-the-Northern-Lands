@@ -7,7 +7,7 @@
 
 **THIS LIST IS CURRENTLY UNDERGOING A BIG 2.0 REWORK**
 
-[Here is a sneak preview of the mods included.](https://loadorderlibrary.com/lists/tales-from-the-northern-lands-1)
+[Here is a sneak preview of the mods included.](https://loadorderlibrary.com/lists/tales-from-the-northern-lands)
 
 ## Index
 
