@@ -1,6 +1,6 @@
 # Tales from the Northern Lands
 
-![tfsh-banner](Cover/tfsh-banner.png)
+![tfsh-banner](Cover/tfsh-banner.webp)
 
 ![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/TalesFromTheNorthernLands/badge.json)
 
@@ -8,107 +8,83 @@
 
 <!-- markdownlint-disable MD033 -->
 
-<details><summary><a href="#tales-from-the-northern-lands">Tales from the Northern Lands</a></summary>
-  <ul>
-    <li><a href="#preamble">Preamble</a></li>
-    <li><a href="#screenshots">Screenshots</a></li>
-    <li><details><summary><a href="#installation">Installation</a></summary>
-      <ul>
-        <li><details><summary><a href="#pre-installation">Pre-Installation</a></summary>
-          <ul>
-            <li><a href="#installing-microsoft-visual-c-redistributable-package">Installing Microsoft Visual C++ Redistributable Package</a></li>
-            <li><a href="#steam-config">Steam Config</a>
-              <ul>
-                <li><a href="#disable-the-steam-overlay">Disable the Steam Overlay</a></li>
-                <li><a href="#change-steams-update-behavior">Change Steams Update Behavior</a></li>
-                <li><a href="#set-the-game-language-to-english">Set the Game language to English</a></li>
-              </ul>
-            </li>
-            <li><a href="#clean-skyrim">Clean Skyrim</a></li>
-            <li><a href="#start-skyrim">Start Skyrim</a></li>
-          </ul>
-        </details></li>
-        <li><details><summary><a href="#using-wabbajack">Using Wabbajack</a></summary>
-          <ul>
-            <li><a href="#preparations">Preparations</a></li>
-            <li><a href="#downloading-and-installing">Downloading and Installing</a>
-              <ul>
-                <li><a href="#problems-with-wabbajack">Problems with Wabbajack</a></li>
-              </ul>
-            </li>
-          </ul>
-        </details></li>
-      </ul>
-    </details></li>
-    <li><details><summary><a href="#post-installation">Post-Installation</a></summary>
-      <ul>
-        <li><a href="#copy-game-folder-files">Copy Game Folder Files</a></li>
-      </ul>
-    </details></li>
-    <li><details><summary><a href="#mods-to-tweak-to-your-taste">Mods to tweak to your taste</a></summary>
-      <ul>
-        <li><a href="#customizable-ui-replacer">Customizable UI Replacer</a></li>
-        <li><a href="#dear-diary---paper-skyui-menus-replacer-se">Dear Diary - Paper SkyUI Menus Replacer SE</a></li>
-      </ul>
-    </details></li>
-    <li><a href="#how-to-start-up-tales-from-the-northern-lands">How to start up Tales from the Northern Lands</a></li>
-    <li><a href="#updating">Updating</a></li>
-    <li><details><summary><a href="#in-game-mcm-options">In-Game MCM Options</a></summary>
-      <ul>
-        <li><a href="#all-geared-up-deriv">All Geared up Deriv</a></li>
-        <li><a href="#archery-gameplay-overhaul">Archery Gameplay Overhaul</a></li>
-        <li><a href="#dual-wield-parrying">Dual Wield Parrying</a></li>
-        <li><a href="#follower-framework-preference">Follower Framework</a></li>
-        <li><a href="#genesis-unleashed">Genesis Unleashed</a></li>
-        <li><a href="#optimal-potion-hotkey">Optimal Potion Hotkey</a></li>
-        <li><a href="#smoothcam">SmoothCam</a></li>
-        <li><a href="#ultimate-dragons">Ultimate Dragons</a></li>
-        <li><a href="#violens">VioLens</a></li>
-      </ul>
-    </details></li>
-    <li><details><summary><a href="#other-post-installation-faq">Other Post Installation FAQ</a></summary>
-      <ul>
-        <li><a href="#ultrawide-options">Ultrawide Options</a></li>
-        <li><a href="#smoothcam-note">SmoothCam Note</a></li>
-        <li><a href="#tweaking-the-game-settings">Tweaking the Game Settings</a></li>
-        <li><a href="#zoomed-in-display">Zoomed in Display</a></li>
-        <li><a href="#removing-the-modlist">Removing the Modlist</a></li>
-      </ul>
-    </details></li>
-    <li><a href="#credits-and-thanks">Credits and Thanks</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#changelog">Changelog</a></li>
-    <li><a href="#licenses">Licenses</a></li>
-  </ul>
-</details>
+<a href="#tales-from-the-northern-lands">Tales from the Northern Lands</a>
+<ul>
+  <li><a href="#preamble">Preamble</a></li>
+  <li><a href="#screenshots">Screenshots</a></li>
+  <li><details><summary><a href="#installation">Installation</a></summary>
+    <ul>
+      <li><details><summary><a href="#pre-installation">Pre-Installation</a></summary>
+        <ul>
+          <li><ahref="#installing-microsoft-visual-c-redistributable-package">Installing Microsoft Visual C++ Redistributable Package</a></li>
+          <li><a href="#steam-config">Steam Config</a>
+            <ul>
+              <li><a href="#disable-the-steam-overlay">Disable the Steam Overlay</a><li>
+              <li><a href="#change-steams-update-behavior">Change Steams Update Behavior</a></li>
+              <li><a href="#set-the-game-language-to-english">Set the Game language to English</a></li>
+            </ul>
+          </li>
+          <li><a href="#clean-skyrim">Clean Skyrim</a></li>
+          <li><a href="#start-skyrim">Start Skyrim</a></li>
+        </ul>
+      </details></li>
+      <li><details><summary><a href="#using-wabbajack">Using Wabbajack</a></summary>
+        <ul>
+          <li><a href="#preparations">Preparations</a></li>
+          <li><a href="#downloading-and-installing">Downloading and Installing</a>
+            <ul>
+              <li><a href="#problems-with-wabbajack">Problems with Wabbajack</a></li>
+            </ul>
+          </li>
+        </ul>
+      </details></li>
+    </ul>
+  </li>
+  <li><a href="#how-to-start-up-tales-from-the-northern-lands">How to start up Tales from the Northern Lands</a></li>
+  <li><a href="#updating">Updating</a></li>
+  <li><a href="#in-game-mcm-options">In-Game MCM Options</a></li>
+  <li><a href="#controls">Controls</a></li>
+  <li><details><summary><a href="#other-post-installation-faq">Other Post Installation FAQ</a></summary>
+    <ul>
+      <li><a href="#ultrawide-options">Ultrawide Options</a></li>
+      <li><a href="#smoothcam-note">SmoothCam Note</a></li>
+      <li><a href="#tweaking-the-game-settings">Tweaking the Game Settings</a></li>
+      <li><a href="#zoomed-in-display">Zoomed in Display</a></li>
+      <li><a href="#removing-the-modlist">Removing the Modlist</a></li>
+    </ul>
+  </details></li>
+  <li><a href="#credits-and-thanks">Credits and Thanks</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#contributing">Contributing</a></li>
+  <li><a href="#changelog">Changelog</a></li>
+  <li><a href="#licenses">Licenses</a></li>
+</ul>
 <!-- markdownlint-enable MD033 -->
 
 ## Preamble
 
-This is a visual and gameplay overhaul. But if you came just for the visuals don't worry I got you covered to, the only thing I can't do for you is offer support if you add mods to the `Basics` profile, which is made for everyone just interested in the visuals.
+This is a visual and gameplay overhaul focused on running on old and new systems alike.
+I myself use a GTX 950 2GB VRAM, a Ryzen 5 2400G, 24GB RAM, have the game installed on an SSD and get 48-78 FPS in the Performance Profile, 34-60 FPS in the Balanced Profile(I will play with this most of the time) and 15-28 FPS with the Default Profile (the one without an extra profile name). *All those FPS vales are with the ReShade on, if you turn it off ([see Controls](#controls)) you can gain between 5-15 FPS depending on the region and the weather.*
 
-For the **visual overhaul** I tried to mimic the look of the "Tales of/from ..." Series, "The Wolf Among Us" and mainly "Borderlands" with their cell shaded visuals. The visual overhaul I used to create this list [Artistic Skyrim Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/9111), was stylized in a for my taste way to reflective way but I liked the textures them self so I have changed most of the normal maps of the textures i came around while testing this list. And thanks to NotSandwich on the WJ discord there are no reflecting textures anymore, due to an INI tweak he recommended.
+For the **visual overhaul** I tried to mimic the look of the "Tales of/from ..." Series, "The Wolf Among Us" and mainly "Borderlands" with their cell-shaded visuals. The visual overhaul I initially used to create this list [Artistic Skyrim Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/9111), was stylized in a for my taste way to reflective way but I liked the textures themself, so I have changed most of the normal maps of the textures I came around while testing this list. And thanks to NotSandwich on the WJ discord there are no reflecting textures anymore, due to an INI tweak he recommended. Now I am still using it as a baseline but moved on to using the still actively updating and expanding [Borderlands Style Overhaul by Kanjs](https://www.nexusmods.com/skyrimspecialedition/mods/58407), but without the ENB and my ReShade preset instead.
 
-For the **gameplay** this list contains mods that intend to make you stronger and feel like and actually special person in Skyrim just like the Vault Hunters and the Dragonborn should be able to feel in their stories. The main mods to achieve this are SPERG, Skyrim Skill Uncapper and the True Dragonborn preset for it. It also features a large number of different weapon variations (different enchantments on similar weapons) and a large number of wearable variations (again different enchantments on the same item) thanks to [Halgari's RPG Loot Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/37736) and a new inventory overhaul created specifically for this list powered by [Noggog's Synthesis Tool](https://github.com/Noggog/Synthesis).
+For the **gameplay** this list merges a number of gameplay changing mods mixed and chosen from different overhaul projects like the SimonRim or SkyRem mods. It also features an incredible amount of weapon-variations (different enchantments on similar weapons) and wearable-variations (again different enchantments on the same item) thanks to [Halgari's RPG Loot Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/37736) and a new inventory overhaul created by me specifically for this list powered by [Noggog's Synthesis Tool](https://github.com/Noggog/Synthesis).
+If you need a perfectly balanced list this 9999% isn't for you.
 
-I used my other list [SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](https://eziothedeadpoet.github.io/SME-FT-/) as a baseline to create this. If you are interested in building your own setup or want a vanilla list just with fixes to test your own mods feel free to try it out.
-
-**A very new addition to this list is a Basics profile only containing the most important bugfixes and visual mods without the gameplay or additional item mods.**\
-*Keep in mind I can't offer support if you added mods.*
+I used my other list [SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](https://eziothedeadpoet.github.io/SME-FT-/) as a baseline to create this. If you are interested in building your own setup or want a vanilla list just with fixes to test your own mods feel free to try it out. (I am no longer active)
 
 ## Screenshots
 
-So I have created a page where you can share your screenshots of this list with others and I really hope you can help me out or have fun sharing screenshots since I am not the best at taking nice looking screenshots myself.
+So I have created a page where you can share your screenshots of this list with others and I really hope you can help me out or have fun sharing screenshots since I am not the best at taking nice-looking screenshots myself.
 You can make screenshots using the `F11` key and find them in the `Screenshots` folder inside of the `Screenshots ! Racemenu Presets ! Game Generated` Mod.
-I have moved a screenshots to this [page](SCREENSHOTSDISPLAY.md) to never be limited by the space on this overview and instructions page.
-To learn how share your screenshots check the [Contibutng](#contiuting) section of this guide.
+I have moved all screenshots to this [page](SCREENSHOTSDISPLAY.md) to never be limited by the space on this overview and instructions page.
+To learn how to share your screenshots check the [Contibutng](#contiuting) section of this guide.
 
 ## Installation
 
 ### Pre-Installation
 
-These steps are only needed if you install this Modlist for the first time. If you update the Modlist, jump straight to [Updating](#updating).
+These steps are only needed if you install this Modlist for the first time. If you update the modlist, jump straight to [Updating](#updating).
 
 #### Installing Microsoft Visual C++ Redistributable Package
 
@@ -118,56 +94,59 @@ I doubt you need to do this since you likely already have this installed. The pa
 
 ##### Disable the Steam Overlay
 
-The Steam Overlay can cause issues with ENB and is recommended to be turned off when using and ENB, this list only uses ReShade which makes this step only necessary if you want to add an enb yourself.
+The Steam Overlay can cause issues with ENB and is recommended to be turned off when using and ENB, this list only uses ReShade which makes this step only necessary if you want to add an ENB yourself.
 
-Open the Properties window (right click the game in your Library->Properties), navigate to the _General_ tab and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
+Open the Properties window (right-click the game in your Library->Properties), navigate to the _General_ tab, and un-tick the _Enable the Steam Overlay while in-game_ checkbox.
 
 ##### Change Steams Update Behavior
 
 SSE is still being updated by Bethesda (they only add Creation Club content). Whenever the game updates, the entire modding community goes silent for the next one or two weeks because some mods need to be updated to the latest game runtime version.
 
-To ensure that Steam does not automatically updates the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
+To ensure that Steam does not automatically update the game for you, head over to the Properties window, navigate to the _Updates_ tab and change _Automatic updates_ to _Only update this game when I launch it_. You should also disable the Steam Cloud while you're at it.
+
+![SteamSettings_1](readme_assets/images/SteamSettings_1.webp)
+![SteamSettings_2](readme_assets/images/SteamSettings_2.webp)
 
 ##### Set the Game language to English
 
-Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I will not give support to people with a non-English game**.
+Just do it. This entire Modlist is in English and 99% of all mods you will find are also in English. I highly recommend playing the game in English and **I can not give support to people with a non-English game**.
 
 Open the Steam Properties window, navigate to the _Language_ tab and select _English_ from the dropdown menu.
 
 #### Clean Skyrim
 
-I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
-Or use [Skyrim Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133) to clean everything.
+I highly recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
+But verifying your installation via steam should be enough, if the installation fails follow the steps above.
 
 #### Start Skyrim
 
-After you have done everything above and got a clean SSE installation ready, start the Launcher and and let it do the initial graphics check. Do not worry about this part as the installation will replace this graphics settings.
-Start the game and exit once you're in the main menu.
+After you have done everything above and got a clean Skyrim Special Edition installation, start the Launcher and let it do the initial graphics check. Do not worry about this part as the installation will replace these graphics settings.
+Start the game and exit once you're on the main menu.
 
 ### Using Wabbajack
 
 #### Preparations
 
-Grab the latest release of Wabbajack from [here](https://github.com/wabbajack-tools/wabbajack/releases) and place the `Wabbajack.exe` file in a _working folder_. This folder **must not** be in a _common folders_ like your Desktop, Downloads or Program Files folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
+Grab the latest release of Wabbajack from [here](https://www.wabbajack.org/#/) and place the `Wabbajack.exe` file in a _working folder_. This folder **must not** be in a _common folders_ like your `Desktop`, `Downloads` or `Program Files` folder. It's best to create a Wabbajack folder near the root level of your drive like `C:/Wabbajack`.
 
 #### Downloading and Installing
 
-The download and installation process can take a very long time depending on your system specs. Wabbajack will calculate the amount of threads it will use at the start of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
+The download and installation process can take a very long time depending on your system specs. Wabbajack will detect the optimal amount of threads at the beginning of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 1. Open Wabbajack
-2. Click on Browse Modlists, and download Tales from the Northern Lands from the gallery.)
+2. Click on `Browse Modlists`, and download Tales from the Northern Lands from the gallery.)
 3. Once the download is done set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Tales from the Northern Lands`). The downloads path should automatically fill in the installation path.
 4. Click the Go/Begin button
 5. Wait for Wabbajack to finish
-6. If you run into any issues see the next section. If the installation is successful, proceed to [Post-Installation](#post-installation).
+[Post-Installation](#how-to-launch-tales-from-the-northern-lands)
 
 ##### Problems with Wabbajack
 
-There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you loose no progress.
+There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
 
 **Could not download x**:
 
-If a mod updated and the old files got deleted, it is impossible to download them. In this case just wait till I update the Modlist.
+If a mod got updated and the old files got deleted, it is impossible to download them. In this case, just wait till I update the modlist.
 
 **x is not a whitelisted download**:
 
@@ -179,131 +158,62 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 **Windows is reporting that a virus has been detected**:
 
-Windows 10 has started to auto quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2 saying a threat was detected . This is a known false positive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. Example for windows defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
+Windows 10 has started to auto-quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2 saying a threat was detected. This is a known false positive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. An example for windows defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
-## Post-Installation
+## How to Launch Tales from the Northern Lands
 
-### Copy Game Folder Files
+Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button. Under the run button, you can find a shortcut menu that allows you to make a desktop shortcut.
 
-Copy the all of the files from the `Installation Folder/Game Folder Files` directory into your game folder.
+![launch](readme_assets/images/Launch_MO2.webp)
 
-## Mods to tweak to your taste
-
-### Customizable UI Replacer
-
-Customizable UI Replacer has multiple good looking presets.
-
-- To test other presets just right-click the `Customizable UI Replacer` Mod and hit reinstall and select the preset you want and then follow the User Manual PDF placed inside the `DOCs` folder, BUT IGNORE the Category Icon Theme setting and leave it on `SKYUI v5`.
-- Open the mod and navigate to `interface/skyhud/` and open `skyhud.txt` and set `uPersistentMeter=1` to `uPersistentMeter=0` so your status bars can be hidden. (If you want them persistent set it back to 1)
-- If you reinstalled `Customizable UI Replacer` during a playthrough go to the `A Matter of Time` MCM and load the User Preset and for `Widget Mod` the same.
-
-### Dear Diary - Paper SkyUI Menus Replacer SE
-
-If you use the `Basics` profile then you **NEED** to "reinstall" this mod and selecting everything based on preference and when it comes to the Skills menu choose vanilla, or whatever mods you want to add to it.
-The default setting for the Skill Menu is `Experience + Extended UI` in the normal profile but those mods are disabled by default. I a future update I plan to enable `Extended UI` for the `Basics` profile since it fixes the missing requirements on some perks that happen due to the font included in the list.
-I am not sure if I have the font enabled in the basics profile as of right now, but I will update this and the profile once I know for sure, but I thought I should mention that `Extended UI` is pretty useful for fixing fonts in the Skill menu.
-
-## How to start up Tales from the Northern Lands
-
-Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once its launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button. Under the run button you can find a shortcut menu that allows you to make a desktop shortcut.
+![run](readme_assets/images/ModOrganizer_run.webp)
 
 ## Updating
 
 If this Modlist receives an update please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
 
-**Wabbajack will delete all files that are not part of the Modlist when updating!**
+**Wabbajack will delete all files that are not part of the modlist when updating!**
 
-This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
+Additionally installed mods will be removed.
 
 Updating is like installing. You only have to make sure that you select the same path and tick the _overwrite existing Modlist_ button. Make sure to do backups of your saves in case anything goes wrong.
 
+## Controls
+
+![ControlLayout](readme_assets/images/ControlLayout.webp)
+[click here to create your own cheat-cheet, if you plan to change them](http://www.keyboard-layout-editor.com/#/gists/bfbca895e59a1682798b219aec3db158)
+
 ## In-Game MCM Options
 
-Once the game has loaded. Wait until there are no more messages on the top left corner. Then you can hit escape and click on Mod Configuration to continue this section.
-Most of this is already automated and most of those settings are optional and or keybinding related.
-
-### All Geared up Deriv
-
-- NPC:
-  - Enable Weapons: `Enabled`
-    - If you intend to use the vanilla start enable it after the cart ride.
-
-### Archery Gameplay Overhaul
-
-- Settings
-  - Remove Arrows Hotkey: `H` (Preference)
-
-### Dual Wield Parrying
-
-- Block Key: `V` (set it to whatever suits you best.)
-
-### Follower Framework(Preference)
-
-- Key binds need to be set if you intend on using it.
-
-### Genesis Unleashed
-
-- Genesis Options
-  - Activation
-    - **ONLY AFTER YOU ARE OUTSIDE THE PLACE YOU STARTED IN**
-      - Mod is Active: `ON`
-
-### Optimal Potion Hotkey
-
-Set your hotkeys and preferences for how you want to be healed.
-
-### SmoothCam
-
-- Presets
-  - I have included a few presets from the nexus for you to choose in the MCM.
-
-### Ultimate Dragons
-
-- Melee Damage Mult: `*1.5`
-- Magic Damage Mult: `*1.5`
-- Flying Rate: `High`
-
-### VioLens
-
-Only needed if you want my VioLens settings, that end every encounter with a Killmove.
-
-- Profile System
-  - Load "TFSH-Profile"
+Pre-configured.
 
 ## Other Post Installation FAQ
 
 ### Ultrawide Options
 
-*Please note that I do not own a widescreen setup, and thus cannot help troubleshoot this section. These instructions were provided by @Mantis#1337.*
-
-Go to the [Complete Widescreen Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1778) page.  
-Download the following files:
-
-- Complete Widescreen Fix for SkyUI 5.2 SE Alpha- 2560x1080  
-- Better Dialogue Control Widescreen Fix
-- Better Message Box Control Widescreen Fix
-- Even Wider Rescaled MCM Menu for SkyUI - Widescreen Fix
-- SkyHud High Resolution Widescreen Fix
-
-Install the archives with Mod Organizer 2. They will be in the right window, under the Downloads section.  
-Be sure to RENAME the mods during installation. You can click the dropdown box and select the appropriate filename for each as you install them.
-
-Reinstall `DEAR DIARY` to select the widescreen options.
-The default setting for the Skill Menu is `Experience + Extended UI` in the normal Profile.
-
-### SmoothCam Note
-
-If you have an old cpu that doesn't support AVX (~2011 - earlier) go to the [modpage](https://www.nexusmods.com/skyrimspecialedition/mods/41252) and get the `oldCPU` version of this mod.
+Enable the mods in the 21x9 Patches category in ModOrganizer.
 
 ### Tweaking the Game Settings
 
-I only recommend to **lower** settings as the high presets might cause unwanted visual glitches:
+#### Using the pre-configured ModOrganizer Profiles
+
+To use my pre-configured settings you can select the different profiles in ModOrganizer. **Just keep in mind that your saves are tied to their profile.**
+
+1. Profile Quick-select.
+2. Profile Menu.
+   - It has options to transfer your saves.
+
+![ModOrganizerSelectProfile](readme_assets/images/ModOrganizerSelectProfile.webp)
+
+#### BethINI Method
+
+*Settings tweaked this way will be reverted after updates.*
 
 - To change the quality settings:
   - Locate the `BethINI.exe` in `...\\(name of the MO 2 folder(the installation path you choose for the modlist))\tools\BethINI (ONLY LAUNCH WITH MO AND THE GAME CLOSED)` and run it with the game and MO2 closed.
-    - In there (BethINI) go to the `Setup` tab and point BethINI to your `ModOrganizer.EXE`.
+    - In there (BethINI) go to the `Setup` tab and point BethINI to your `ModOrganizer.EXE`. (The place the list is installed in.)
     - Select the Profile you intend to use in the INI Path section (Either the Normal one or the `Basics` one).
-    - Now you Select a Preset fitting your Hardware.
+    - Select a Preset fitting your Hardware.
     - Save and Exit
 
 I recommend tweaking the `Detail` section for more FPS(If nothing else worked):
@@ -324,28 +234,30 @@ This can be caused by Window's Display Scaling feature. This usually is set to a
 
 ### Removing the Modlist
 
-You can just remove the MO2 folder and be done with it. SKSE and ReShade files will still be in your game folder so I recommend using [ENB and ReShade Manager](https://www.nexusmods.com/skyrimspecialedition/mods/4143) if you want to remove the ReShade.
+You can just remove the MO2 folder and be done with it.
 
 ## Credits and Thanks
 
-- _YOU_ for actually reading the readme. Thanks a ton!!
+- YOU for reading the readme. Thanks a ton!!
 - Xanza for writing A LOT of this for his modlist.
 - ForgottenGlory for making SME(FT) and this modlist possible due to his early support. 🧡
 - Thanks to NotSandwich on the Wabbajack Discord for sharing some awesome .ini edits that killed all unwanted reflections.🥪
-- Everyone giving me feedback on the artistic choices.
+- Everyone who was giving me feedback on the artistic choices.
 - the creator of ReShade with its generous [License](ReShade/RESHADELICENSE.md#reshade-license) that allows me to include it.
 - erri120 & jdsmith2816 - Repository template
-- Halgari and everyone the WJ Team - Wabbajack is awesome and so are you
-- Halgari and Noggog for making the high variety in weapons and Armor possible
+- Halgari and everyone on the WJ Team
+- Noggog and Halgari for making the large variety in weapons and Armor possible, by making the Mutagen Framework and the 1st iteration of the RPG Loot patcher respectively.
 - The team behind the Artistic Skyrim Overhaul that inspired me to make this because of it's very distinctive unique style.
-- And ALL the mod authors that made the mods featured in this list.
+- Kanjs for reviving the spirit of art-driven Skyrim Texture Overhauls.
+- Nem aka. Eggy aka. Osmosis-Wrench and JanuarySnow for both helping me make some custom edits to a few mods used in this list.
+- ALL the mod authors that made the mods featured in this list.
 - Special thanks to all the other people listed [here](https://eziothedeadpoet.github.io/AboutMe/HALLOFFAME.html) that support this and other projects of mine.
 
 ## Contact
 
-While I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/EzioTheDeadPoet/Tales-from-the-Northern-Lands/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS AND I WILL BLOCK YOU**.
+While I'm nearly always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/EzioTheDeadPoet/Tales-from-the-Northern-Lands/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **I WILL NOT PROVIDE SUPPORT FOR YOU IN DMs.**.
 
-**DON'T CONTACT MOD-AUTHORS WITH ISSUES OR I WILL HAVE TO TAKE ACTIONS THAT WILL RESULT WITH YOU BEING BANNED FROM WABBAJACK.**
+**DON'T CONTACT MOD-AUTHORS WITH ISSUES!!**
 
 ## Contributing
 
