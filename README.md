@@ -88,9 +88,34 @@ These steps are only needed if you install this Modlist for the first time. If y
 
 #### Installing Microsoft Visual C++ Redistributable Package
 
-I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019". [Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe) if you can't find it.
+I doubt you need to do this since you likely already have this installed. The package is required for MO2 and you can download it from [Microsoft](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Download the x64 version under "Visual Studio 2015, 2017 and 2019".
+
+|[Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe)|
+|-|
+
+#### Installing .NET 5.0
+
+This is you might actually have not installed but it a needed dependency for mods used with this list.
+So please make sure to install it to avoid any issues. Download the desktop app x64 AND the console app x64 versions from [Microsoft](https://dotnet.microsoft.com/download/dotnet/5.0/runtime). 
+
+|[Direct Link Desktop](https://download.visualstudio.microsoft.com/download/pr/1daf85dc-291b-4bb8-812e-a0df5cdb6701/85455a4a851347de26e2901e043b81e1/windowsdesktop-runtime-5.0.12-win-x64.exe) | [Direct Link Console](https://download.visualstudio.microsoft.com/download/pr/28b0479a-2ca7-4441-97f2-64a3d64b2ea4/9995401dac4787a2d1104c73c4356f4d/dotnet-runtime-5.0.12-win-x64.exe)|
+|-|-|
 
 #### Steam Config
+
+##### Game Location
+
+Make sure your game is **NOT** installed in a _common folder_ like your `Desktop`, `Downloads` or `Program Files` folder (like the default steam location). If you only have one drive and can't create a second steam library with steam use LostDragonist's [steam-library-setup-tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide) to create a second one on your main drive. When you have a new steam library setup move your game there **using the steam feature** to do so.
+
+*Creating a new library with Steam:*
+
+![SteamLibrarySetup_1](readme_assets/images/SteamLibrarySettings_1.webp)
+![SteamLibrarySetup_2](readme_assets/images/SteamLibrarySettings_2.webp)
+
+*Moving the Game:*
+
+![SteamMOveGame_1](readme_assets/images/SteamMoveGame_1.webp)
+![SteamMoveGame_2](readme_assets/images/SteamMoveGame_2.webp)
 
 ##### Disable the Steam Overlay
 
@@ -117,6 +142,14 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 
 I highly recommend uninstalling the game through Steam, deleting the game folder, and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it.
 But verifying your installation via steam should be enough, if the installation fails follow the steps above.
+
+How to verify Skyrim Special Edition with Steam:
+
+- Open your Steam Library tab
+- Right click Skyrim Special Edition
+- Select Properties
+- Select Local Files
+- Select Verify Integrity of Local Files
 
 #### Start Skyrim
 
@@ -154,7 +187,7 @@ This can happen when I update the modlist. Check if a new update is available an
 
 **Wabbajack could not find my game folder**:
 
-Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step.
+Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step. If you own the game make sure you did [start Skyrim once](#start-skyrim).
 
 **Windows is reporting that a virus has been detected**:
 
@@ -181,7 +214,7 @@ Updating is like installing. You only have to make sure that you select the same
 ## Controls
 
 ![ControlLayout](readme_assets/images/ControlLayout.webp)
-[click here to create your own cheat-cheet, if you plan to change them](http://www.keyboard-layout-editor.com/#/gists/bfbca895e59a1682798b219aec3db158)
+[click here to create your own cheat-cheet, if you plan to change them.](http://www.keyboard-layout-editor.com/#/gists/bfbca895e59a1682798b219aec3db158)
 
 ## In-Game MCM Options
 
