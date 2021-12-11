@@ -16,10 +16,12 @@
     <ul>
       <li><details><summary><a href="#pre-installation">Pre-Installation</a></summary>
         <ul>
-          <li><ahref="#installing-microsoft-visual-c-redistributable-package">Installing Microsoft Visual C++ Redistributable Package</a></li>
+          <li><a href="#installing-microsoft-visual-c-redistributable-package">Installing Microsoft Visual C++ Redistributable Package</a></li>
+          <li><a href="#installing-net-50">Installing .NET 5.0</a></li>
           <li><a href="#steam-config">Steam Config</a>
             <ul>
-              <li><a href="#disable-the-steam-overlay">Disable the Steam Overlay</a><li>
+              <li><a href="game-location">Game Location</a></li>
+              <li><a href="#disable-the-steam-overlay">Disable the Steam Overlay</a></li>
               <li><a href="#change-steams-update-behavior">Change Steams Update Behavior</a></li>
               <li><a href="#set-the-game-language-to-english">Set the Game language to English</a></li>
             </ul>
@@ -47,7 +49,6 @@
   <li><details><summary><a href="#other-post-installation-faq">Other Post Installation FAQ</a></summary>
     <ul>
       <li><a href="#ultrawide-options">Ultrawide Options</a></li>
-      <li><a href="#smoothcam-note">SmoothCam Note</a></li>
       <li><a href="#tweaking-the-game-settings">Tweaking the Game Settings</a></li>
       <li><a href="#zoomed-in-display">Zoomed in Display</a></li>
       <li><a href="#removing-the-modlist">Removing the Modlist</a></li>
@@ -68,15 +69,15 @@ I myself use a GTX 950 2GB VRAM, a Ryzen 5 2400G, 24GB RAM, have the game instal
 
 For the **visual overhaul** I tried to mimic the look of the "Tales of/from ..." Series, "The Wolf Among Us" and mainly "Borderlands" with their cell-shaded visuals. The visual overhaul I initially used to create this list [Artistic Skyrim Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/9111), was stylized in a for my taste way to reflective way but I liked the textures themself, so I have changed most of the normal maps of the textures I came around while testing this list. And thanks to NotSandwich on the WJ discord there are no reflecting textures anymore, due to an INI tweak he recommended. Now I am still using it as a baseline but moved on to using the still actively updating and expanding [Borderlands Style Overhaul by Kanjs](https://www.nexusmods.com/skyrimspecialedition/mods/58407), but without the ENB and my ReShade preset instead.
 
-For the **gameplay** this list merges a number of gameplay changing mods mixed and chosen from different overhaul projects like the SimonRim or SkyRem mods. It also features an incredible amount of weapon-variations (different enchantments on similar weapons) and wearable-variations (again different enchantments on the same item) thanks to [Halgari's RPG Loot Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/37736) in it's new form found [here](https://github.com/Synthesis-Collective/HalgarisConsistentRPGLoot) and a new inventory overhaul created by me specifically for this list powered by [Noggog's Synthesis Tool](https://github.com/Noggog/Synthesis).
+For the **gameplay** this list merges gameplay-changing mods mixed and chosen from different overhaul projects like the SimonRim or SkyRem mods. It also features an incredible amount of weapon-variations (different enchantments on similar weapons) and wearable-variations (again different enchantments on the same item) thanks to [Halgari's RPG Loot Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/37736) in its new form found [here](https://github.com/Synthesis-Collective/HalgarisConsistentRPGLoot) and a new inventory overhaul created by me specifically for this list powered by [Noggog's Synthesis Tool](https://github.com/Noggog/Synthesis).
 
-If you need a perfectly balanced list this 9999% isn't for you, I make sure that things work and that there are no big obvious exploits, but I won't micromanage balancing by nerving things just for balance reasons. That said I tried not to break the balance to much when I overhauled the way the inventory system worked, so I had to write code into the overhaul patcher to adjust the magic effects that affect those systems to keep it in line with my changes. But I won't micro mange Leveled Lists or nerf some of the crazy enchantments the generator will provide for this list. *(I removed only 2 types enchantments, bound weapon giving enchantments that had the risk of crashing the game when in NPC inventories, and press "wait" to get infinite money enchantments. Those are game breaking issues in the literal and figurative way.)*
+If you need a perfectly balanced list this 9999% isn't for you, I make sure that things work and that there are no big obvious exploits. I tried not to break the balance too much when I overhauled the way the inventory system worked, so I had to write code into the overhaul patcher to adjust the magic effects that affect those systems to keep it in line with my changes. But I won't micromanage Leveled Lists or nerf some of the crazy enchantments the generator will provide for this list. The end goal of this list is to be fun and not a challenge or torture. *(I removed only 2 enchantment types, bound weapon giving enchantments that had the risk of crashing the game when in NPC inventories, and press "wait" to get infinite money enchantments. Those are game-breaking issues in the literal and figurative way.)*
 
-I used my other list [SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](https://eziothedeadpoet.github.io/SME-FT-/) as a baseline to create this. If you are interested in building your own setup or want a vanilla list just with fixes to test your own mods feel free to try it out. (I am no longer active)
+I used my other list [SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](https://eziothedeadpoet.github.io/SME-FT-/) as a baseline to create this. If you are interested in building your own setup or want a vanilla list just with fixes to test your mods feel free to try it out. (I am no longer active)
 
 ## Screenshots
 
-So I have created a page where you can share your screenshots of this list with others and I really hope you can help me out or have fun sharing screenshots since I am not the best at taking nice-looking screenshots myself.
+So I have created a page where you can share your screenshots of this list with others and I hope you can help me out or have fun sharing screenshots since I am not the best at taking nice-looking screenshots myself.
 You can make screenshots using the `F11` key and find them in the `Screenshots` folder inside of the `Screenshots ! Racemenu Presets ! Game Generated` Mod.
 I have moved all screenshots to this [page](SCREENSHOTSDISPLAY.md) to never be limited by the space on this overview and instructions page.
 To learn how to share your screenshots check the [Contibutng](#contiuting) section of this guide.
@@ -178,25 +179,27 @@ The download and installation process can take a very long time depending on you
 
 There are a lot of different scenarios where Wabbajack will produce an error. I recommend re-running Wabbajack before posting anything. Wabbajack will continue where it left off so you lose no progress.
 
-**Could not download x**:
+###### Could not download x
 
 If a mod got updated and the old files got deleted, it is impossible to download them. In this case, just wait till I update the modlist.
 
-**x is not a whitelisted download**:
+###### x is not a whitelisted download
 
 This can happen when I update the modlist. Check if a new update is available and wait if there is none.
 
-**Wabbajack could not find my game folder**:
+###### Wabbajack could not find my game folder
 
 Wabbajack will not work with a pirated version of the game. If you own the game on Steam, go back to the [Pre-Installation](#pre-installation) step. If you own the game make sure you did [start Skyrim once](#start-skyrim).
 
-**Windows is reporting that a virus has been detected**:
+###### Windows is reporting that a virus has been detected
 
 Windows 10 has started to auto-quarantine the usvfs_proxy_x86.exe file from the latest version of Mod Organizer 2 saying a threat was detected. This is a known false positive confirmed by the MO2 Devs. You can fix this by adding an exemption for MO2 Folder to your Antivirus. An example for windows defender can be found [here](https://www.thewindowsclub.com/exclude-a-folder-from-windows-security-scan).
 
 ## How to Launch Tales from the Northern Lands
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button. Under the run button, you can find a shortcut menu that allows you to make a desktop shortcut.
+
+*If the game doesn't launch correctly check [this](#windows-is-reporting-that-a-virus-has-been-detected) and the [pre-installation steps](#pre-installation) as those are the most common issues besides a failed installation.*
 
 ![launch](readme_assets/images/Launch_MO2.webp)
 
@@ -252,7 +255,7 @@ To use my pre-configured settings you can select the different profiles in ModOr
 
 I recommend tweaking the `Detail` section for more FPS(If nothing else worked):
 
-- `Shadow Resolution`: Very big one. A good balance is `2048` which is the borderline between high FPS drainage and garbage looking shadows.
+- `Shadow Resolution`: Very big one. A good balance is `2048` which is the borderline between high FPS drainage and garbage-looking shadows.
 - `Ambient Occlusion`: Highly recommended to turn either this or your ENB version off (if you decided to use one). Do not have the game AO and an ENB AO turned on at the same time.
 - `Remove Shadows`: If you really struggle, use this. This will disable all Shadows (not recommended)
 
@@ -281,7 +284,7 @@ You can just remove the MO2 folder and be done with it.
 - erri120 & jdsmith2816 - Repository template
 - Halgari and everyone on the WJ Team
 - Noggog and Halgari for making the large variety in weapons and Armor possible, by making the Mutagen Framework and the 1st iteration of the RPG Loot patcher respectively.
-- The team behind the Artistic Skyrim Overhaul that inspired me to make this because of it's very distinctive unique style.
+- The team behind the Artistic Skyrim Overhaul for inspiring me to make this because of its very distinctive unique style.
 - Kanjs for reviving the spirit of art-driven Skyrim Texture Overhauls.
 - Nem aka. Eggy aka. Osmosis-Wrench and JanuarySnow for both helping me make some custom edits to a few mods used in this list.
 - ALL the mod authors that made the mods featured in this list.
