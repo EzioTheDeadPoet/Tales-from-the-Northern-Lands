@@ -95,7 +95,7 @@ I doubt you need to do this since you likely already have this installed. The pa
 
 #### Installing .NET 5.0
 
-This is you might actually have not installed but it a needed dependency for mods used with this list.
+This is a needed dependency for mods used with this list.
 So please make sure to install it to avoid any issues. Download the desktop app x64 AND the console app x64 versions from [Microsoft](https://dotnet.microsoft.com/download/dotnet/5.0/runtime). 
 
 |[Direct Link Desktop](https://download.visualstudio.microsoft.com/download/pr/1daf85dc-291b-4bb8-812e-a0df5cdb6701/85455a4a851347de26e2901e043b81e1/windowsdesktop-runtime-5.0.12-win-x64.exe) | [Direct Link Console](https://download.visualstudio.microsoft.com/download/pr/28b0479a-2ca7-4441-97f2-64a3d64b2ea4/9995401dac4787a2d1104c73c4356f4d/dotnet-runtime-5.0.12-win-x64.exe)|
@@ -146,7 +146,7 @@ But verifying your installation via steam should be enough, if the installation 
 How to verify Skyrim Special Edition with Steam:
 
 - Open your Steam Library tab
-- Right click Skyrim Special Edition
+- Right-click Skyrim Special Edition
 - Select Properties
 - Select Local Files
 - Select Verify Integrity of Local Files
