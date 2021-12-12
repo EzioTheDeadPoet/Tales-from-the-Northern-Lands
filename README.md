@@ -4,63 +4,48 @@
 
 ![status](https://img.shields.io/endpoint?url=https://build.wabbajack.org/lists/status/TalesFromTheNorthernLands/badge.json)
 
-## Index
+## Table of Contents
 
-<!-- markdownlint-disable MD033 -->
-
-<a href="#tales-from-the-northern-lands">Tales from the Northern Lands</a>
-<ul>
-  <li><a href="#preamble">Preamble</a></li>
-  <li><a href="#screenshots">Screenshots</a></li>
-  <li><details><summary><a href="#installation">Installation</a></summary>
-    <ul>
-      <li><details><summary><a href="#pre-installation">Pre-Installation</a></summary>
-        <ul>
-          <li><a href="#installing-microsoft-visual-c-redistributable-package">Installing Microsoft Visual C++ Redistributable Package</a></li>
-          <li><a href="#installing-net-50">Installing .NET 5.0</a></li>
-          <li><a href="#steam-config">Steam Config</a>
-            <ul>
-              <li><a href="game-location">Game Location</a></li>
-              <li><a href="#disable-the-steam-overlay">Disable the Steam Overlay</a></li>
-              <li><a href="#change-steams-update-behavior">Change Steams Update Behavior</a></li>
-              <li><a href="#set-the-game-language-to-english">Set the Game language to English</a></li>
-            </ul>
-          </li>
-          <li><a href="#clean-skyrim">Clean Skyrim</a></li>
-          <li><a href="#start-skyrim">Start Skyrim</a></li>
-        </ul>
-      </details></li>
-      <li><details><summary><a href="#using-wabbajack">Using Wabbajack</a></summary>
-        <ul>
-          <li><a href="#preparations">Preparations</a></li>
-          <li><a href="#downloading-and-installing">Downloading and Installing</a>
-            <ul>
-              <li><a href="#problems-with-wabbajack">Problems with Wabbajack</a></li>
-            </ul>
-          </li>
-        </ul>
-      </details></li>
-    </ul>
-  </li>
-  <li><a href="#how-to-start-up-tales-from-the-northern-lands">How to start up Tales from the Northern Lands</a></li>
-  <li><a href="#updating">Updating</a></li>
-  <li><a href="#in-game-mcm-options">In-Game MCM Options</a></li>
-  <li><a href="#controls">Controls</a></li>
-  <li><details><summary><a href="#other-post-installation-faq">Other Post Installation FAQ</a></summary>
-    <ul>
-      <li><a href="#ultrawide-options">Ultrawide Options</a></li>
-      <li><a href="#tweaking-the-game-settings">Tweaking the Game Settings</a></li>
-      <li><a href="#zoomed-in-display">Zoomed in Display</a></li>
-      <li><a href="#removing-the-modlist">Removing the Modlist</a></li>
-    </ul>
-  </details></li>
-  <li><a href="#credits-and-thanks">Credits and Thanks</a></li>
-  <li><a href="#contact">Contact</a></li>
-  <li><a href="#contributing">Contributing</a></li>
-  <li><a href="#changelog">Changelog</a></li>
-  <li><a href="#licenses">Licenses</a></li>
-</ul>
-<!-- markdownlint-enable MD033 -->
+- [Tales from the Northern Lands](#tales-from-the-northern-lands)
+  - [Table of Contents](#table-of-contents)
+  - [Preamble](#preamble)
+  - [Screenshots](#screenshots)
+  - [Installation](#installation)
+    - [Pre-Installation](#pre-installation)
+      - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
+      - [Installing .NET 5.0](#installing-net-50)
+      - [Steam Config](#steam-config)
+        - [Game Location](#game-location)
+        - [Disable the Steam Overlay](#disable-the-steam-overlay)
+        - [Change Steams Update Behavior](#change-steams-update-behavior)
+        - [Set the Game language to English](#set-the-game-language-to-english)
+      - [Clean Skyrim](#clean-skyrim)
+      - [Start Skyrim](#start-skyrim)
+    - [Using Wabbajack](#using-wabbajack)
+      - [Preparations](#preparations)
+      - [Downloading and Installing](#downloading-and-installing)
+        - [Manual Downloads](#manual-downloads)
+        - [Problems with Wabbajack](#problems-with-wabbajack)
+          - [Could not download x](#could-not-download-x)
+          - [x is not a whitelisted download](#x-is-not-a-whitelisted-download)
+          - [Wabbajack could not find my game folder](#wabbajack-could-not-find-my-game-folder)
+          - [Windows is reporting that a virus has been detected](#windows-is-reporting-that-a-virus-has-been-detected)
+  - [How to Launch Tales from the Northern Lands](#how-to-launch-tales-from-the-northern-lands)
+  - [Updating](#updating)
+  - [Controls](#controls)
+  - [In-Game MCM Options](#in-game-mcm-options)
+  - [Other Post Installation FAQ](#other-post-installation-faq)
+    - [Ultrawide Options](#ultrawide-options)
+    - [Tweaking the Game Settings](#tweaking-the-game-settings)
+      - [Using the pre-configured ModOrganizer Profiles](#using-the-pre-configured-modorganizer-profiles)
+      - [BethINI Method](#bethini-method)
+    - [Zoomed in Display](#zoomed-in-display)
+    - [Removing the Modlist](#removing-the-modlist)
+  - [Credits and Thanks](#credits-and-thanks)
+  - [Contact](#contact)
+  - [Contributing](#contributing)
+  - [Changelog](#changelog)
+  - [Licenses](#licenses)
 
 ## Preamble
 
@@ -98,7 +83,7 @@ I doubt you need to do this since you likely already have this installed. The pa
 #### Installing .NET 5.0
 
 This is a needed dependency for mods used with this list.
-So please make sure to install it to avoid any issues. Download the desktop app x64 AND the console app x64 versions from [Microsoft](https://dotnet.microsoft.com/download/dotnet/5.0/runtime). 
+So please make sure to install it to avoid any issues. Download the desktop app x64 AND the console app x64 versions from [Microsoft](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 
 |[Direct Link Desktop](https://download.visualstudio.microsoft.com/download/pr/1daf85dc-291b-4bb8-812e-a0df5cdb6701/85455a4a851347de26e2901e043b81e1/windowsdesktop-runtime-5.0.12-win-x64.exe) | [Direct Link Console](https://download.visualstudio.microsoft.com/download/pr/28b0479a-2ca7-4441-97f2-64a3d64b2ea4/9995401dac4787a2d1104c73c4356f4d/dotnet-runtime-5.0.12-win-x64.exe)|
 |-|-|
@@ -168,12 +153,23 @@ Grab the latest release of Wabbajack from [here](https://www.wabbajack.org/#/) a
 
 The download and installation process can take a very long time depending on your system specs. Wabbajack will detect the optimal amount of threads at the beginning of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
-1. Open Wabbajack
-2. Click on `Browse Modlists`, and download Tales from the Northern Lands from the gallery.)
-3. Once the download is done set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Tales from the Northern Lands`). The downloads path should automatically fill in the installation path.
-4. Click the Go/Begin button
-5. Wait for Wabbajack to finish
+1. Select a folder for all the mods that need to be downloaded somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Tales from the Northern Lands/downloads` or `Modlists/Downloads`).
+2. Download all the mods [here](#manual-downloads) manually and put them in the folder created in step 1 (The reason for this is, that mods hosted on mega are prone to cause issues when installing and compiling modlists, and the manual download step for them during the installation sometimes doesn't work).
+3. Open Wabbajack
+4. Click on `Browse Modlists`, and download Tales from the Northern Lands from the gallery.)
+5. Once the download is done set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Tales from the Northern Lands`). The downloads path should be the one you created in step 1.
+6. Click the Go/Begin button
+7. Wait for Wabbajack to finish
 [Post-Installation](#how-to-launch-tales-from-the-northern-lands)
+
+##### Manual Downloads
+
+| Host | Mod                                    | Author                                                                           | Website                                   | Download                                                                              |
+|------|----------------------------------------|----------------------------------------------------------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------|
+| MEGA | Smooth Jump Stagger Animation          | [Smooth aka Skypia](https://www.nexusmods.com/skyrimspecialedition/users/433905) | [Website](https://smooths.tistory.com/23) | [Direct Download](https://mega.nz/file/5PxWBQga#jGc-JE1u8_QiZPnWNLIXvXKRNWgp1oTW3sgqTHY5eV8) |
+| MEGA | Extra Drawing Nemesis Free SE          | [Smooth aka Skypia](https://www.nexusmods.com/skyrimspecialedition/users/433905) | [Website](https://smooths.tistory.com/44) | [Direct Download](https://mega.nz/file/YKZAGDqZ#f2U6xmdd6mNFvN1XFQOYSxQpIbztDWWGYNfOf9jEpxk) |
+| MEGA | Smooth Combat Animation by Skill Level | [Smooth aka Skypia](https://www.nexusmods.com/skyrimspecialedition/users/433905) | [Website](https://smooths.tistory.com/18) | [Direct Download](https://mega.nz/file/4TJVGKjb#fLIBqEXkiV0g5SPuPtyrxqTi-HUai-S80sxOqj9r19w) |
+| MEGA | Smooth DAR Combat Dodge                | [Smooth aka Skypia](https://www.nexusmods.com/skyrimspecialedition/users/433905) | [Website](https://smooths.tistory.com/24) | [Direct Download](https://mega.nz/file/YGZHgaKY#nooCozaPDHlY2XAdrCbod4-frgSQGbVsBkSX-zgAqrc) |
 
 ##### Problems with Wabbajack
 
