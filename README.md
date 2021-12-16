@@ -154,7 +154,7 @@ Grab the latest release of Wabbajack from [here](https://www.wabbajack.org/#/) a
 The download and installation process can take a very long time depending on your system specs. Wabbajack will detect the optimal amount of threads at the beginning of the installation. To have the highest amount of threads and thus the fastest speed, it is advised to have the working folder on an SSD.
 
 1. Select a folder for all the mods that need to be downloaded somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Tales from the Northern Lands/downloads` or `Modlists/Downloads`).
-2. Download all the mods [here](#manual-downloads) manually and put them in the folder created in step 1 (The reason for this is, that mods hosted on mega are prone to cause issues when installing and compiling modlists, and the manual download step for them during the installation sometimes doesn't work).
+2. Download all the mods [here](#manual-downloads) manually and put them in the folder created in step 1 (The reason for this is, that mods hosted on mega are prone to cause issues when installing and compiling modlists, and the manual download step for them during the installation sometimes doesn't work or some files are just too big so they are likely to fail because of that and I had better chances of success downloading those files manually.).
 3. Open Wabbajack
 4. Click on `Browse Modlists`, and download Tales from the Northern Lands from the gallery.)
 5. Once the download is done set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Tales from the Northern Lands`). The downloads path should be the one you created in step 1.
@@ -164,12 +164,13 @@ The download and installation process can take a very long time depending on you
 
 ##### Manual Downloads
 
-| Host | Mod                                    | Author                                                                           | Website                                   | Download                                                                              |
-|------|----------------------------------------|----------------------------------------------------------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------|
-| MEGA | Smooth Jump Stagger Animation          | [Smooth aka Skypia](https://www.nexusmods.com/skyrimspecialedition/users/433905) | [Website](https://smooths.tistory.com/23) | [Direct Download](https://mega.nz/file/5PxWBQga#jGc-JE1u8_QiZPnWNLIXvXKRNWgp1oTW3sgqTHY5eV8) |
-| MEGA | Extra Drawing Nemesis Free SE          | [Smooth aka Skypia](https://www.nexusmods.com/skyrimspecialedition/users/433905) | [Website](https://smooths.tistory.com/44) | [Direct Download](https://mega.nz/file/YKZAGDqZ#f2U6xmdd6mNFvN1XFQOYSxQpIbztDWWGYNfOf9jEpxk) |
-| MEGA | Smooth Combat Animation by Skill Level | [Smooth aka Skypia](https://www.nexusmods.com/skyrimspecialedition/users/433905) | [Website](https://smooths.tistory.com/18) | [Direct Download](https://mega.nz/file/4TJVGKjb#fLIBqEXkiV0g5SPuPtyrxqTi-HUai-S80sxOqj9r19w) |
-| MEGA | Smooth DAR Combat Dodge                | [Smooth aka Skypia](https://www.nexusmods.com/skyrimspecialedition/users/433905) | [Website](https://smooths.tistory.com/24) | [Direct Download](https://mega.nz/file/YGZHgaKY#nooCozaPDHlY2XAdrCbod4-frgSQGbVsBkSX-zgAqrc) |
+| Host       | Mod                                    | Author                                                                           | Website                                                              | Download                                                                                              |
+|------------|----------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| MEGA       | Smooth Jump Stagger Animation          | [Smooth aka Skypia](https://www.nexusmods.com/skyrimspecialedition/users/433905) | [Website](https://smooths.tistory.com/23)                            | [Direct Download](https://mega.nz/file/5PxWBQga#jGc-JE1u8_QiZPnWNLIXvXKRNWgp1oTW3sgqTHY5eV8)          |
+| MEGA       | Extra Drawing Nemesis Free SE          | [Smooth aka Skypia](https://www.nexusmods.com/skyrimspecialedition/users/433905) | [Website](https://smooths.tistory.com/44)                            | [Direct Download](https://mega.nz/file/YKZAGDqZ#f2U6xmdd6mNFvN1XFQOYSxQpIbztDWWGYNfOf9jEpxk)          |
+| MEGA       | Smooth Combat Animation by Skill Level | [Smooth aka Skypia](https://www.nexusmods.com/skyrimspecialedition/users/433905) | [Website](https://smooths.tistory.com/18)                            | [Direct Download](https://mega.nz/file/4TJVGKjb#fLIBqEXkiV0g5SPuPtyrxqTi-HUai-S80sxOqj9r19w)          |
+| MEGA       | Smooth DAR Combat Dodge                | [Smooth aka Skypia](https://www.nexusmods.com/skyrimspecialedition/users/433905) | [Website](https://smooths.tistory.com/24)                            | [Direct Download](https://mega.nz/file/YGZHgaKY#nooCozaPDHlY2XAdrCbod4-frgSQGbVsBkSX-zgAqrc)          |
+| Nexus Mods | Cleaned Skyrim SE Textures             | [Kartoffel](https://www.nexusmods.com/skyrimspecialedition/users/6129887)        | [Website](https://www.nexusmods.com/skyrimspecialedition/mods/38775) | [Direct Download](https://www.nexusmods.com/skyrimspecialedition/mods/38775?tab=files&file_id=248251) |
 
 ##### Problems with Wabbajack
 
@@ -224,7 +225,8 @@ Pre-configured.
 
 ### Ultrawide Options
 
-Enable the mods in the 21x9 Patches category in ModOrganizer.
+Enable the mods in the `21x9 Patches` category in ModOrganizer.
+**I can't and won't guarantee that any widescreen resolution will work flawlessly. And want to stress that the intended way of play is standard widescreen 16:9.**
 
 ### Tweaking the Game Settings
 
