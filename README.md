@@ -11,6 +11,7 @@
   - [Preamble](#preamble)
   - [Screenshots](#screenshots)
   - [Installation](#installation)
+    - [Required Accounts](#required-accounts)
     - [Pre-Installation](#pre-installation)
       - [Installing Microsoft Visual C++ Redistributable Package](#installing-microsoft-visual-c-redistributable-package)
       - [Installing .NET 5.0](#installing-net-50)
@@ -68,6 +69,14 @@ I have moved all screenshots to this [page](SCREENSHOTSDISPLAY.md) to never be l
 To learn how to share your screenshots check the [Contibutng](#contiuting) section of this guide.
 
 ## Installation
+
+### Required Accounts
+
+| Website |Comment | Mandatory |
+|-|-|-|
+| [Nexus Mods](https://users.nexusmods.com/register) | Premium highly recommended for automated and faster downloads. | Yes |
+| [Vector Plexus](https://vectorplexus.com/register/) | A NSFW modding site, but the only source for the head mesh replacer used for Player Character Creation and the NPC Overhaul used. **Make sure to create an E-Mail account and do NOT use a social login, because WJ can't log you in if you use social login.** | Yes |
+| [MEGA](https://mega.nz/register/aff=SarImJUJMEM) | Works without an account as well but logged in uses have slightly higher download bandwidth per day. | No |
 
 ### Pre-Installation
 
@@ -156,13 +165,16 @@ The download and installation process can take a very long time depending on you
 1. Select a folder for all the mods that need to be downloaded somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Tales from the Northern Lands/downloads` or `Modlists/Downloads`).
 2. Download all the mods [here](#manual-downloads) manually and put them in the folder created in step 1 (The reason for this is, that mods hosted on mega are prone to cause issues when installing and compiling modlists, and the manual download step for them during the installation sometimes doesn't work or some files are just too big so they are likely to fail because of that and I had better chances of success downloading those files manually.).
 3. Open Wabbajack
-4. Click on `Browse Modlists`, and download Tales from the Northern Lands from the gallery.)
-5. Once the download is done set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Tales from the Northern Lands`). The downloads path should be the one you created in step 1.
-6. Click the Go/Begin button
-7. Wait for Wabbajack to finish
+4. Click on the settings icon and log in with your Nexus Mods and Vector Plexus Account. (Optionally MEGA as well.)
+5. Click on `Browse Modlists`, and download Tales from the Northern Lands from the gallery.)
+6. Once the download is done set the Installation folder to somewhere that is not affected by UAC (Please do not put it in Documents, Program Files, Desktop. Put it somewhere easy like `C:/Modlists/Tales from the Northern Lands`). The downloads path should be the one you created in step 1.
+7. Click the Go/Begin button
+8. Wait for Wabbajack to finish
 [Post-Installation](#how-to-launch-tales-from-the-northern-lands)
 
 ##### Manual Downloads
+
+It is absolutely required to manually download the files coming from MEGA, but the Nexus Mods files are only linked here, because they are likely to cause issues because of their size. The Vector Plexus File is listed for those that can't login to VP due their account being created with a social login.
 
 | Host       | Mod                                    | Author                                                                           | Website                                                              | Download                                                                                              |
 |------------|----------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
@@ -171,6 +183,9 @@ The download and installation process can take a very long time depending on you
 | MEGA       | Smooth Combat Animation by Skill Level | [Smooth aka Skypia](https://www.nexusmods.com/skyrimspecialedition/users/433905) | [Website](https://smooths.tistory.com/18)                            | [Direct Download](https://mega.nz/file/4TJVGKjb#fLIBqEXkiV0g5SPuPtyrxqTi-HUai-S80sxOqj9r19w)          |
 | MEGA       | Smooth DAR Combat Dodge                | [Smooth aka Skypia](https://www.nexusmods.com/skyrimspecialedition/users/433905) | [Website](https://smooths.tistory.com/24)                            | [Direct Download](https://mega.nz/file/YGZHgaKY#nooCozaPDHlY2XAdrCbod4-frgSQGbVsBkSX-zgAqrc)          |
 | Nexus Mods | Cleaned Skyrim SE Textures             | [Kartoffel](https://www.nexusmods.com/skyrimspecialedition/users/6129887)        | [Website](https://www.nexusmods.com/skyrimspecialedition/mods/38775) | [Direct Download](https://www.nexusmods.com/skyrimspecialedition/mods/38775?tab=files&file_id=248251) |
+| Nexus Mods | Unofficial High Definition Audio Project | [sharrken](https://www.nexusmods.com/skyrimspecialedition/users/4158519) | [Website](https://www.nexusmods.com/skyrimspecialedition/mods/18115) | <li>[Direct Download Voices EN Part 1](https://www.nexusmods.com/skyrimspecialedition/mods/18115?tab=files&file_id=57972)</li><li>[Direct Download Voices EN Part 2](https://www.nexusmods.com/skyrimspecialedition/mods/18115?tab=files&file_id=57857)</li> |
+| Nexus Mods | Kanjs - Borderlands Style Anniversary Edition Mega Pack | [Kanjs](https://www.nexusmods.com/skyrimspecialedition/users/4685594) | [Website](https://www.nexusmods.com/skyrimspecialedition/mods/60023) | [Direct Download](https://www.nexusmods.com/skyrimspecialedition/mods/60023?tab=files&file_id=248844) |
+| Vector Plexus | High Poly Head | KouLeifoh | [Website](https://vectorplexus.com/files/file/283-high-poly-head/) | You need to get `High_Poly_Head_v1.4_(SE).zip`|
 
 ##### Problems with Wabbajack
 
@@ -196,7 +211,7 @@ Windows 10 has started to auto-quarantine the usvfs_proxy_x86.exe file from the 
 
 Head over to the installation folder and locate an executable named `ModOrganizer.exe` and launch it. Once it's launched there will be a dropdown box on the top right and a big run button next to it. Ensure it is set to SKSE by selecting it in the dropdown box and then hitting the run button. Under the run button, you can find a shortcut menu that allows you to make a desktop shortcut.
 
-*If the game doesn't launch correctly check [this](#windows-is-reporting-that-a-virus-has-been-detected) and the [pre-installation steps](#pre-installation) as those are the most common issues besides a failed installation.*
+*If the game doesn't launch correctly check [this](#windows-is-reporting-that-a-virus-has-been-detected) and the [pre-installation steps](#pre-installation) as those are the solution for the most common issues besides an actually failed installation.*
 
 ![launch](readme_assets/images/Launch_MO2.webp)
 
@@ -215,7 +230,7 @@ Updating is like installing. You only have to make sure that you select the same
 ## Controls
 
 ![ControlLayout](readme_assets/images/ControlLayout.webp)
-[click here to create your own cheat-cheet, if you plan to change them.](http://www.keyboard-layout-editor.com/#/gists/bfbca895e59a1682798b219aec3db158)
+[click here to create your own cheat-sheet, if you plan to change them.](http://www.keyboard-layout-editor.com/#/gists/bfbca895e59a1682798b219aec3db158)
 
 ## In-Game MCM Options
 
@@ -286,13 +301,15 @@ You can just remove the MO2 folder and be done with it.
 - Kanjs for reviving the spirit of art-driven Skyrim Texture Overhauls.
 - Nem aka. Eggy aka. Osmosis-Wrench and JanuarySnow for both helping me make some custom edits to a few mods used in this list.
 - ALL the mod authors that made the mods featured in this list.
-- Special thanks to all the other people listed [here](https://eziothedeadpoet.github.io/AboutMe/HALLOFFAME.html) that support this and other projects of mine.
+- Special thanks to all the other people listed [here](https://eziothedeadpoet.github.io/AboutMe/HALLOFFAME.html) that support(ed) this and other projects of mine.
 
 ## Contact
 
-While I'm nearly always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/EzioTheDeadPoet/Tales-from-the-Northern-Lands/issues) (open **and** closed ones) on GitHub first if you have any problems. The same goes for _Enhancements_ or _Feature/Mod Requests_. **I WILL NOT PROVIDE SUPPORT FOR YOU IN DMs.**.
+While I'm nearly always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/EzioTheDeadPoet/Tales-from-the-Northern-Lands/issues) (open **and** closed ones) on GitHub and the pinned messages in the dedicated channel for this list on the Wabbajack server first if you have any problems.
 
-**DON'T CONTACT MOD-AUTHORS WITH ISSUES!!**
+**I WILL NOT PROVIDE SUPPORT FOR YOU IN DMs.**
+
+**DO NOT CONTACT MOD-AUTHORS WITH ISSUES!!**
 
 ## Contributing
 
