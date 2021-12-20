@@ -9,6 +9,7 @@
 - [Tales from the Northern Lands](#tales-from-the-northern-lands)
   - [Table of Contents](#table-of-contents)
   - [Preamble](#preamble)
+  - [Modlist](#modlist)
   - [Screenshots](#screenshots)
   - [Installation](#installation)
     - [Required Accounts](#required-accounts)
@@ -60,6 +61,10 @@ For the **gameplay** this list merges gameplay-changing mods mixed and chosen fr
 If you need a perfectly balanced list this 9999% isn't for you, I make sure that things work and that there are no big obvious exploits. I tried not to break the balance too much when I overhauled the way the inventory system worked, so I had to write code into the overhaul patcher to adjust the magic effects that affect those systems to keep it in line with my changes. But I won't micromanage Leveled Lists or nerf some of the crazy enchantments the generator will provide for this list. The end goal of this list is to be fun and not a challenge or torture. *(I removed only 2 enchantment types, bound weapon giving enchantments that had the risk of crashing the game when in NPC inventories, and press "wait" to get infinite money enchantments. Those are game-breaking issues in the literal and figurative way.)*
 
 I used my other list [SME(FT) - Skyrim Modding Essentials (Fixes & Tools)](https://eziothedeadpoet.github.io/SME-FT-/) as a baseline to create this. If you are interested in building your own setup or want a vanilla list just with fixes to test your mods feel free to try it out. (I am no longer active)
+
+## Modlist
+
+The list of mods can be found on [LoadorderLibrary](https://loadorderlibrary.com/lists/tales-from-the-northern-lands).
 
 ## Screenshots
 
