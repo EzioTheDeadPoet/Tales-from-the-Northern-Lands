@@ -96,6 +96,14 @@ I doubt you need to do this since you likely already have this installed. The pa
 |-|
 ||
 
+<div>
+  <table>
+    <tbody>
+    <tr>[Direct link](https://aka.ms/vs/16/release/vc_redist.x64.exe)</tr>
+    </tbody>
+  </table>
+</div>
+
 #### Installing .NET 5.0
 
 This is a needed dependency for mods used with this list.
