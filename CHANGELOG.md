@@ -3,9 +3,28 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 2.0.3
+
+**Removed**:
+
+- Combat Dodge (Deleted by Author, so no way to source it.)
+
+**Additions**:
+
+- A new camera mode for conversations.
+- Automated Quiver Hiding
+
+**Fixes**:
+
+- Minimap Showing in other menus (sadly forces to pause the game for those menus)
+- Broken Map Fixed
+- Fixed the Auto-walk key hiding parts of the UI (only for new saves, for existing ones go to the Immersive HUD MCM and set the hide-key to be the key shown in my keymap image on the readme.)
+
+I also updated a few mods that needed updating. And yes the way I will do changelog changes now.
+
 ## 2.0
 
-This Changelog is 100% Machine generated and has no guarantee for completeness.
+This Changelog is 100% Machine-generated and has no guarantee for completeness.
 
 **Build at:** `11. Dez.. 2021 18:43:40`
 
