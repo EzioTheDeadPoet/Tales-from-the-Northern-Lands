@@ -3,6 +3,38 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 2.1
+
+**Added:**
+
+- Stripped CGO (Jump Attacks ONLY)
+- Thaumaturgy - Enchanting Overhaul
+- Container Slot Restrictions (Mainly to Balance the previously exploitable infinite "container" storage when using the Follower Inventory added by Extensible Follower Overhaul. Followers still have 2 inventories their active NPC inventory they use for Equipment and said now balanced container.)
+- The Kids Are Alright Renewal
+  
+**Removed:**
+
+- Summermyst
+- RS Children and Realistic RS Children
+
+**Updated**:
+
+- ModOrganizer 2
+- various smaller mods
+
+**Other Changes:**
+
+- Fixed the UI placement of the Extensible Follower Framework widget.
+- Fixed the Dialogue Menu in conversations. (At the end of a Brawl you might still need to manually exit a "conversation" by pressing `ESC`)
+- Excluded Enchantments intended for Unique Relics from the RPG Loot Pool (Still needs confirmation through play-testing)
+
+## 2.0.5
+
+- altered some of the used NPC Overhauls (Old People look the part now)
+- updated a few mods
+
+**This is the last update BEFORE an update that will require a new save.**
+
 ## 2.0.3
 
 **Removed**:
