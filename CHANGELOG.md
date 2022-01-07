@@ -3,6 +3,20 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 2.1.1
+
+**General:**
+
+- Updated for game version 1.6.353
+
+**Added:**
+
+- Fishing Everywhere
+
+**Updated:**
+
+- minor mod updates
+
 ## 2.1
 
 **Added:**
