@@ -236,7 +236,8 @@ Updating is like installing. You only have to make sure that you select the same
 ## Controls
 
 ![ControlLayout](readme_assets/images/ControlLayout.webp)
-[click here to create your own cheat-sheet, if you plan to change them.](http://www.keyboard-layout-editor.com/#/gists/bfbca895e59a1682798b219aec3db158)
+
+[click here to create your cheat-sheet, if you plan to change them.](http://www.keyboard-layout-editor.com/#/gists/bfbca895e59a1682798b219aec3db158)
 
 ## In-Game MCM Options
 
