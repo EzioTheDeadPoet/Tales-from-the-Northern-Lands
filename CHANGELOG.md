@@ -3,6 +3,16 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 2.2
+
+**Removed:**
+
+- Better Telekinesis (Broke Vampire Lord Transformation with other mods in the list)
+
+**General:**
+
+- updated outdated mods
+
 ## 2.1.1
 
 **General:**
