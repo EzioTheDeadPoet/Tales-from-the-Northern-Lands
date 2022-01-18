@@ -3,6 +3,19 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 2.3
+
+**Changes:**
+
+- Redone the NPC Merge
+- Unpaused more menus (Had to make a mod to fix some minimap behavior that made me keep them paused before.)
+- Improved the Hide UI Key
+- Added a Keyboard Layout preview that you can open with `F10`
+- Updated a fair number of mods.
+
+**This update should work on version 2.2 saves, BUT since I am not 100% sure I still recommend starting a new one.**
+I had to regenerate some patchers which could result in some already spawned NPCs suddenly missing their equipment, it shouldn't but it could.
+
 ## 2.2
 
 **Removed:**
