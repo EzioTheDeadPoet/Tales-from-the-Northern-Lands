@@ -3,6 +3,20 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 2.3.1
+
+**Removed:**
+
+- Mod to un-equip quivers (Clashes with an recently added mod to display all favorite-ed equipment=
+
+**Changes:**
+
+- Crafted potions should now scale similar to found and bought potions. (At the very least the ingredients do now.)
+- Replaced the SkyRem Standing stone overhaul with Mundus by SimonMagus to fix an error in the modlist where the Warrior Stone would cause the damage values in the inventory to glitch out.
+- Set the journal menu to be paused (the pause menu).
+
+When Updating from a previous save (versions 2.2 and 2.3) you will get a notification about missing esps, which can be ignored.
+
 ## 2.3
 
 **Changes:**
