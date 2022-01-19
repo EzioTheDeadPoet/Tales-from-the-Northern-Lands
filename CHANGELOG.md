@@ -7,7 +7,7 @@ description: Here you can find a list of changes made during each update.
 
 **Removed:**
 
-- Mod to un-equip quivers (Clashes with an recently added mod to display all favorite-ed equipment=
+- Mod to un-equip quivers (Clashes with an recently added mod to display all favorite-ed equipment)
 
 **Changes:**
 
