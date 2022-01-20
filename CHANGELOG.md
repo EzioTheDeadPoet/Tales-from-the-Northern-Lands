@@ -3,6 +3,12 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 2.3.2
+
+**Updated:**
+
+- Magic Animations (Fix for an incompatibility with EVG Conditional Idles)
+
 ## 2.3.1
 
 **Removed:**
