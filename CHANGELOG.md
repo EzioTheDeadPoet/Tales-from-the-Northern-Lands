@@ -3,6 +3,13 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 2.3.3
+
+**Changes:**
+
+- New HUD
+- Updated Existing Mods
+
 ## 2.3.2
 
 **Updated:**
