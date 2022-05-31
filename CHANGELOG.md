@@ -3,6 +3,14 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 2.7.3 | 31.05.22
+
+removed `Shadowmark Labels` temporarily until an incompatibility with `Better Third Person Selection - BTPS` is fixed.
+
+## 2.4 - 2.7.2
+
+Only posted on discord and I honestly don't remember.
+
 ## 2.3.3
 
 **Changes:**
