@@ -101,8 +101,7 @@ So please make sure to install it to avoid any issues. Download the desktop app 
 
 [Direct Link Desktop](https://download.visualstudio.microsoft.com/download/pr/1daf85dc-291b-4bb8-812e-a0df5cdb6701/85455a4a851347de26e2901e043b81e1/windowsdesktop-runtime-5.0.12-win-x64.exe) | [Direct Link Console](https://download.visualstudio.microsoft.com/download/pr/28b0479a-2ca7-4441-97f2-64a3d64b2ea4/9995401dac4787a2d1104c73c4356f4d/dotnet-runtime-5.0.12-win-x64.exe)
 
-
-#### Steam Config
+### Steam Config
 
 ##### Game Location
 
@@ -312,7 +311,7 @@ You can just remove the MO2 folder and be done with it.
 
 ## Contact
 
-While I'm nearly always available on the [Wabbajack Discord](https://discord.gg/wabbajack), I would advise checking the [Issues](https://github.com/EzioTheDeadPoet/Tales-from-the-Northern-Lands/issues) (open **and** closed ones) on GitHub and the pinned messages in the dedicated channel for this list on the Wabbajack server first if you have any problems.
+While I'm nearly always available on the [Phoenix & Friends Discord](https://discord.gg/BpwXX5f), I would advise checking the [Issues](https://github.com/EzioTheDeadPoet/Tales-from-the-Northern-Lands/issues) (open **and** closed ones) on GitHub and the pinned messages in the dedicated channel for this list on the Wabbajack server first if you have any problems.
 
 **I WILL NOT PROVIDE SUPPORT FOR YOU IN DMs.**
 
