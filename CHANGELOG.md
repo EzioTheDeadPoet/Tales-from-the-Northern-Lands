@@ -3,6 +3,16 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+## 2.7.5 | 21.06.2022
+
+- Update to fix issues with progressing the Companions Questline (Mainly the inability to hit Vilkas)
+- And updated Animation mods to potentially address animation cause crashes (If Crashes continue, then the most suspicious mods will be fully removed)
+- Updated Pause after Load mod (should fix the other non animation crash on loading transitions)
+
+## 2.7.4
+
+Update to make the list installable after Vector Plexus outages
+
 ## 2.7.3 | 31.05.22
 
 removed `Shadowmark Labels` temporarily until an incompatibility with `Better Third Person Selection - BTPS` is fixed.
