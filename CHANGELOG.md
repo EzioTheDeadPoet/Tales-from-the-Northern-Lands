@@ -3,6 +3,14 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
+> **Note:** Changelogs might be updated before the actual update is released so manually check your version numbers!
+
+## 2.7.6 | 24.06.2022
+
+- added Racemenu Memory Leak Fix
+- removed shadowmark labels on every profile
+- updated some mods
+
 ## 2.7.5 | 21.06.2022
 
 - Update to fix issues with progressing the Companions Questline (Mainly the inability to hit Vilkas)
