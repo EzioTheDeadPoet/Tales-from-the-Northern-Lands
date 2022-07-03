@@ -1,16 +1,18 @@
 **Changelog:**\n\n
-[**Tales from the Northern Lands - Changelog**](https://eziothedeadpoet.github.io/SME-FT-/CHANGELOG.html)\n\n
+[**Tales from the Northern Lands - Changelog**](https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/CHANGELOG.html)\n\n
 **Support Me:**\n\n
 [**Patreon**](https://www.patreon.com/bePatron?u=40374890) or [**KoFi**](https://ko-fi.com/L4L12PVW6)\n
-and be featured in the [**Hall of Supporters**](https://eziothedeadpoet.github.io/AboutMe/#support-me)
+and be featured in the [**Hall of Supporters**](https://eziothedeadpoet.github.io/AboutMe/HALLOFFAME.html)
 
 ---
 
 **Changelog:**
 
-[**Tales from the Northern Lands - Changelog**](https://eziothedeadpoet.github.io/SME-FT-/CHANGELOG.html)
+https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/CHANGELOG.html
 
 **Support Me:**
 
-[**Patreon**](https://www.patreon.com/bePatron?u=40374890) or [**KoFi**](https://ko-fi.com/L4L12PVW6)
-and be featured in the [**Hall of Supporters**](https://eziothedeadpoet.github.io/AboutMe/#support-me)
+If you want to, on
+- **Patreon:** <https://www.patreon.com/bePatron?u=40374890>
+- **KoFi:** <https://ko-fi.com/L4L12PVW6>
+to be featured in the **Hall of Supporters:**https://eziothedeadpoet.github.io/AboutMe/HALLOFFAME.html
