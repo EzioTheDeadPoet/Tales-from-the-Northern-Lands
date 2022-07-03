@@ -5,6 +5,10 @@ description: Here you can find a list of changes made during each update.
 
 > **Note:** Changelogs might be updated before the actual update is released so manually check your version numbers!
 
+## 2.7.7 | 03.07.2022
+
+- fixed [Dark Face Bug](https://ck.uesp.net/wiki/Dark_Face_Bug) on Creation Club and mod added NPCs
+
 ## 2.7.6 | 24.06.2022
 
 - added Racemenu Memory Leak Fix
