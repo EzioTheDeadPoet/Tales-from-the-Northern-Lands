@@ -3,3 +3,14 @@
 **Support Me:**\n\n
 [**Patreon**](https://www.patreon.com/bePatron?u=40374890) or [**KoFi**](https://ko-fi.com/L4L12PVW6)\n
 and be featured in the [**Hall of Supporters**](https://eziothedeadpoet.github.io/AboutMe/#support-me)
+
+---
+
+**Changelog:**
+
+[**Tales from the Northern Lands - Changelog**](https://eziothedeadpoet.github.io/SME-FT-/CHANGELOG.html)
+
+**Support Me:**
+
+[**Patreon**](https://www.patreon.com/bePatron?u=40374890) or [**KoFi**](https://ko-fi.com/L4L12PVW6)
+and be featured in the [**Hall of Supporters**](https://eziothedeadpoet.github.io/AboutMe/#support-me)
