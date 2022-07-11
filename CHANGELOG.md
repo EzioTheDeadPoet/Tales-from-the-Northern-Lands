@@ -5,6 +5,17 @@ description: Here you can find a list of changes made during each update.
 
 > **Note:** Changelogs might be updated before the actual update is released so manually check your version numbers!
 
+## 2.8.0 | 12.07.2022
+
+**New Save Strongly Recommended:**  
+An old save will have missing armors and I can't guarantee that it won't crash.
+
+- removed Paraglider Mod
+  - it was frequently enough cause for support issues
+- fixed Black Face Bugs (hopefully all of them)
+- regenerated loot and enchantments due to removal of paraglider
+  - **reshuffles the enchanted loot deleting some armors and weapons from your game**
+
 ## 2.7.8 | 05.07.2022
 
 - added `Shadowmark Labels` since `Better Third Person Selection - BTPS` updated to fix the incompatibility (hopefully).
