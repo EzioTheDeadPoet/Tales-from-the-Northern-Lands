@@ -5,6 +5,10 @@ description: Here you can find a list of changes made during each update.
 
 > **Note:** Changelogs might be updated before the actual update is released so manually check your version numbers!
 
+## 2.8.2 | 05.08.2022
+
+- Fix RDO + Nobel Traveler Crash
+
 ## 2.8.1 | 12.07.2022 Hotfix
 
 - fixed world map bug caused by regenerating LODs
