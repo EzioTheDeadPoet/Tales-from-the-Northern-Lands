@@ -3,7 +3,10 @@ description: Here you can find a list of changes made during each update.
 ---
 # Changelog
 
-> **Note:** Changelogs might be updated before the actual update is released so manually check your version numbers!
+> **Note:**
+>
+> - Changelogs might be updated before the actual update is released so manually check your version numbers!
+> - Some minor versions that just recompiled with a new Game version might not appear in the changelog.
 
 ## 2.9.0 | 06.11.2022
 
