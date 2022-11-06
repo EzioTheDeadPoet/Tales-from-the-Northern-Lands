@@ -5,6 +5,13 @@ description: Here you can find a list of changes made during each update.
 
 > **Note:** Changelogs might be updated before the actual update is released so manually check your version numbers!
 
+## 2.9.0 | 06.11.2022
+
+**Requires fresh new save!**
+
+- remove to the accidentally added Creation Kit requirement for installing
+- fix falsely overwritten Race Character Stats
+
 ## 2.8.2 | 05.08.2022
 
 - Fix RDO + Nobel Traveler Crash
