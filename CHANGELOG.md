@@ -8,6 +8,20 @@ description: Here you can find a list of changes made during each update.
 > - Changelogs might be updated before the actual update is released so manually check your version numbers!
 > - Some minor versions that just recompiled with a new Game version might not appear in the changelog.
 
+## 2.10.0 | 31.01.2023
+
+**Requires fresh new save!**
+
+- removed Arachnomancer
+- updated Mysticism
+- updated Scion
+- updated Manbeast
+- updated Adamant
+- Updated Apothecary
+- updated Hand to Hand
+- updated Mundus
+- fixed crafted healing potions having 0 effects
+
 ## 2.9.0 | 06.11.2022
 
 **Requires fresh new save!**
