@@ -8,6 +8,12 @@ description: Here you can find a list of changes made during each update.
 > - Changelogs might be updated before the actual update is released so manually check your version numbers!
 > - Some minor versions that just recompiled with a new Game version might not appear in the changelog.
 
+## 2.10.2 | 04.02.2023
+
+**NOT SAVE SAVE IF YOU USED ANY PROFILE OTHER THAN (Balanced)**
+
+- fixed loadorder in other profiles being wrong.
+
 ## 2.10.1 | 03.02.2023
 
 - fixed missing other profiles
