@@ -8,6 +8,14 @@ description: Here you can find a list of changes made during each update.
 > - Changelogs might be updated before the actual update is released so manually check your version numbers!
 > - Some minor versions that just recompiled with a new Game version might not appear in the changelog.
 
+## 2.11.0 | 15.02.2023
+
+**Requires fresh new save!**
+
+- updated NPC merge
+- updated Audio Overhaul for Skyrim
+- rerun Synthesis
+
 ## 2.10.2 | 04.02.2023
 
 **NOT SAVE SAVE IF YOU USED ANY PROFILE OTHER THAN (Balanced)**
