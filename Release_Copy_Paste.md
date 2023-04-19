@@ -8,4 +8,3 @@ If you want to, on
 - [**KoFi**](https://ko-fi.com/L4L12PVW6)
 
 and you will be featured in the [**Hall of Supporters**](https://eziothedeadpoet.github.io/AboutMe/HALLOFFAME.html)!!
-\n
