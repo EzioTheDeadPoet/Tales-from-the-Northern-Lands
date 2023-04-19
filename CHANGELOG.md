@@ -8,6 +8,10 @@ description: Here you can find a list of changes made during each update.
 > - Changelogs might be updated before the actual update is released so manually check your version numbers!
 > - Some minor versions that just recompiled with a new Game version might not appear in the changelog.
 
+## 2.13.0 | 19.04.2023
+
+- Fixed Leadership Custom Skill Framework displayed Level
+
 ## 2.11.0 | 15.02.2023
 
 **Requires fresh new save!**
