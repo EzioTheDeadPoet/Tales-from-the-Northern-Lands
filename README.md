@@ -312,7 +312,7 @@ You can just remove the MO2 folder and be done with it.
 
 ## Contact
 
-While I'm nearly always available on the [Aetherius Modding Discord](https://discord.gg/aetherius-modding)), I would advise checking previous threads in the dedicated forum channel for this list on the discord server first if you have any problems.
+While I'm nearly always available on the [Aetherius Modding Discord](https://discord.gg/aetherius-modding), I would advise checking previous threads in the dedicated forum channel for this list on the discord server first if you have any problems.
 
 **I WILL NOT PROVIDE SUPPORT FOR YOU IN DMs.**
 
