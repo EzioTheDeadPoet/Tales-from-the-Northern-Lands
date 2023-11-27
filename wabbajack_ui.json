@@ -18,7 +18,7 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
-    "force_down": false,
+    "force_down": true,
     "links": {
       "image": "https://raw.githubusercontent.com/EzioTheDeadPoet/Tales-from-the-Northern-Lands/master/Cover/tfsh-banner.webp",
       "readme": "https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/",
