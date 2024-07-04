@@ -6,6 +6,7 @@
 ![version](https://img.shields.io/badge/dynamic/json?label=version&query=%24%5B%3F%28%40.links.machineURL%3D%3D%22TalesFromTheNorthernLands%22%29%5D.version&url=https%3A%2F%2Fraw.githubusercontent.com%2FEzioTheDeadPoet%2FTales-from-the-Northern-Lands%2Fmaster%2Fwabbajack_ui.json&style=for-the-badge)
 [![Discord](https://img.shields.io/discord/1132691434420576337?style=for-the-badge&label=Aetherius%20Modding)](https://discord.gg/aetherius-modding)
 
+**Development on this project is paused indefinitely. IF it ever returns it will be completely different.**
 
 ## Table of Contents
 
